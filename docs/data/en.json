@@ -1,0 +1,1321 @@
+{
+ "titulo": "Geosites of Chile",
+ "subtitulo": "A look at its geological wonders",
+ "lema": "“Geositios de Chile: una mirada a sus maravillas geológicas” (Geosites of Chile: A Look at Its Geological Wonders) is a book that seeks to share the extraordinary geological diversity and richness of our country. Geosites are small chapters of the vast and fascinating natural history of Chile and the planet. They are our heritage, and they must also be our legacy.",
+ "pie_portada": "view to the northwest of the Cerro Castillo geosite. The rock wall shows the different geological units that make it up, partly covered by snowfields or sediment. At the bottom, a glacial lake. Photo: Felipe Andrade A.",
+ "prologos": [
+  {
+   "titulo": "Foreword by the National Director of Sernageomin, Patricio Aguilera Poblete",
+   "texto": "An important part of our mission as the National Geology and Mining Service is to generate, maintain and disseminate information on basic geology and on the geological resources and hazards of the national territory, serving the country's development and the well-being and safety of the community. That is why this book, which describes and organizes part of our geological heritage, is consistent with our institutional mission. “Geosites of Chile, a look at its geological wonders” was born from the interest, effort and vision of Sernageomin's professionals to share with society the extraordinary geological diversity and richness of our country. Going through these pages and exploring each of the 49 geosites described will give us a new look at geological phenomena that have shaped and configured our territory, representing various processes that occurred during its geological evolution, from the Paleozoic era to the present, including aspects related to the origin and evolution of life on Earth. However, the importance of some of these places is not only due to the geoscientific knowledge we have about them: their links to historical events or ancestral knowledge, their well-known recreational or tourist use, or their role in supporting knowledge of diverse ecosystems throughout our country give them greater relevance and bring them closer to people and communities. We invite everyone to enjoy this book, which offers the chance to know, appreciate and value even more the diversity of our territory, and to raise awareness of how we occupy it and develop within it, especially at this stage of human evolution in which we face significant global changes that are increasingly frequent and severe. Finally, in a task shared with other institutions, above all the prestigious Geological Society of Chile, we hope this book will contribute to the recognition of these and other places relevant to the geosciences, which belong to the diverse and vast natural heritage of our country, and that it will therefore also help generate and activate the conservation measures they deserve."
+  },
+  {
+   "titulo": "Foreword by the President of the Geological Society of Chile, Millarca Valenzuela Picón",
+   "texto": "“Geosites of Chile, a look at its geological wonders” arrives at a critical moment for Chile, in the year when many families lost their homes, built in flood zones that had been dry for many years, along almost every river in south-central Chile, and with the shocking case of the sinkholes in the Concón Dunes, one of the geosites in this book. The climate crisis is already here, hitting us hard with material damage and loss of life that could be avoided if the whole chain of public and private institutions responsible for building understood that territories at high risk of disaster should not be used for that purpose, as technical agencies such as Sernageomin advise. These cases lead us to reflect that we need political leaders, business people and state officials who better understand the aspects of geoscience that affect society, and also citizens who know the territories they inhabit so they can live in them more safely. During my work in Sernageomin's Geoheritage Unit in 2018, I was in charge of the first steps toward this book, conceived as one of the first tasks under the framework agreement signed between Sernageomin and the Geological Society of Chile to collaborate on the geoheritage issues both institutions share. The aim was a book that would help spread the geological richness of the country, with emblematic sites that citizens could identify with (Morro de Arica, Cerro Dragón Dune, La Portada and others), but also more remote ones, to make them known and show how these places can tell small or great stories of planet Earth. The synoptic map of the geosites on the geological time chart included in the book, together with the geological context in which they all appear, offers a pleasant way to discover the stories each one tells, which in turn helps us better understand the geology of the places where we live, which have undergone incredible processes and transformations, leaving traces that we must then decipher. I invite you to enjoy and marvel at these magnificent representatives of the more than 500 geosites currently in the repositories of Sernageomin, the Geological Society of Chile and other institutions, which we hope will keep growing and raising awareness of the territory that nourishes our lives, so that we can enjoy it and also make better decisions about how to live in it."
+  }
+ ],
+ "sitios": {
+  "g01": {
+   "nombre": "Lauca River Valley Cathedral",
+   "region_txt": "Arica y Parinacota Region",
+   "interes": "geomorphological",
+   "valor": "recreational",
+   "altitud": "4,170 m a.s.l.",
+   "parrafos": [
+    "The Lauca River Valley Cathedral geosite lies just over 7.8 km west of the village of Ancuta, in Parinacota Province. The most direct way to reach it, however, is to head south from kilometer 158 of international route CH-11 (12 km before Chucuyo), along route A-235 to Misitune, and then continue south on route A-245 to about 1.5 km before the junction with route A-243, where a turn-off leads closer to the geosite.",
+    "This geosite is an amphitheater-shaped section of the valley where, from the Pleistocene to the present, erosion has sculpted striking pillar-like structures. They formed through intense runoff over slopes made of a series of lake sediment layers of varying thickness and different shades of brown, interbedded with whitish layers of volcanic ash. This whole sequence of sediments and ash is grouped into the so-called Lauca Formation, dated between 6.2 and 2.6 million years ago, spanning the Late Miocene to Late Pliocene."
+   ],
+   "pies": [
+    "Top: view west of the village of Ancuta near the Lauca River Valley Cathedral geosite, Arica y Parinacota Region. Bottom: the Lauca River Valley Cathedral geosite. On the right, brown and ochre layers of lake sediments and whiter layers of volcanic ash. In the background, among clouds, Guallatiri volcano. Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g01.mp3",
+    "dur": 72.1,
+    "marcas": [
+     0.0,
+     4.75,
+     39.1
+    ]
+   }
+  },
+  "g02": {
+   "nombre": "Morro de Arica",
+   "region_txt": "Arica y Parinacota Region",
+   "interes": "petrological - geomorphological",
+   "valor": "cultural",
+   "altitud": "130 m a.s.l.",
+   "parrafos": [
+    "The Morro de Arica geosite is a coastal hill about 280 m high at the southern end of the city of Arica. Declared a National Monument on October 6, 1971, it marks the northern end of the Coastal Range in Chile and the beginning of the coastal cliff. Its rocks, assigned to the Camaraca Formation, are the oldest in Arica Province and, based on their fossils, date to the Middle Jurassic, roughly 170 to 163 million years ago.",
+    "The cliff, the result of uplift and erosion during the Pleistocene to the present, exposes a sequence of layers gently tilted to the east (15-20°), made up mainly of andesitic lavas interbedded with fossil-bearing marine sedimentary rocks. The whole sequence formed in a shallow marine environment, as shown by its fossils: bivalves, ammonites, echinoderms, corals and brachiopods, all marine organisms of shallow waters.",
+    "The source of the volcanic material lay close to the coast, as shown by rapid-cooling structures formed when the lava came into contact with seawater. Lavas with these structures are called pillow lavas because of their oval shapes, and they can be seen with the naked eye in the rocks of the Morro.",
+    "This geosite is the main symbol of the city and is visited by many tourists every year, both for its panoramic view of the city and nearby beaches and for its historical significance."
+   ],
+   "pies": [
+    "View north-northeast of the city of Arica from the Morro de Arica geosite. Photo: Natalia Espina L., Sernageomin.",
+    "Top: general view south of the Morro de Arica. Source: © Photographic Archive of the National Monuments Council, 2008. Photo: Karina Sánchez V.",
+    "Bottom: pillow lava structures in the middle of the western slope of the Morro de Arica, notable for their rough texture and oval shapes. Photo: Guillermo López A., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g02.mp3",
+    "dur": 92.0,
+    "marcas": [
+     0.0,
+     3.98,
+     34.85,
+     64.13,
+     80.74
+    ]
+   }
+  },
+  "g03": {
+   "nombre": "Amuyo Lagoons",
+   "region_txt": "Arica y Parinacota Region",
+   "interes": "geomorphological - geothermal",
+   "valor": "cultural",
+   "altitud": "3,700 m a.s.l.",
+   "parrafos": [
+    "The Amuyo lagoons, near the village of Camiña, are the surface expression of a deep hydrothermal system in which high-temperature fluids circulate through highly permeable volcanic rocks of the Oxaya Formation, of Oligocene-Miocene age. This circulation dissolves certain minerals in those rocks and increases the salinity and the concentration of some elements and compounds in the fluids.",
+    "The rise of these fluids and the constant precipitation of salts during the Middle Miocene to the present have formed hot-spring rocks: thick crusts of very striking colors that give the lagoons their name. Depending on the fluid composition, the crusts can be yellowish-green, if rich in the mineral orpiment, or orange-red, if realgar is abundant. The continuous build-up of crusts has formed a dome about 400 m across that rises some 15 m above the Caritaya River.",
+    "These extreme and unique environments also host bacterial colonies that tolerate the lagoons' high temperatures and salt concentrations (the Red Lagoon reaches a maximum of 57 °C measured at 11 m depth). These bacterial communities, called thermophiles because of their tolerance to heat, build organic structures known as stromatolites and thrombolites. Since such organisms have existed on Earth for about 3,500 million years, studying the colonies at this geosite is key to understanding the origin and development of life on Earth and the possibility of extraterrestrial life.",
+    "Because of the unusual colors of their waters and deposits, their striking shape and their contrast with the dull surroundings, these lagoons are a ritual space for Indigenous communities, which has given rise to rich stories and imagery about them, and they are also a major local tourist attraction."
+   ],
+   "pies": [
+    "Top: view east of the red lagoon of Amuyo, Arica y Parinacota Region. Bottom: view east of the red lagoon, showing the salt crusts of different colors that give the lagoons of this geosite their hues. Photo: Francisco Munita Y."
+   ],
+   "audio": {
+    "src": "audio/en/g03.mp3",
+    "dur": 112.2,
+    "marcas": [
+     0.0,
+     4.22,
+     27.53,
+     57.0,
+     94.85
+    ]
+   }
+  },
+  "g04": {
+   "nombre": "Cerro Dragón Dune",
+   "region_txt": "Tarapacá Region",
+   "interes": "geomorphological - sedimentological",
+   "valor": "cultural",
+   "altitud": "289 m a.s.l.",
+   "parrafos": [
+    "The Cerro Dragón dune, declared a Nature Sanctuary in 2005, is one of the most important and striking landforms in the arid landscapes of northern Chile. This coastal dune sits at the southern end of a narrow, rocky marine terrace, averaging about 52 m a.s.l., bounded to the east by a coastal cliff some 500 m high, and on which the city of Iquique has developed.",
+    "About 4 km long and between 150 and 550 m wide, it stands out for its sharp, elongated and winding summit ending in a high, pointed crest. These features are precisely what make it look like a reclining dragon. Today the dune has no active source of sand, such as a beach, so it is classified as fossil or relict.",
+    "It has been proposed that it originated during the Last Glacial Maximum, about 20,000 years ago in the Late Pleistocene, when sea level was some 100 m lower than today and exposed a platform about 5 km wide, whose sediments would have supplied the sand to build the dune.",
+    "Despite being a protected area, the urban growth of Iquique has endangered the integrity and very existence of the Cerro Dragón dune. Real-estate pressure, sand extraction for construction and recreational activities have fragmented the dune and degraded its original natural landforms."
+   ],
+   "pies": [
+    "Top: view northwest of the Cerro Dragón Dune and the city of Iquique. Bottom: view south of the dune, with its sharp, winding crest in the center; on the left, the imposing coastal cliff about 500 m high, and on the right, Iquique on the coastal platform. Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g04.mp3",
+    "dur": 88.3,
+    "marcas": [
+     0.0,
+     3.31,
+     29.3,
+     52.75,
+     69.84
+    ]
+   }
+  },
+  "g05": {
+   "nombre": "Pintados Salt Flat and Geoglyphs",
+   "region_txt": "Tarapacá Region",
+   "interes": "hydrogeological - mineralogical",
+   "valor": "cultural",
+   "altitud": "978 m a.s.l.",
+   "parrafos": [
+    "The Pintados salt flat, 47 km south of Pozo Almonte, lies within the Pampa del Tamarugal National Reserve, created in 1988. It is located where the Central Depression meets the Coastal Range, at the northern end of the Pampa del Tamarugal. It is a fossil or inactive salt flat, since it receives no recharge from surface streams, and its age spans the Pleistocene-Holocene, from about 2.6 million years ago to the present.",
+    "The salt flat is made of salt crusts and minor amounts of fine sediment. The most common salts are sulfates (gypsum, anhydrite), carbonates, nitrates and halides (common salt), forming a surface crust disconnected from the deep groundwater. Chemical analyses of this groundwater show a predominance of sulfates and sodium, although in some areas chloride or bicarbonate, and magnesium or calcium, also prevail, especially toward the southwest of the salt flat.",
+    "On the eastern slopes of the Coastal Range, in the central-western part of the salt flat, are the Pintados geoglyphs, declared a Historic Monument in 1969. They include about 450 figures over 50,000 m2 along a 3 km stretch. They were made by pre-Hispanic peoples between 700 and 1500 AD, mostly by removing surface material to create contrast with the natural rock surface.",
+    "An interpretation center here provides information about the geoglyphs and the archaeological finds related to the pre-Hispanic peoples."
+   ],
+   "pies": [
+    "View west of the rough crust of the Pintados salt flat, with the interpretation center and the slopes bearing the geoglyphs. Photo: Felipe Fuentes C., Sernageomin.",
+    "Top: view west of the Pintados geoglyphs.",
+    "Bottom: gypsum layer in the salt crust near the interpretation center.",
+    "Photos: Felipe Fuentes C., Sernageomin"
+   ],
+   "audio": {
+    "src": "audio/en/g05.mp3",
+    "dur": 100.3,
+    "marcas": [
+     0.0,
+     4.61,
+     34.61,
+     64.58,
+     92.23
+    ]
+   }
+  },
+  "g06": {
+   "nombre": "Los Puquios of the Llamara Salt Flat",
+   "region_txt": "Tarapacá Region",
+   "interes": "hydrogeological - mineralogical",
+   "valor": "scientific",
+   "altitud": "754 m a.s.l.",
+   "parrafos": [
+    "Some 43 km north of the village of Quillagua, in a low-lying part of the Llamara salt flat, there are two lagoons, called puquios in the Quechua language, where groundwater emerges. The salt crust, of Pleistocene-Holocene age (from about 2.6 million years ago to the present), is made of various minerals, mainly gypsum, calcite and halite, consistent with the chemical analyses of the puquio brines. These show a predominance of dissolved chloride and sodium ions, as well as high concentrations of arsenic and boron.",
+    "Their location in the Atacama Desert, where the highest solar radiation on the planet is recorded, and their exposure to it cause these lagoons to have very high evaporation rates. They also host two complex communities of microorganisms: microbial mats and evaporitic domes, both made of gypsum salts and microorganisms that thrive under extreme environmental conditions.",
+    "The Llamara salt flat is one of the few places in Chile with this type of microbial community, and it has been studied from biological, hydrogeological and hydrogeochemical perspectives. These studies provide valuable information about life in extreme environments, shedding light on the origin of life on Earth. Today the salt flat's groundwater is exploited by the Sociedad Química y Minera de Chile (SQM) and is subject to a monitoring and early-warning plan so that extraction does not harm water levels in the puquios."
+   ],
+   "pies": [
+    "Top: view west of Los Puquios of the Llamara Salt Flat from a boardwalk viewpoint, with an information panel about the salt flat and the puquios in the foreground. Bottom: microbial mat at the geosite. Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g06.mp3",
+    "dur": 94.1,
+    "marcas": [
+     0.0,
+     4.56,
+     38.5,
+     61.66
+    ]
+   }
+  },
+  "g07": {
+   "nombre": "El Tatio Geysers",
+   "region_txt": "Antofagasta Region",
+   "interes": "geothermal",
+   "valor": "cultural",
+   "altitud": "4,290 m a.s.l.",
+   "parrafos": [
+    "El Tatio is the most important and emblematic geothermal field in Chile and Latin America, and the third most important in the world, for its geological and hydrothermal features as well as its history and development. The field lies in the high Andes of the Antofagasta Region, at 4,290 m a.s.l., 65 km northeast of San Pedro de Atacama and 7 km from the border with Argentina.",
+    "It has many hydrothermal features, such as hot pools, boiling mud pots, fumaroles and hot springs. However, it is its geysers, or hydrothermal eruptions, that give this geosite its importance, as they represent 8% of all such features worldwide. The cyanobacteria colonies associated with the extensive siliceous sinter deposits also add great value to the world's geobiological heritage, making this field a unique place to study and understand the origin and evolution of life.",
+    "Its geothermal origin is linked to highly permeable volcanic rocks at depth, the Río Salado Ignimbrite and the Puripicar Ignimbrite, of Late Miocene (9 million years) and Early Pliocene (4.3 million years) age respectively, and to geological structures that formed a trap, or reservoir, in these rocks. This created a system in which fluids accumulate and circulate at high temperatures, reaching 280 °C at depth and 86 °C at the surface, at 4,200 m a.s.l. These hot fluids come from the Pastos Grandes and Cerro Guacha volcanic calderas, in Bolivian territory.",
+    "Because of its characteristics, El Tatio is regarded by the Atacameño and Quechua Indigenous communities as a sacred ceremonial site, a place where inner energies gather and through which the Earth expresses the fullness of life."
+   ],
+   "pies": [
+    "View east of the geysers, the episodic hydrothermal eruptions typical of the El Tatio geothermal system. Photo: Daniela Montecinos C.",
+    "Top: a thermal feature where a jet of water and gas bursts from inside the Earth.",
+    "Bottom: close-up of a siliceous sinter deposit with a filament texture, linked to colonies of thermophilic bacteria that feed on sulfur and become trapped in the forming silica crust. This type of biogenic deposit is also called a microbialite.",
+    "Photos: Flaviu Petru C."
+   ],
+   "audio": {
+    "src": "audio/en/g07.mp3",
+    "dur": 119.7,
+    "marcas": [
+     0.0,
+     3.29,
+     31.85,
+     63.77,
+     104.86
+    ]
+   }
+  },
+  "g08": {
+   "nombre": "La Portada",
+   "region_txt": "Antofagasta Region",
+   "interes": "geomorphological",
+   "valor": "recreational",
+   "altitud": "50 m a.s.l.",
+   "parrafos": [
+    "La Portada, one of the symbols of the city and region of Antofagasta, is a national tourist attraction declared a Natural Monument on April 3, 1990, for its spectacular scenery and biodiversity. It comprises an active cliff, beaches, islets, caves and sea arches; the largest arch is the most striking and gives the place its name.",
+    "The cliff and arches have been carved mainly in layers of sedimentary rock of the La Portada Formation, which formed by sedimentation in a sea that existed from the Middle Miocene to the Pliocene, roughly 14 to 2.5 million years ago. Judging by the fossils in these rocks (mollusks and foraminifera and, to a lesser extent, fragments of fish, birds and cetaceans), they formed in warm-temperate waters no deeper than 200 m.",
+    "Below them, visible in the coastal rocks and at the base of the cliff and arches, are rocks of the La Negra Formation, produced by volcanic activity in the area during the Jurassic, between 180 and 143 million years ago.",
+    "During the Pleistocene, tectonic forces uplifted these rocks, exposing them to wave erosion and, to a lesser extent, wind, and causing rockfalls in the sedimentary layers. The constant action of these processes has sculpted the coastal cliff and its striking arches, which exist because the sedimentary rocks forming them resist the waves less than the volcanic rocks at their base.",
+    "The geosite is well preserved and easy to access, with viewpoints, a trail and a site museum. Access to the trail and the beach is restricted because of the risk of rockfall from the cliff, which keeps retreating slowly and steadily."
+   ],
+   "pies": [
+    "Top: view southeast of La Portada and part of the coastal cliff, with the city of Antofagasta in the background. Photo: Renate Wall Z. Bottom: view southeast of the geosite. On the left, the cliff shows dark volcanic rocks at its base and, above them, light-colored fossil-bearing sedimentary layers. Photo: Marcela Ávalos V."
+   ],
+   "audio": {
+    "src": "audio/en/g08.mp3",
+    "dur": 109.3,
+    "marcas": [
+     0.0,
+     2.81,
+     27.19,
+     55.15,
+     70.25,
+     94.37
+    ]
+   }
+  },
+  "g09": {
+   "nombre": "Monturaqui Impact Crater",
+   "region_txt": "Antofagasta Region",
+   "interes": "exogeological - geomorphological",
+   "valor": "scientific",
+   "altitud": "3,060 m a.s.l.",
+   "parrafos": [
+    "This geosite is in the Lila hills, in the Sierra de Almeida, about 20 km south of the Salar de Atacama. Discovered in 1962 from aerial photographs, it is the only confirmed meteorite impact structure in Chilean territory and one of the few recognized in South America. It is also one of the best-preserved impact structures for its age, making it a natural laboratory for studying simple impact craters. From the crater there is a privileged panoramic view of the Andes to the east, the Salar de Atacama to the north, and nearby ravines with a rich high-Andean flora that adds to the scenic beauty.",
+    "The crater is semicircular, with an average diameter of 360 m and a maximum depth of 34 m. The meteorite that formed it is estimated to have struck 500,000 to 700,000 years ago, in the Middle Pleistocene, at a probable speed of 15 km/s, with a mass of 9,870 tonnes and a diameter of 13.4 m. The impact would have released energy comparable to 2.2 atomic bombs like the one dropped on Hiroshima.",
+    "Both the remains of the iron meteorite and the impact structures produced by its fall (impactites) have been removed during many tourist and scientific expeditions without any regulation or oversight, losing valuable information about this event. In addition, a lack of awareness of the scientific value of this geosite has led some visitors to drive into the crater, rapidly damaging its walls."
+   ],
+   "pies": [
+    "Top: satellite view of the Monturaqui Impact Crater. SkySat image, RGB 3-2-1 (natural color). Source: Monturaqui Crater, Antofagasta Region, Chile, Mar 21, 2023. Planet Labs PBC. All rights reserved. © 2023; Esri, Chile. Bottom: view of the eastern side of the crater. Photo: Flaviu Petru C."
+   ],
+   "audio": {
+    "src": "audio/en/g09.mp3",
+    "dur": 100.0,
+    "marcas": [
+     0.0,
+     3.74,
+     42.53,
+     75.05
+    ]
+   }
+  },
+  "g10": {
+   "nombre": "Orbicular Tonalite",
+   "region_txt": "Atacama Region",
+   "interes": "petrological",
+   "valor": "recreational",
+   "altitud": "2 m a.s.l.",
+   "parrafos": [
+    "This geosite is an intrusive rock called tonalite with an unusual and fascinating spotted appearance, of great beauty and scientific interest, which is why it was declared a Nature Sanctuary in 1981. It is a small rock outcrop no more than 2 m high on Rodillo beach, 11 km north of the city of Caldera, with direct access, parking and a rest area.",
+    "The striking texture of this rock, part of an intrusive body called the Relincho Pluton, between 195 and 180 million years old (Early Jurassic), comes from a series of spheres averaging 6 cm across, called orbicules, formed by a particular arrangement of minerals as the magma cooled and crystallized. Orbicular rocks are rare and diverse, with only about a hundred described worldwide. The Antofagasta Region has two other examples, the Quebrada Las Ánimas Diorite and a granodiorite in the Lila range, but neither is as spectacular as the orbicular tonalite of Caldera.",
+    "The orbicules consist of a core and a shell. The core is a rock called quartz diorite, around which a shell of radially oriented minerals crystallized, including plagioclase, clinopyroxene and amphibole, which get smaller outward, giving way to a rim dominated by dark crystals. Finally, tangentially arranged minerals close off and separate the orbicule from the granodiorite that crystallized between the orbicules, which also contains large crystals of potassium feldspar and mica.",
+    "Its location, exposed to the waves and occasional vandalism, makes it a very vulnerable geosite, even more so since the passing of Don Hipólito Avalos, its lone caretaker for about 20 years."
+   ],
+   "pies": [
+    "Top: handmade sign calling for the appreciation and conservation of the Orbicular Tonalite, made by students of Colegio Caldera. Photo: Natalia Espina L., Sernageomin.",
+    "Top: view west of the orbicular tonalite. The spotted look comes from about 196 orbicules per square meter.",
+    "Bottom: the orbicules consist of a dioritic core and a dark, partly radial shell. Between them is granodiorite with pale pink potassium feldspar.",
+    "Photos: Natalia Espina L., Sernageomin"
+   ],
+   "audio": {
+    "src": "audio/en/g10.mp3",
+    "dur": 111.8,
+    "marcas": [
+     0.0,
+     3.19,
+     27.48,
+     66.31,
+     98.06
+    ]
+   }
+  },
+  "g11": {
+   "nombre": "Los Dedos Paleontological Park",
+   "region_txt": "Atacama Region",
+   "interes": "paleontological - stratigraphic",
+   "valor": "educational",
+   "altitud": "45 m a.s.l.",
+   "parrafos": [
+    "This 370-hectare municipal park lies 6 km southwest of Bahía Inglesa and was declared a national public-use asset in 2007. It mainly exposes marine sedimentary rocks of the Bahía Inglesa Formation (Middle Miocene-Pliocene), and in particular a sub-unit known as Mina Fosforita, of Late Miocene age, about 7 million years old. These layers are notable for their high phosphate content and an impressive abundance of vertebrate fossils, which is why they are also called a bone bed.",
+    "The fossils of Los Dedos are the most studied in this formation, although most are scattered and fragmented. More than 70 fossil vertebrate species have been identified in the Mina Fosforita sub-unit, including cartilaginous fish (sharks, rays and chimaeras), bony fish, crocodiles, seabirds (penguins, albatrosses, boobies, cormorants, petrels, pelagornithids), marine mammals (whales, dolphins, sperm whales, seals, dugongs and marine sloths) and land mammals (capybaras).",
+    "Among the sharks, the teeth of Carcharocles megalodon stand out for their size, reaching more than 15 cm. This fauna is joined by microscopic protozoa (foraminifera), invertebrates (mollusks and echinoderms) and plant remains. Because of their abundance of vertebrate fossils, scientists have described these layers as an example of an \"exceptional deposit\" (Fossil-Lagerstätte)."
+   ],
+   "pies": [
+    "View north of Los Dedos Paleontological Park, with fossil-bearing rock layers and the park's trails in the foreground. Photo: Natalia Espina L., Sernageomin.",
+    "Top: along the trails you can see layers of the Bahía Inglesa Formation with abundant fossils visible to the naked eye.",
+    "Photos: Natalia Espina L., Sernageomin"
+   ],
+   "audio": {
+    "src": "audio/en/g11.mp3",
+    "dur": 97.1,
+    "marcas": [
+     0.0,
+     4.34,
+     38.26,
+     71.23
+    ]
+   }
+  },
+  "g12": {
+   "nombre": "Quebrada Pinte Sandstones and Limestones",
+   "region_txt": "Atacama Region",
+   "interes": "stratigraphic - paleontological",
+   "valor": "scientific",
+   "altitud": "1,450 m a.s.l.",
+   "parrafos": [
+    "This geosite, 12 km east of the village of El Tránsito, stands out for its spectacular orange to yellowish-brown rock layers. They are part of a sequence of sedimentary rocks, sandstones and limestones, belonging to the Lautaro Formation, which is rich in fossils. This unit dates from the Early to Middle Jurassic, 190 to 170 million years ago, when this area and much of what is now southern South America lay under the sea. These sedimentary rocks also crop out in Quebrada La Totora and the Copiapó River valley, north of Quebrada Pinte.",
+    "Among the marine invertebrate fossils are well-preserved brachiopods (rhynchonellids and terebratulids), gastropods (genus Lithotrochus), bivalves, crinoids and ammonites (Fanninoceras, Phymatoceras, Peydelia), which together are typical of the Early Jurassic. A collection of some of these fossils and rocks can be seen at Don Gabito's site museum, inside the ravine."
+   ],
+   "pies": [
+    "View northeast of Quebrada Pinte. The red and yellow strata are fossil-bearing sandstones and limestones of the Lautaro Formation. Photo: Felipe Coloma B., Sernageomin.",
+    "Top: view east of Lautaro Formation strata, tilted 70° to the west. Photo: Felipe Coloma B., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g12.mp3",
+    "dur": 66.2,
+    "marcas": [
+     0.0,
+     4.92,
+     41.98
+    ]
+   }
+  },
+  "g13": {
+   "nombre": "Pichasca Paleontological Site",
+   "region_txt": "Coquimbo Region",
+   "interes": "paleontological - stratigraphic",
+   "valor": "educational",
+   "altitud": "760 m a.s.l.",
+   "parrafos": [
+    "Pichasca Natural Monument, declared in 1969, is in the Hurtado River valley, 56 km north of Ovalle and 2 km from the village of San Pedro de Pichasca. It is rich in fossils, notably petrified araucaria trunks (Araucarioxylon pichasquensis) and the bones of titanosaurs (Antarctosaurus wichmannianus), a dinosaur 18 m long. Teeth and bones of sauropods and theropods have also been found, along with fragments of turtle shells, bivalves and gastropods. All these fossils are from the Late Cretaceous and occur in rocks of the Quebrada La Totora Strata, about 86 million years old.",
+    "There is also great archaeological wealth from the Molle culture, whose people lived here about 9,000 years ago. Arrowheads, rock paintings, basketry and food remains have been found in the rock shelter known as Casa de Piedra, a cave 10 m deep, about 80 m long and between 2 and 5 m high. The shelter formed because the rocks here resist weathering to different degrees. The cave roof is a nearly horizontal intrusive rock called a sill, much more resistant than the sedimentary rocks beneath it. This intrusive rock also shows column-shaped fractures formed as the magma cooled and solidified, called columnar jointing."
+   ],
+   "pies": [
+    "Top left: replica of a titanosaur (Antarctosaurus wichmannianus), whose fossil bones were found at this site. Top right: replica of a person of the Molle culture, whose people occupied this cave about 9,000 years ago. Bottom: view north of Casa de Piedra. The cave's rock overhang is an intrusive sill, more resistant to weathering than the sedimentary rocks below it. Photo: Felipe Fuentes C., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g13.mp3",
+    "dur": 88.8,
+    "marcas": [
+     0.0,
+     4.3,
+     48.14
+    ]
+   }
+  },
+  "g14": {
+   "nombre": "Fray Jorge National Park Coastline",
+   "region_txt": "Coquimbo Region",
+   "interes": "geomorphological",
+   "valor": "environmental",
+   "altitud": "25 m a.s.l.",
+   "parrafos": [
+    "Fray Jorge National Park lies in the Coastal Range, 62 km west of Ovalle and about 90 km south of La Serena. Covering 143,000 hectares, it was declared a National Park in 1977 because of plant species typical of southern Chile (hygrophilous forest trees such as olivillo and canelo), which survive here thanks to the moisture from coastal fog (camanchaca).",
+    "The park's coastline stands out for its terraced landforms. These terraces formed as waves wore down granitic intrusive rocks of Late Triassic age (213-201 million years), of the Altos de Talinay Plutonic Complex, and Early Pliocene sedimentary deposits about 5 million years old, which is why they are called marine abrasion terraces.",
+    "The existence of at least five terrace levels along the coast of the Coquimbo Region records changes in mean sea level and the uplift of the Coastal Range over the last 2.6 million years (Pleistocene-Holocene). On the park's southern coast, especially at the mouth of the Limarí River, three of these terrace levels can be seen north and south of the estuary; they have been dated to 321,000 years (T2), 122,000 years (T4) and 6,000 years for the lowest and youngest (T5), at 10 m a.s.l., spanning the Pleistocene-Holocene."
+   ],
+   "pies": [
+    "Top: marine abrasion terraces on the coast of Fray Jorge National Park, from the mouth of the Limarí River northward. Terraces are marked with a horizontal line and the letter T with their level number. Bottom: mouth of the Limarí River, showing the estuary and the terraces continuing south. Photo: Felipe Fuentes C., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g14.mp3",
+    "dur": 87.6,
+    "marcas": [
+     0.0,
+     4.27,
+     30.79,
+     53.28
+    ]
+   }
+  },
+  "g15": {
+   "nombre": "Quereo Dunes",
+   "region_txt": "Coquimbo Region",
+   "interes": "geomorphological - paleontological",
+   "valor": "cultural",
+   "altitud": "100 m a.s.l.",
+   "parrafos": [
+    "The Quereo dunes lie 2 km south of Los Vilos, between the coastline and the foothills of the Coastal Range. Some areas are still active thanks to wind-blown sand from the beaches, although their origin goes back to the Late Pleistocene, probably more than 30,000 years ago.",
+    "Buried beneath them, these dunes preserve many paleontological and archaeological remains that give this geosite a unique heritage value. They include abundant extinct fauna such as artiodactyls, mylodons and gomphotheres, between 8,000 and 30,000 years old (Pleistocene-Holocene). Archaeological remains show that the area was inhabited by hunter-gatherers at least 13,000 years ago, in the Late Pleistocene, offering important clues about the early peopling of the Americas.",
+    "On the edge of this geosite, just north of Quebrada Quereo, human skeletal remains were found that are the oldest dated so far in South America, about 12,000 years old. The Quereo dunes link the story of human settlement with the extinct fauna that lived in northern Chile. Together with their environmental and scenic value, this makes protecting and conserving this geosite important."
+   ],
+   "pies": [
+    "View northwest of the Quereo Dunes, with the typical coastal vegetation of the area. Photo: Daniela Villela O., Sernageomin.",
+    "Top: the sand accumulation zone (lee side) of a barchan dune.",
+    "Photo: Daniela Villela O., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g15.mp3",
+    "dur": 76.3,
+    "marcas": [
+     0.0,
+     3.17,
+     20.93,
+     51.7
+    ]
+   }
+  },
+  "g16": {
+   "nombre": "Rano Kao Volcano Crater",
+   "region_txt": "Valparaíso Region",
+   "interes": "volcanological - paleoenvironmental",
+   "valor": "cultural",
+   "altitud": "290 m a.s.l.",
+   "parrafos": [
+    "Rano Kao volcano, one of the most important landscape features of Easter Island (Rapa Nui), is between 900,000 and 100,000 years old, that is, Middle Pleistocene. Together with the also ancient Poike volcano and the younger Terevaka, it forms a volcanic complex produced by a mantle plume (hotspot) in the oceanic crust. This process gave rise to Easter Island (Rapa Nui).",
+    "Besides its value for Rapa Nui culture, the Rano Kao crater is geologically and environmentally important. The crater, 1.6 km across and 200 m deep, holds a lake that is one of the island's most important freshwater reservoirs and a key site for reconstructing past environments from the sediments and fossils on its bed. This geological record, reaching back 37,000 years into the Late Pleistocene, shows a gradual change in climate: from colder, drier conditions during the last glacial period to the wetter, warmer conditions that persist today.",
+    "Near the crater, particularly on the outer slope facing southwest toward the islets or motus, stands the ceremonial village of Orongo, of great significance to Rapa Nui culture."
+   ],
+   "pies": [
+    "Top: view northeast of Rano Kao crater, one of the island's most prominent landforms. Bottom: view south of the crater from the viewpoint of the same name. The lake in the crater, in the center of the photo, is environmentally vital for the island and valuable for studying climate change over the last 37,000 years. Source: karkozphoto, Envato Elements, 2021."
+   ],
+   "audio": {
+    "src": "audio/en/g16.mp3",
+    "dur": 78.0,
+    "marcas": [
+     0.0,
+     3.36,
+     29.23,
+     65.81
+    ]
+   }
+  },
+  "g17": {
+   "nombre": "Devil's Staircase",
+   "region_txt": "Valparaíso Region",
+   "interes": "structural geology - geomorphological",
+   "valor": "cultural",
+   "altitud": "777 m a.s.l.",
+   "parrafos": [
+    "Southeast of the village of Hierro Viejo, this geosite is a rock formation that strikingly resembles a staircase carved naturally into the rock. It owes its name to a folk legend saying the Devil used it to escape back to hell after being chased by a group of men.",
+    "Its peculiar shape is due to an intrusive rock called a dike, which cuts vertically through the surrounding rock of the Cerro Morado Formation. It formed at depth, where fractures allowed magma to rise; on contact with the cooler surrounding rock, the magma solidified quickly. This happened in the Early Cretaceous, between 116 and 106 million years ago, when a volcanic arc lay in this area.",
+    "Later, from the Neogene to the present, tectonic uplift and erosion exposed the dike. Its shape results both from being more resistant than the surrounding rock, so it stands out, and from fractures that control how rock blocks break off, forming the steps of the staircase. Although this geosite has no protection under Chilean law, the Petorca Valley Geopark project seeks to conserve and showcase it to promote the economic, social and cultural development of local communities."
+   ],
+   "pies": [
+    "Top: view southeast from the village of Hierro Viejo. The Devil's Staircase is at the top of the hill, in the rock cliff center-left. Bottom: view southwest of the dike known as the Devil's Staircase, on a hillside southeast of Hierro Viejo. Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g17.mp3",
+    "dur": 75.6,
+    "marcas": [
+     0.0,
+     3.14,
+     19.27,
+     45.5
+    ]
+   }
+  },
+  "g18": {
+   "nombre": "Quirilluca Coastal Cliff",
+   "region_txt": "Valparaíso Region",
+   "interes": "paleontological - geomorphological",
+   "valor": "environmental",
+   "altitud": "50 m a.s.l.",
+   "parrafos": [
+    "This geosite, on Quirilluca beach between Horcón and Maitencillo, is characterized by coastal cliffs 40 to 50 m high along 450 m of beach. The present-day vertical walls result from the sea eroding the coastline and the subsequent collapse of the rock. At the base of the cliff there are also two caves carved by the waves.",
+    "Above the cliff lie broad flats, marine terraces that formed below sea level by wave abrasion and were later uplifted by tectonic forces during the Late Pleistocene, exposing them at the surface; the same process formed the coastal cliff. At low tide you can see the platform currently being worn down by the sea. Two 5 m high blocks on the beach are remnants of a collapsed rock arch.",
+    "The geosite is also paleontologically valuable. The marine sediments of the cliff, part of the Caleta Horcón Formation (Late Pliocene), contain fossils of mollusks, fish, birds and mammals, notably aquatic sloths of the genus Thalassocnus, which lived here 3 to 2 million years ago, at the end of the Pliocene.",
+    "The unique landscape of this area provides ideal conditions for abundant and diverse local wildlife and plants, so several organizations and initiatives, including the Puchuncaví Geopark project, are working to preserve this geosite."
+   ],
+   "pies": [
+    "Quirilluca coastal cliff. In the center, at the base of the cliff, one of the caves carved by the sea. Photo: Natalia Espina L., Sernageomin.",
+    "Top: different rock layers of Pliocene age can be seen at the cliff, some containing fossils of mollusks and vertebrates.",
+    "Photo: Natalia Espina L., Sernageomin"
+   ],
+   "audio": {
+    "src": "audio/en/g18.mp3",
+    "dur": 86.3,
+    "marcas": [
+     0.0,
+     3.7,
+     24.96,
+     50.3,
+     71.69
+    ]
+   }
+  },
+  "g19": {
+   "nombre": "Concón Dunes",
+   "region_txt": "Valparaíso Region",
+   "interes": "geomorphological - sedimentological",
+   "valor": "environmental",
+   "altitud": "80 m a.s.l.",
+   "parrafos": [
+    "The Concón Dunes geosite is the dune field of Punta de Concón, declared a Nature Sanctuary in 1993, on the coast of the Valparaíso Region between Reñaca and Concón, on a marine terrace at 80 m a.s.l. Because these dunes are no longer fed by beach sand, being separated from it by the coastal cliff, they are called fossil dunes. Much of their surface is naturally stabilized by grasses or low coastal scrub.",
+    "The oldest reactivated area has the typical shape of free dunes, with sharp crests, hollows and steep fronts of moving sand, showing wind activity that reworks sediments that once formed stabilized dunes. These wind-blown sediments accumulated in the Late Pleistocene and cover marine sediments of the Caleta Horcón Formation (Late Pliocene).",
+    "Being a fossil dune field makes it an extremely fragile landform. Its location in the largest urban area on the Chilean coast exposes it to degradation, mainly from heavy motor-vehicle traffic and building construction. In response, the community has organized to defend this natural sanctuary from real-estate development."
+   ],
+   "pies": [
+    "Top: view north of one of the dune crests at Concón. In the background, buildings whose construction has reduced the original dune field. Bottom: view north of the dune field, with ripple marks in the foreground, which form perpendicular to the prevailing wind. Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g19.mp3",
+    "dur": 74.1,
+    "marcas": [
+     0.0,
+     3.12,
+     31.15,
+     53.93
+    ]
+   }
+  },
+  "g20": {
+   "nombre": "Cerro Santa Lucía Columnar Jointing",
+   "region_txt": "Santiago Metropolitan Region",
+   "interes": "petrological - geomorphological",
+   "valor": "cultural",
+   "altitud": "615 m a.s.l.",
+   "parrafos": [
+    "Right in the center of Santiago, this hill is visited daily by hundreds of people who come to look out over the city and the surrounding mountain ranges from its summit. No more than 70 m high, Cerro Santa Lucía, or Huelén in the Mapuche language, has witnessed the city's growth since the first pre-Hispanic settlements at its foot. It was declared a Historic Monument in 1983.",
+    "Its rocks formed from the cooling and crystallization of magma that intruded older rocks at shallow depth. Later uplift and erosion exposed this intrusion, which still resists weathering and urban interventions today. These and other intrusive rocks, for example in the Renca, San Cristóbal and Manquehue hills, and farther north (Las Canteras de Colina, Cerro Gordo), are considered part of the magmatic roots of volcanoes that existed here in the early Miocene, 22 to 20 million years ago.",
+    "The column-shaped structures in these rocks were produced by a type of fracturing called columnar jointing, which forms in igneous rocks as they shrink while cooling. The columns are usually perpendicular to the cooling surface and can have 3 to 6 sides; hexagonal columns are the most distinctive.",
+    "Until the 18th century this hill was a rocky outcrop crowned by remarkable vertical and inclined cooling columns. In the late 19th century a plan to modernize and remodel it began, as part of the urban improvements for the centennial of the Republic. These works, and the use of its rocks in many buildings and in paving old Santiago, changed its appearance."
+   ],
+   "pies": [
+    "Top: intrusive rock with columnar jointing on the western slope of Cerro Santa Lucía, with part of Santiago behind. Bottom: the hill's architecture and walkways take advantage of the rock's columnar structures, giving special beauty to this geographic and cultural landmark of Santiago. Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g20.mp3",
+    "dur": 101.7,
+    "marcas": [
+     0.0,
+     5.35,
+     29.16,
+     61.01,
+     78.36
+    ]
+   }
+  },
+  "g21": {
+   "nombre": "Lo Valdés Plates",
+   "region_txt": "Santiago Metropolitan Region",
+   "interes": "stratigraphic - paleontological",
+   "valor": "recreational",
+   "altitud": "1,980 m a.s.l.",
+   "parrafos": [
+    "This geosite lies in the Cajón del Maipo, about 84 km southeast of Santiago, opposite the village of Baños Morales, 19 km along route G-25 from the turn-off to the El Yeso reservoir. It consists of a series of vertical rock strata, commonly called \"plates\" because of their appearance and position, lying perpendicular to the El Volcán River valley.",
+    "These rocks belong to the Lo Valdés Formation (Late Jurassic-Early Cretaceous), which is 1,635 m thick and runs in a north-south belt through the Andes of the Metropolitan Region and beyond the border with Argentina. It is rich in marine invertebrate fossils, including sponges, corals, gastropods, bivalves, echinoderms and more than 39 species of ammonites, an extinct subclass of cephalopods with an external shell, like today's nautiluses.",
+    "These layers formed between 152 and 129 million years ago from sediments that accumulated on volcanic rocks at the bottom of a sea no more than 100 m deep. Originally horizontal, they were later tilted to vertical as the Andes rose from the Miocene onward. Because the layers differ in hardness and strength, water, ice and wind erode them differently, so some have worn away much more easily than others, creating today's imposing scenery. Their monumental size and varied colors make this geosite famous for its beauty and a tourist icon that the Cajón del Maipo Geopark project seeks to promote, protect and conserve."
+   ],
+   "pies": [
+    "Top: view east of the plates and San José volcano (background) from Lo Valdés. Photo: Rodrigo Mardel H. Bottom: view southeast of the Lo Valdés Plates. Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g21.mp3",
+    "dur": 100.4,
+    "marcas": [
+     0.0,
+     3.82,
+     28.68,
+     58.32
+    ]
+   }
+  },
+  "g22": {
+   "nombre": "Las Amarillas Ravine",
+   "region_txt": "Santiago Metropolitan Region",
+   "interes": "geomorphological - geological hazard",
+   "valor": "educational",
+   "altitud": "1,835 m a.s.l.",
+   "parrafos": [
+    "Quebrada Las Amarillas lies in the El Volcán River valley, at about kilometer 75 of route G-25. Its relief is steep, and its rocks, belonging to the Colimapu Formation of Early Cretaceous age, are strongly deformed and altered. Their brown, yellow and orange colors come largely from high-temperature fluids from San José volcano that circulated through fractures and faults during the Holocene. These fluids carry dissolved elements that break down the rock's minerals and form new ones, including clays and iron oxides, which give the rocks their attractive, characteristic color.",
+    "These changes also weaken the rocks, making them very brittle and easily eroded, so this ravine is particularly unstable and hazardous, especially during heavy rain. Then debris flows can form: large amounts of material (rocks, sediment, vegetation) moved by water and gravity from the upper mountain that can reach the El Volcán River, where they build a wide alluvial fan.",
+    "When this happens, this stretch of route G-25 can be closed to traffic. In extreme cases, when many debris flows occur in this mountain area, the water intake system on the Maipo River can be affected, disrupting Santiago's drinking water supply."
+   ],
+   "pies": [
+    "Top: Quebrada Las Amarillas seen from route G-25 toward El Morado Natural Monument. Photo: Víctor Godoy D. Bottom: view southwest of the ravine. At lower right, the lower part of its alluvial fan, crossed by route G-25. Photo: Mónica Marín D., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g22.mp3",
+    "dur": 83.8,
+    "marcas": [
+     0.0,
+     4.13,
+     42.46,
+     67.34
+    ]
+   }
+  },
+  "g23": {
+   "nombre": "Pudahuel Ignimbrite at Machalí",
+   "region_txt": "Libertador General Bernardo O’Higgins Region",
+   "interes": "volcanological - geological hazard",
+   "valor": "scientific",
+   "altitud": "685 m a.s.l.",
+   "parrafos": [
+    "The Pudahuel ignimbrite is a pyroclastic flow deposit linked to the collapse of an eruption column kilometers high during a large explosive eruption sometime in the Middle Pleistocene, between 450,000 and 150,000 years ago. The eruption released a huge volume of magma, causing the original volcano to collapse and form a volcanic depression, or caldera, called the Diamante Caldera. Laguna del Diamante, in Argentina, now fills that depression, where Maipo volcano also stands.",
+    "The resulting cloud of particles and gas traveled at high speed across the land and left a characteristic deposit along the valleys, even hundreds of kilometers from its source. Remnants of this ignimbrite are found in the Cachapoal and Maipo valleys, as well as on the Argentine side of the Andes, over thousands of square kilometers. At Machalí there is a deposit several meters thick, 85 to 90% volcanic ash by volume, with no internal structure and a marked color change, containing very few rock fragments and some pumice.",
+    "This geosite is magnificent evidence of an extreme eruption and, although such events are unlikely, it is important for understanding the large-scale environmental impact it surely caused and could cause again under similar conditions."
+   ],
+   "pies": [
+    "View southeast from Machalí showing the Pudahuel Ignimbrite beside the Carretera del Cobre (route H-25). Photo: Alejandro Alfaro S., Sernageomin.",
+    "Top: section of the Pudahuel ignimbrite up to 5 m thick, exposed in a road cut on route H-25 near Machalí.",
+    "Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g23.mp3",
+    "dur": 87.6,
+    "marcas": [
+     0.0,
+     5.74,
+     38.5,
+     72.98
+    ]
+   }
+  },
+  "g24": {
+   "nombre": "Dinosaur Tracks at Termas del Flaco",
+   "region_txt": "Libertador General Bernardo O’Higgins Region",
+   "interes": "paleontological - stratigraphic",
+   "valor": "recreational",
+   "altitud": "2,038 m a.s.l.",
+   "parrafos": [
+    "This geosite lies just east of Termas del Flaco, on the southern slope of the Tinguiririca River valley, and is reached by a trail about 1.9 km long. The great appeal of dinosaurs gives this geosite high recreational value. These fossil tracks reveal the geological environment during the Jurassic and Early Cretaceous.",
+    "The footprints and trackways are on the upper surface of an inclined bed of the Baños del Flaco Formation (Late Jurassic-Early Cretaceous), roughly 152 to 129 million years old, made of gray limestones rich in fossil algae and fragments of marine invertebrate shells, as well as volcanic rocks.",
+    "The tracks were first attributed to dinosaurs of the suborder Ornithopoda. Later studies concluded they belong to three types of dinosaurs: ornithopods (bird-footed, with 3 toes), theropods (beast-footed, also 3 toes) and sauropods (lizard-footed, with long neck and tail and short limbs), possibly a set of tracks of the ichnogenus Brontopodus.",
+    "The tracks were made by dinosaurs walking roughly northwest-southeast along the shore of a coastal lagoon near a coral reef, in a tropical to subtropical climate. They were buried and preserved by ash from contemporaneous explosive volcanic eruptions. The remains of the coral reef show where the sea was at that time."
+   ],
+   "pies": [
+    "Top: the fossil footprints attract many tourists every year. Bottom: view east of the dinosaur tracks and the bed of the Baños del Flaco Formation. Photo: Paulina Arellano C."
+   ],
+   "audio": {
+    "src": "audio/en/g24.mp3",
+    "dur": 89.7,
+    "marcas": [
+     0.0,
+     6.12,
+     27.46,
+     47.83,
+     70.15
+    ]
+   }
+  },
+  "g25": {
+   "nombre": "El Fierro Fault",
+   "region_txt": "Libertador General Bernardo O’Higgins Region",
+   "interes": "structural geology-tectonic",
+   "valor": "scientific",
+   "altitud": "2,090 m a.s.l.",
+   "parrafos": [
+    "The El Fierro Fault geosite is on the southern slope of the Tinguiririca River valley, opposite Termas del Flaco. Here the fault cuts and juxtaposes red and gray sedimentary rocks dipping 30° to the west over the same layers dipping about 55° to the west. These layers belong to the Brown-Reddish Clastic Unit (BRCU) of the Early Cretaceous. An anticline in the western block and other evidence define it as a low-angle reverse fault verging east.",
+    "This fault is part of the El Baule or El Fierro Fault System. Together with equivalent fault systems to the north, in the Cachapoal and Maipo basins (El Diablo-Las Leñas-El Fierro Fault System) and farther north, at least to the latitude of the Los Pelambres mine (31°43’S-70°29’W), these structures controlled the geological evolution of the eastern edge of the Abanico Basin since the end of the Eocene, about 37 million years ago.",
+    "In 2004, earthquakes of up to magnitude 6.5 and 5.4 Mw were recorded in the area of this geosite and have been linked to movement on the El Fierro fault, meaning it has been active from the Late Eocene to the present."
+   ],
+   "pies": [
+    "Top: view southeast of the El Fierro Fault. Bottom: diagram of the rock units and the El Fierro Fault (blue line) with its relative movement (yellow arrows). Dashed yellow lines mark contacts between units and light-blue lines show the attitude of some layers. Photo: Paulina Arellano C. Geological interpretation modified from Mescua et al. 2013."
+   ],
+   "audio": {
+    "src": "audio/en/g25.mp3",
+    "dur": 74.8,
+    "marcas": [
+     0.0,
+     4.8,
+     35.71,
+     61.37
+    ]
+   }
+  },
+  "g26": {
+   "nombre": "Constitución Rocks",
+   "region_txt": "Maule Region",
+   "interes": "geomorphological - petrological",
+   "valor": "environmental",
+   "altitud": "15 m a.s.l.",
+   "parrafos": [
+    "This geosite is on the coast of the city of Constitución, from the mouth of the Maule River southward. It has two main sectors: one near the river mouth, with the islets Piedra de las Ventanas, Piedra del León and Piedra del Marino; and another farther south with Peñón de Calabocillo, Peñón de los Enamorados, Piedra del Elefante, Piedra de la Iglesia and Las Termópilas. All these rocks are part of an ancient coastal cliff, formed in the Late Pleistocene, now eroded and broken up by the sea.",
+    "The most notable is the Piedra de la Iglesia (Church Rock), the city's symbol, a huge domed rock almost 150 m long and about 9 m high, where the waves have carved inner caves that can be visited at low tide. All these rocks are intrusive and classified as monzogranites, made mainly of large crystals of potassium feldspar and biotite.",
+    "Ages obtained for this unit show that the magma crystallized in the Late Triassic, about 224 million years ago, at shallow levels of the crust, after being injected into the rocks of the so-called Metamorphic Basement, of Late Paleozoic age (Late Carboniferous-Permian). Adding to the scenic beauty, these rocks are a nesting site for gulls, boobies, cormorants and pelicans, giving the geosite even greater environmental value."
+   ],
+   "pies": [
+    "Top: view southwest of the beach and rocks of Constitución, with the Piedra de la Iglesia in the center. Photo: Jessica Leiva M. Bottom: view southwest of the Piedra de la Iglesia, the natural symbol of Constitución. Photo: Andrés Muñoz V."
+   ],
+   "audio": {
+    "src": "audio/en/g26.mp3",
+    "dur": 87.7,
+    "marcas": [
+     0.0,
+     2.88,
+     36.24,
+     59.88
+    ]
+   }
+  },
+  "g27": {
+   "nombre": "Radal Siete Tazas",
+   "region_txt": "Maule Region",
+   "interes": "geomorphological - volcanological",
+   "valor": "recreational",
+   "altitud": "964 m a.s.l.",
+   "parrafos": [
+    "Located in Radal Siete Tazas National Park, in the Molina district, this geosite is reached from Route 5 via the Agua Fría road (route K-175), which links the town of Molina with the mountain area. It is a series of pools and waterfalls formed by the Claro River as it flows over several lava layers belonging to the Planicies y Valles Volcanic Unit (Pliocene-Pleistocene).",
+    "The long interaction between river and volcanic rock has formed pools in the rocky bed, known as tazas (cups), which give the place a special beauty and attract many domestic tourists. They formed through constant erosion by rock fragments dragged along the riverbed, which deepened the lava progressively and locally during the Pleistocene-Holocene.",
+    "These rocks also show prismatic fracturing called columnar jointing, produced by the loss of volume as the lava cooled and solidified. The fractures form polygons, mostly hexagons, of various sizes, much like the cracks that form when mud dries. Right after the 2010 Maule earthquake, and in recent years due to water diversion and prolonged drought, water has occasionally stopped flowing through the pools, showing how vulnerable this attraction is."
+   ],
+   "pies": [
+    "Aerial view of La Leona waterfall in Radal Siete Tazas National Park after the February 2010 earthquake. Photo: Manuel Arenas A., Sernageomin.",
+    "Left: two of the seven 'cups', with pools and small waterfalls. Photo: Andrés Muñoz V. Right: the same place after the February 2010 earthquake, when water stopped flowing through the pools. Photo: Mónica Marín D., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g27.mp3",
+    "dur": 79.3,
+    "marcas": [
+     0.0,
+     3.1,
+     29.02,
+     50.64
+    ]
+   }
+  },
+  "g28": {
+   "nombre": "La Cárcel Columnar Jointing",
+   "region_txt": "Maule Region",
+   "interes": "volcanological",
+   "valor": "recreational",
+   "altitud": "1,750 m a.s.l.",
+   "parrafos": [
+    "This geosite is at the entrance to the Los Cóndores valley, reached by international route CH-115, which links Talca with the Pehuenche pass on the border with Argentina. It is made of volcanic rocks of the Laguna del Maule Volcanic Complex, 116,000 years old (Late Pleistocene), forming columns, steps, ledges and walls up to 50 m high. These features, together with waterfalls and pools, make it one of the most attractive rock-climbing spots in South America.",
+    "The surrounding hills are made of a sequence of lavas in stepped platforms that extend about 6 km from their source near Laguna del Maule to the Salto del Maule, where the river drops almost 100 m. The vertical columns, which look like the bars of a prison cell (cárcel), are up to 20 m high and formed through fractures caused by the shrinking of the lava as it cooled and solidified in the open air.",
+    "This type of fracturing, called columnar jointing, forms polygons of various sizes, mostly hexagons, similar to the cracks that form when mud dries. To protect the imposing beauty of La Cárcel, the Pillanmapu Andino Geopark project seeks to conserve and showcase this geosite."
+   ],
+   "pies": [
+    "Top: view northeast of the rock wall at La Cárcel, with the vertical rock columns that give the geosite its name at the bottom. Bottom: view from above of the imposing columns, very popular for rock climbing. Photo: Yvanel Aravena B."
+   ],
+   "audio": {
+    "src": "audio/en/g28.mp3",
+    "dur": 77.8,
+    "marcas": [
+     0.0,
+     3.46,
+     34.34,
+     59.16
+    ]
+   }
+  },
+  "g29": {
+   "nombre": "Los Pincheira Cave",
+   "region_txt": "Ñuble Region",
+   "interes": "volcanological - glaciological",
+   "valor": "cultural",
+   "altitud": "1,035 m a.s.l.",
+   "parrafos": [
+    "This geosite lies in the glacial valley of the Renegado stream, 61 km east of Chillán and 18 km west of the volcano of the same name. It is a cave at the foot of a rock wall about 160 m high, under an overhang some 25 m long and 20 m deep. The wall borders an extensive plateau attached to the southern slope of the valley.",
+    "From a distance, four layers tens of meters thick can be seen in the wall; up close they turn out to be gray volcanic rocks with irregular bands and curved, scalloped breaks bounding surfaces with fractures of various shapes: some smooth, some irregular and some forming vertical columns up to 20 m high. These rock layers, informally called the Los Pincheira lavas, were erupted 650,000 years ago, in the Middle Pleistocene, and flowed about 40 km beneath extensive glaciers along the valley edges. Their features show that they advanced gradually because they had to melt the ice. Meltwater cooled the hot mass and helped form cavities and columnar fracturing.",
+    "The cave, a legendary place surrounded by tall, beautiful laurel trees with exposed roots and a magnificent 20 m waterfall, was one of the refuges and hideouts of the Pincheira, outlaws and guerrillas of the first half of the 19th century, sustaining their history and legend. Little did they imagine that this site is part of one of the longest lava flows in southern Chile, one that flowed beneath extensive glacial ice."
+   ],
+   "pies": [
+    "General view of Los Pincheira Cave, showing the entrance and part of the overhang of volcanic rocks forming the wall. Photo: José Naranjo S.",
+    "Top left: close-up of the entrance wall, showing the irregular fracturing of the lavas. Photo: José Naranjo S.",
+    "Top right: side view of the entrance, with irregular fracturing of the lavas and part of the 20 m waterfall. Photo: José Naranjo S."
+   ],
+   "audio": {
+    "src": "audio/en/g29.mp3",
+    "dur": 97.5,
+    "marcas": [
+     0.0,
+     2.78,
+     27.41,
+     70.56
+    ]
+   }
+  },
+  "g30": {
+   "nombre": "Cobquecura Stone Church",
+   "region_txt": "Ñuble Region",
+   "interes": "geomorphological - petrological",
+   "valor": "environmental",
+   "altitud": "15 m a.s.l.",
+   "parrafos": [
+    "The Iglesia de Piedra (Stone Church), 5 km north of the village of Cobquecura, together with other islets and rocks in the area, was declared a Nature Sanctuary in 1992 because of its remarkable and abundant marine flora and fauna. The rocks of this geosite are remnants of an ancient coastal cliff, carved and broken up by the sea during the Late Pleistocene.",
+    "These rocks result from a dynamic interaction between magmas of contrasting composition and temperature that took place at the end of the Triassic, about 210 million years ago, deep in the Earth's crust. This interaction shows in geological structures such as pillowed mafic dikes, complex networks of veinlets and magmatic breccias. Rock fragments from centimeters to meters in size, derived from both the upper crust and the iron-rich lower crust, can also be seen. These fragments, called xenoliths, have halos at their edges showing that the rising magma picked them up and assimilated them from the metamorphic rocks of the Western Series of the Metamorphic Basement (Late Paleozoic).",
+    "A notable product of this magma interaction is olivine granodiorite, a very special rock with only two documented occurrences in Chile and about 30 worldwide. Globally, this rock type is more common in older rocks, mainly in Precambrian intrusive complexes more than 541 million years old."
+   ],
+   "pies": [
+    "View east of the Cobquecura Stone Church with some visitors. Photo: Francisca Salazar D.",
+    "Left: view east from the vault of the Stone Church. Right: close-up of its rocks, with an iron-oxide patina from the oxidation of mafic minerals. Photo: Francisca Salazar D."
+   ],
+   "audio": {
+    "src": "audio/en/g30.mp3",
+    "dur": 90.6,
+    "marcas": [
+     0.0,
+     3.38,
+     27.53,
+     70.06
+    ]
+   }
+  },
+  "g31": {
+   "nombre": "Los Pangues Grotto",
+   "region_txt": "Ñuble Region",
+   "interes": "volcanological",
+   "valor": "cultural",
+   "altitud": "1,518 m a.s.l.",
+   "parrafos": [
+    "This geosite is 5 km from the village of Las Trancas, accessed from kilometer 80 of route N-55, which links Chillán with the hot springs of the same name, followed by an easy trail about 300 m long. It lies in the transition zone of the Nevados de Chillán-Laguna de la Laja biological corridor, designated in June 2011, covering nine districts in the Ñuble and Biobío regions. The name comes from the abundant pangue or nalca plants, a perennial herb whose leaves can exceed a meter across.",
+    "The geosite is a succession of volcanic layers made of ash and larger rock fragments, produced by large explosive eruptions of the Nevados de Chillán Volcanic Complex about 2,300 years ago, in the Holocene. In the middle of the sequence is a layer full of large rock fragments known as lithic bombs, which make it more resistant, so this layer forms the roof of the grotto, while erosion of the weaker layers below carved out the cave you see here.",
+    "Its beautiful setting includes a waterfall about 35 m high, which together with the grotto creates a very special scene that believers visit to pray and leave offerings at the many religious images placed there."
+   ],
+   "pies": [
+    "View from above of Los Pangues Grotto. In the right foreground, the volcanic rock layer that forms the roof. Photo: Rayén Rivera V.",
+    "Left: view west of the grotto, showing the different volcanic layers and the more resistant roof. Photo: Rayén Rivera V."
+   ],
+   "audio": {
+    "src": "audio/en/g31.mp3",
+    "dur": 78.1,
+    "marcas": [
+     0.0,
+     2.83,
+     36.89,
+     65.02
+    ]
+   }
+  },
+  "g32": {
+   "nombre": "Caleta Cocholgüe",
+   "region_txt": "Biobío Region",
+   "interes": "paleontological - stratigraphic",
+   "valor": "scientific",
+   "altitud": "40 m a.s.l.",
+   "parrafos": [
+    "This geosite is at the northern end of Caleta Cocholgüe, in the Tomé district, 30 km north of Concepción. Its cliffs record uplift of the coastline during the Late Pleistocene. More recent erosion has shaped the shoreline and exposed layers of sedimentary rock that tell us about the living things and environmental conditions of the Cretaceous, and about the transition from the Mesozoic to the Cenozoic era about 66 million years ago. This is shown by the great difference between the marine fossil fauna in the Quiriquina Formation (Late Cretaceous) and the Curanilahue Formation (Early Eocene).",
+    "Among the abundant marine fossils is Aristonectes quiriquinensis, the youngest plesiosaur (marine reptile) described to date and one of the most representative of the Mesozoic before its extinction at the end of that era. There are also abundant concretions (spherical rock bodies) that may contain fossil ammonites of various shapes (including baculitids) and bivalves (especially the genus Cardium). Fossilized structures made by organisms in marine sediments can also be seen; these are known as bioturbation or trace fossils.",
+    "Fossils of fish, sea turtles of the genus Euclastes, mosasaurs and diving birds identified as Neogaeornis wetzeli have also been found here, along with petrified wood bored by bivalves. The Caleta Cocholgüe geosite, of great scientific value, is very easy to reach, just a few meters from the fishing cove and its restaurants. The Biobío Coast Geopark project seeks to showcase this geosite to promote the social and cultural development of local communities."
+   ],
+   "pies": [
+    "Top left: marine invertebrate fossils in sandstones of the Quiriquina Formation (Late Cretaceous). Photo: Ricardo Velásquez H., Sernageomin. Top right: plesiosaur fossils, the most representative marine reptile of the end of the Cretaceous. Photo: Roberto Merino G. Bottom: sedimentary rocks at Caleta Cocholgüe; below, yellowish-gray sandstones of the Quiriquina Formation and above them sandstones of the Curanilahue Formation (Early Eocene). A normal fault (center) dropped the right block relative to the left. Photo: Roy Fernández J."
+   ],
+   "audio": {
+    "src": "audio/en/g32.mp3",
+    "dur": 104.5,
+    "marcas": [
+     0.0,
+     2.93,
+     40.44,
+     73.46
+    ]
+   }
+  },
+  "g33": {
+   "nombre": "Curamallín Overturned Anticline",
+   "region_txt": "Biobío Region",
+   "interes": "structural geology",
+   "valor": "educational",
+   "altitud": "1,975 m a.s.l.",
+   "parrafos": [
+    "This geosite is in the Los Pinos River valley and can be reached from the CONAF ranger station in Laguna del Laja National Park, 28 km from the border with Argentina. It shows a fold in volcanic and sedimentary rock layers of the Cura Mallín Formation, a geological unit about 14 million years old (Early to Middle Miocene).",
+    "When rocks are folded, it means they have deformed without breaking under a pushing force. Here, the normally horizontal layers were folded by a deep geological fault that slowly pushed them from below, bending and accommodating the layers; this happened in the Middle to Late Miocene, between 14 and 9 million years ago.",
+    "If a fold is convex, shaped like \"∩\", it is called an anticline; if it is concave, shaped like \"U\", it is called a syncline. The term overturned means the fold's axial plane is tilted from vertical, so the order of the rock layers on one side is inverted (overturned limb), placing the oldest layers above the youngest. Folds are fairly common in this type of rock, and given the excellent preservation of the folds and their parts, this geosite is very instructive for explaining and studying these geological structures, in addition to its impressive scenic beauty."
+   ],
+   "pies": [
+    "Top: view north of the folds, with Antuco volcano on the left. Geological interpretation: Juan Pablo Contreras F., Sernageomin. Bottom: the Curamallín Overturned Anticline from the Los Pinos River ravine looking north, with the parts of the overturned folds labeled. Photo: Paulo Urrutia B. Geological interpretation: Juan Pablo Contreras F."
+   ],
+   "audio": {
+    "src": "audio/en/g33.mp3",
+    "dur": 80.1,
+    "marcas": [
+     0.0,
+     3.98,
+     25.75,
+     45.34
+    ]
+   }
+  },
+  "g34": {
+   "nombre": "Piedra del Águila",
+   "region_txt": "Biobío Region",
+   "interes": "petrological - geomorphological",
+   "valor": "recreational",
+   "altitud": "1,400 m a.s.l.",
+   "parrafos": [
+    "Piedra del Águila (Eagle Rock) is one of the highest points of the Nahuelbuta Range (about 1,400 m a.s.l.), surrounded by araucaria trees inside Nahuelbuta National Park. This viewpoint offers unique views west to the Pacific Ocean and east to the volcanic chain of the Andes, particularly the Antuco, Sierra Nevada, Tolhuaca, Lonquimay and Llaima volcanoes.",
+    "The geosite is of great geological interest, as it is made of intrusive rocks of the Southern Coastal Batholith, 308 to 286 million years old, that is, Late Paleozoic (Carboniferous-Permian). The rock at the viewpoint is a granodiorite, made mainly of quartz, potassium feldspar and plagioclase, with inclusions of another dark rock up to 30 cm across, known in geology as xenoliths.",
+    "The magmas that formed the batholith are estimated to have cooled at a depth of about 12 to 15 km and to have had an initial temperature of 700 to 800 °C. Around the viewpoint there are also metamorphic rocks called gneiss, formed when sedimentary rocks were heated to very high temperatures (>600 °C) by the magma that produced the granodiorite."
+   ],
+   "pies": [
+    "View east from Piedra del Águila over the araucaria forest of Nahuelbuta National Park. Photo: Francesc Ferraro C.",
+    "Top: panoramic view of Piedra del Águila. Wooden stairs lead up to the park's main viewpoint.",
+    "Photo: Francesc Ferraro C."
+   ],
+   "audio": {
+    "src": "audio/en/g34.mp3",
+    "dur": 79.5,
+    "marcas": [
+     0.0,
+     2.86,
+     28.18,
+     55.08
+    ]
+   }
+  },
+  "g35": {
+   "nombre": "Navidad Cone",
+   "region_txt": "La Araucanía Region",
+   "interes": "volcanological - geological hazard",
+   "valor": "scientific",
+   "altitud": "1,845 m a.s.l.",
+   "parrafos": [
+    "The Navidad cone is a volcanic edifice 180 m high at the foot of Lonquimay stratovolcano, within the Nalcas National Reserve. It is one of several small eruptive centers aligned northeast-southwest for about 10 km, forming the Eastern Fissure Chain. It was built during the last eruption of the Lonquimay Volcanic Complex, between 1988 and 1990; this complex ranks 11th in the specific-risk ranking of Chile's active volcanoes (Sernageomin, 2023).",
+    "In December 1988, residents of nearby communities felt numerous earthquakes caused by rock fracturing. The Strombolian eruption began on December 25 of that year with an explosion whose column reached up to 9 km high, declining to about 2 km over the following months. Lava poured from the Navidad cone and flowed for 13 months down the Lolco River valley, reaching 10 km from its source. This offered a unique opportunity in Chile to describe and study a moving lava flow.",
+    "In addition, ash with a high fluorine content affected surface water, pasture and vegetation, causing osteofluorosis and the death of about 50,000 head of livestock. For this reason, residents of the town of Lonquimay, 25 km southeast of the cone, had to be evacuated."
+   ],
+   "pies": [
+    "Top left: advancing front of the lava from the Navidad cone; the person at the bottom gives a sense of the flow front's height and block size. Top right: view north-northeast of the Lolco River valley, with the lava from the Navidad cone advancing in December 1988 on the left. Photo: Renate Wall Z. Bottom: view north of the Navidad cone in the Nalcas National Reserve, with the snowy summit of Lonquimay stratovolcano behind. Photo: Patricio Contreras F."
+   ],
+   "audio": {
+    "src": "audio/en/g35.mp3",
+    "dur": 86.3,
+    "marcas": [
+     0.0,
+     3.26,
+     33.19,
+     66.02
+    ]
+   }
+  },
+  "g36": {
+   "nombre": "Truful-Truful Canyon",
+   "region_txt": "La Araucanía Region",
+   "interes": "volcanological - stratigraphic",
+   "valor": "scientific",
+   "altitud": "685 m a.s.l.",
+   "parrafos": [
+    "The Truful-Truful Canyon geosite is in Conguillío National Park, within the Kütralkura Geopark. Here you can see the erosive power of the Truful-Truful River, which has exposed a 35 m wall recording part of the most explosive and violent history of Llaima volcano, one of Chile's most active volcanoes and ranked 3rd in the specific-risk ranking of active volcanoes (Sernageomin, 2023).",
+    "Although the volcano's historical eruptions have been relatively calm (Strombolian), with extensive lava flows, between 13,000 and 7,000 years ago (end of the Late Pleistocene to early Holocene) it produced highly explosive eruptions, recorded in the sequence exposed in the canyon. About 70 layers can be seen there, recording different volcanic processes during that period, such as ash fall, pyroclastic flows and surges, and volcanic mudflows (lahars).",
+    "At its base lies the product of the volcano's largest and oldest eruption, the Curacautín Ignimbrite. This large-volume deposit is associated with the collapse of the ancient Llaima volcano and the resulting formation of a caldera. The present volcano was built after this great eruption. The upper layers of the sequence, darker and about 3,000 to 4,000 years old, are deposits from the more recent and less violent activity of Llaima during the Holocene."
+   ],
+   "pies": [
+    "Top: view west of volcanic strata from Llaima eruptions at Truful-Truful Canyon. Each layer represents a volcanic process linked to an eruption, from oldest at the base to youngest at the top. Photo: Natalia Espina L., Sernageomin. Bottom: view southwest of the canyon. Source: Galyna_Andrushko, Envato Elements, 2021."
+   ],
+   "audio": {
+    "src": "audio/en/g36.mp3",
+    "dur": 87.3,
+    "marcas": [
+     0.0,
+     3.84,
+     27.7,
+     57.86
+    ]
+   }
+  },
+  "g37": {
+   "nombre": "Villarrica Volcano Crater",
+   "region_txt": "La Araucanía Region",
+   "interes": "volcanological - geological hazard",
+   "valor": "recreational",
+   "altitud": "2,820 m a.s.l.",
+   "parrafos": [
+    "Villarrica volcano, or Ruka Pillañ (house of the spirit in the Mapuche language), lies southeast of Lake Villarrica and northeast of Lake Calafquén, with several towns at its foot, notably Pucón, with 28,523 inhabitants, only 15 km from its summit at 2,820 m a.s.l. With its almost perfect cone, recognizable from afar, it has a large summit glacier covering about 30 km2 and holding the equivalent of about 4 km3 of water.",
+    "It is one of the volcanoes with the longest historical record of eruptions in South America and is monitored in real time because of its high hazard and proximity to towns. For this reason it ranks 1st in the specific-risk ranking of Chile's active volcanoes (Sernageomin, 2023), which orders volcanoes by the risk they pose. It began erupting about 650,000 years ago, in the Middle Pleistocene, and has had many eruptions producing lava flows, pyroclastic flows and volcanic mudflows (lahars). The lahars have hit nearby towns hard, most devastatingly Coñaripe in 1964.",
+    "Villarrica has an open summit crater about 200 m across, with a continuous fumarole and an almost permanent lava lake, where changes in depth, frequent small explosions and surface solidification are common, making it a true natural laboratory. An open crater with a lava lake exists at only seven volcanoes in the world, which, together with its beauty and easy access, makes it a world-class attraction with about 17,000 visitors a year."
+   ],
+   "pies": [
+    "Aerial view north of Villarrica volcano, or Ruka Pillañ, with its characteristic cover of glaciers and snow; Lanín volcano behind. Photo: Natalia Espina L., Sernageomin.",
+    "Top: the summit crater of Villarrica at 2,820 m a.s.l., one of seven volcanoes in the world with a lava lake inside. Photo: Cristian Ramírez S.",
+    "Bottom right: explosion in the lava lake of Villarrica's crater. The lake is highly dynamic, changing depth and producing frequent explosions. Photo: Claudia Bucarey"
+   ],
+   "audio": {
+    "src": "audio/en/g37.mp3",
+    "dur": 104.3,
+    "marcas": [
+     0.0,
+     4.01,
+     38.04,
+     74.76
+    ]
+   }
+  },
+  "g38": {
+   "nombre": "Valdivia Interglacial Deposits at Fuerte Niebla",
+   "region_txt": "Los Ríos Region",
+   "interes": "sedimentological - paleoenvironmental",
+   "valor": "cultural",
+   "altitud": "40 m a.s.l.",
+   "parrafos": [
+    "Niebla Castle, better known as Fuerte Niebla, is in the town of the same name, 18 km southwest of Valdivia. Declared a Historic Monument in 1950, it was built in 1671 during the so-called defensive war against the Mapuche, when fortifications were raised in most Spanish settlements south of the Biobío River.",
+    "It was built with local materials, including flagstone, clay, alerce wood, straw and slate, as well as a type of hardened sand known locally as cancagua, plus imported lime and brick. Its battery and moat, carved into cancagua, made Niebla Castle a unique building of its kind.",
+    "The fort stands on a coastal cliff 40 to 50 m high, created by uplift of the Valdivia coast in the Late Pleistocene. Several layers of cancagua are exposed here, assigned to the Last Interglacial Deposits of Valdivia (Middle to Late Pleistocene), with at least three distinct groups of layers differing in content and sedimentary structures. They reveal three different environments linked to sea-level changes during that time: a beach and shallow marine platform, an estuary, and a coastal barrier with dunes and a river delta."
+   ],
+   "pies": [
+    "Top left: hardened sand (cancagua) was used as foundations and bricks in the walls and fortifications of Fuerte Niebla. Top right: excavation of the cancagua by the Spanish reveals sand layers from coastal dunes active more than 40,000 years ago. Photo: Carolina Miralles G.",
+    "Cancagua layers in the coastal cliff representing three Middle to Late Pleistocene coastal environments: A: beach and intertidal sands; B: estuarine silts and sands; C: coastal dune sands. Photo and geological interpretation: Rodrigo Vega S."
+   ],
+   "audio": {
+    "src": "audio/en/g38.mp3",
+    "dur": 80.8,
+    "marcas": [
+     0.0,
+     5.18,
+     27.14,
+     47.33
+    ]
+   }
+  },
+  "g39": {
+   "nombre": "Aa and Pahoehoe Lavas of Villarrica Volcano",
+   "region_txt": "Los Ríos Region",
+   "interes": "volcanological - geological hazard",
+   "valor": "educational",
+   "altitud": "360 m a.s.l.",
+   "parrafos": [
+    "Villarrica volcano, or Ruka Pillañ (house of the spirit in the Mapuche language), is a stratovolcano in the Southern Volcanic Zone, on the border between the La Araucanía and Los Ríos regions. At its foot lie Lakes Villarrica and Calafquén and the tourist towns of Pucón, Lican Ray and Coñaripe.",
+    "The volcano has been active almost continuously from the Middle Pleistocene, about 650,000 years ago, to the present. Its historical record, covering the last 440 years, includes more than 60 eruptions, some calm with only lava emission and others much more violent and explosive. This geosite shows the reach and traces of a historical eruption, the one in 1971.",
+    "Here you can see lavas on the volcano's southwestern slope, in the Chaillupén stream, reached from Route 5 South by the paved road linking Loncoche, Lican Ray and Coñaripe. These lavas have rough, rope-like surfaces that change into irregular surfaces with sharp-edged blocks. The former are called pahoehoe lavas and the latter aa lavas.",
+    "They are 4 to 13 m thick and about 16.5 km long from their source to the Chaillupén stream, a distance the lava covered in just 48 hours. Lava flows are among the most common products of volcanic eruptions and, together with lahars and pyroclastic flows, are among the greatest hazards for areas near eruptive centers."
+   ],
+   "pies": [
+    "View northwest toward Villarrica volcano, with lavas of the 1971 eruption in the Chaillupén stream in the foreground. Photo: Natalia Espina L., Sernageomin.",
+    "Top: a lava block about 2 m high with the sharp edges typical of aa lava.",
+    "Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g39.mp3",
+    "dur": 97.3,
+    "marcas": [
+     0.0,
+     5.59,
+     25.58,
+     51.72,
+     74.83
+    ]
+   }
+  },
+  "g40": {
+   "nombre": "Mirador Cone",
+   "region_txt": "Los Ríos Region",
+   "interes": "volcanological - geological hazard",
+   "valor": "scientific",
+   "altitud": "660 m a.s.l.",
+   "parrafos": [
+    "This geosite is a small volcanic edifice in a low-lying area east of Lake Ranco and south of Cerro Los Guindos. The Mirador cone is part of a group of at least 70 volcanic centers, including scoria cones, craters and maars, aligned in a northeast-southwest belt called the Carrán-Los Venados Volcanic Field.",
+    "The eruptive activity that built this field mostly postdates the last glaciations and is concentrated in the last 10,000 years, the Holocene. Three eruptions were recorded in the 20th century: the Riñinahue maar in 1907, the Carrán maar in 1955, and the eruption that formed the Mirador cone in 1979. The cone's last eruptive cycle took place between April and May of that year, when a prehistoric scoria cone, partly eroded and covered by forest, reactivated. The eruption produced pyroclastic material and three lava flows, with a total volume estimated at 9 million cubic meters.",
+    "The Carrán-Los Venados Volcanic Field is highly active and hazardous and could begin a new eruptive cycle within years or decades, so it ranks 6th in the specific-risk ranking of Chile's active volcanoes (Sernageomin, 2023). Lava flows, pyroclastic surges, lahars and pyroclastic fall could seriously affect nearby communities. However, this same situation makes the geosite of great scientific interest, since it would allow direct observation of how a volcano forms from its earliest stages."
+   ],
+   "pies": [
+    "View northeast from route T-709 showing the lake and one flank of the Carrán maar crater, with the bare summit of the Mirador cone behind. Photo: Natalia Espina L., Sernageomin",
+    "Top: view east of the Mirador cone from route T-709 between Lago Ranco and Rupameica Alto. Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g40.mp3",
+    "dur": 95.9,
+    "marcas": [
+     0.0,
+     2.9,
+     23.47,
+     63.91
+    ]
+   }
+  },
+  "g41": {
+   "nombre": "Pilauco Paleo-archaeological Site",
+   "region_txt": "Los Lagos Region",
+   "interes": "paleontological - paleoenvironmental",
+   "valor": "scientific",
+   "altitud": "33 m a.s.l.",
+   "parrafos": [
+    "The Pilauco paleo-archaeological site, discovered in 1986, is on Río Cachapoal street in the city of Osorno. Hundreds of fossils and dozens of chipped, polished and perforated stone artifacts found in layers of a swamp 16,400 to 12,700 years old help us understand the end of the Pleistocene, its inhabitants and the megafauna that lived there.",
+    "The fossils include gomphotheres (relatives of elephants), American horses, Hemiauchenia (ancestor of the guanaco), xenarthrans (relatives of the mylodon), Patagonian rats, antifer (marsh deer), coypus, pudús, skunks, deer and birds, as well as insects, pollen, seeds, wood, herbs and aquatic plants from this ancient swamp. The archaeological record includes a 15,600-year-old human footprint, the oldest recorded in South America so far, which would belong to a person weighing about 72 kilos and 1.82 m tall.",
+    "In addition, evidence of a meteorite impact in the area has led to the hypothesis that this asteroid may have caused the extinction of the megafauna 12,800 years ago, just as the dinosaurs are thought to have died out about 66 million years ago. The diversity of fossil fauna, pushing back to 20,000 years the date when humans entered the Americas, and a possible explanation for the megafauna extinction give this geosite invaluable scientific and educational value for Chile and the world. Some of the finds are displayed at the museum hall of Parque Pleistoceno Chuyaca, at 601 Santa María street in Osorno."
+   ],
+   "pies": [
+    "Excavation area of the Pilauco site, looking south along Río Cachapoal street. Photo: Natalia Espina L., Sernageomin.",
+    "Top: the museum hall at Parque Pleistoceno Chuyaca, highlighting the extinct megafauna found at Pilauco.",
+    "Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g41.mp3",
+    "dur": 106.8,
+    "marcas": [
+     0.0,
+     4.49,
+     29.47,
+     67.25
+    ]
+   }
+  },
+  "g42": {
+   "nombre": "Petrohué Falls",
+   "region_txt": "Los Lagos Region",
+   "interes": "volcanological - geomorphological",
+   "valor": "recreational",
+   "altitud": "137 m a.s.l.",
+   "parrafos": [
+    "The Petrohué Falls geosite is on the river of the same name, 6 km from the outlet of Lake Todos Los Santos, and is one of the most visited attractions of Vicente Pérez Rosales National Park. The falls originated with lava flows that ran down the southeast side of Osorno volcano, currently ranked 8th in the specific-risk ranking of Chile's active volcanoes (Sernageomin, 2023), when the river valley was still filled with ice from the last great glaciation in this area during the Late Pleistocene, called the Llanquihue Glaciation.",
+    "These lavas blocked the valley of the ancient Petrohué River and, since then and to this day, have been worn down and sculpted by glacial ice and by the river's water, producing a series of falls and channels carved into the volcanic rock that give the place exceptional beauty. The lavas are estimated to be 90,000 to 30,000 years old, making them Late Pleistocene.",
+    "This remarkable geological feature is set in an extraordinary natural environment, part of the Temperate Rainforests of the Southern Andes Biosphere Reserve. Most of the park's forests are evergreen, dominated by canelo, coigüe, patagua and pitra. Wildlife includes pudú, puma, huillín or river otter, torrent duck, Magellanic woodpecker, red-gartered coot and ringed kingfisher, as well as two marsupials, the long-nosed shrew opossum and the monito del monte."
+   ],
+   "pies": [
+    "View north of the Petrohué River, its falls and the footbridge that lets you see this geosite up close. Photo: Natalia Espina L., Sernageomin.",
+    "Top: the Petrohué River cascading over lavas from Osorno volcano.",
+    "Photo: Natalia Espina L., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g42.mp3",
+    "dur": 91.3,
+    "marcas": [
+     0.0,
+     3.5,
+     35.23,
+     59.09
+    ]
+   }
+  },
+  "g43": {
+   "nombre": "Chaitén Volcano Domes",
+   "region_txt": "Los Lagos Region",
+   "interes": "volcanological - geological hazard",
+   "valor": "scientific",
+   "altitud": "865 m a.s.l.",
+   "parrafos": [
+    "Chaitén volcano lies 10 km northeast of the town of the same name and has a caldera 2.5 km across holding a group of lava domes produced by its recent eruptive cycles. Although there is no chronological record of its early stages, recurrent activity is recognized over the last 15,000 years, from the Late Pleistocene to the present, with explosive events of varying size and the building and destruction of lava domes.",
+    "Its last eruptive cycle began violently on May 2, 2008. Although notable seismic activity had been felt beforehand, the lack of an instrument network made it impossible to link it to Chaitén volcano, so the explosive eruption came as a surprise. In the first days, eruption columns reached almost 20 km high, forcing the evacuation of Chaitén. The large volumes of volcanic ash that fell were then remobilized by heavy rains in the following days, generating volcanic mudflows (lahars) down the Blanco River valley that flooded and partly destroyed Chaitén.",
+    "The explosive activity gave way to lava domes growing inside the caldera. The instability of volcanic material accumulated over months caused successive dome collapses that produced pyroclastic flows reaching the outskirts of the town. Dome growth stopped by the end of 2009, ending the eruptive cycle.",
+    "This eruption led to the creation of Sernageomin's National Volcano Monitoring Network to watch the country's most dangerous volcanoes, including this one, which ranks 7th in the specific-risk ranking of Chile's active volcanoes (Sernageomin, 2023). The domes can be seen today from the town of Chaitén, with abundant steam degassing and rising temperatures."
+   ],
+   "pies": [
+    "Top: aerial view of Chaitén town hit by the secondary lahar after the 2008 eruption of Chaitén volcano. Photo: Álvaro Amigo R., Sernageomin. Bottom: the Chaitén caldera today, with lava domes and continuous steam emission from several points. Photo: Paul Duhart O., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g43.mp3",
+    "dur": 110.7,
+    "marcas": [
+     0.0,
+     3.96,
+     31.9,
+     69.65,
+     89.74
+    ]
+   }
+  },
+  "g44": {
+   "nombre": "Cerro Castillo",
+   "region_txt": "Aysén del General Carlos Ibáñez del Campo Region",
+   "interes": "geomorphological - stratigraphic",
+   "valor": "recreational",
+   "altitud": "2,318 m a.s.l.",
+   "parrafos": [
+    "This geosite is inside Cerro Castillo National Park, 7 km northwest of Villa Cerro Castillo. This massif beside the Carretera Austral reaches 2,318 m a.s.l. and stands out in the landscape for its rugged relief, colorful rocks, native forest and glaciers, which together invite contemplation.",
+    "The mountain is made of rocks of different origins and ages: mainly volcanic rocks of the Late Jurassic-Early Cretaceous, marine sedimentary rocks of the same age, and intrusive magmatic rocks of the Late Cretaceous. The volcanic rocks, grouped in the Ibáñez Formation, come from violent eruptions here between 152 and 135 million years ago. At the end of that period volcanic activity ceased and gave way to a shallow sea where marine sediments were deposited; together with the volcanic rocks, they now form the mountain's rocks and make up the Coyhaique Group.",
+    "The intrusive rocks, part of the Patagonian Batholith, formed here about 98 to 93 million years ago from magma that cooled after penetrating the older volcanic and marine rocks. Tens of millions of years later, all these rocks were exposed at the surface and worn down and shaped, according to their hardness and resistance to erosion, by the ice of successive Pleistocene glaciations. This produced its steep, sheer pinnacles that look like the towers of a medieval castle and give this striking massif its name."
+   ],
+   "pies": [
+    "Top: from the colorful stillness of Aysén's Patagonia rise the steep towers which, with the glaciers, give Cerro Castillo its character. Source: Sernatur Aysén. Bottom: view northwest of Cerro Castillo partly covered by snowfields. Below, a turquoise lagoon fed by glacial meltwater. Photo: Felipe Andrade A."
+   ],
+   "audio": {
+    "src": "audio/en/g44.mp3",
+    "dur": 95.4,
+    "marcas": [
+     0.0,
+     4.66,
+     27.1,
+     62.74
+    ]
+   }
+  },
+  "g45": {
+   "nombre": "Marble Chapel",
+   "region_txt": "Aysén del General Carlos Ibáñez del Campo Region",
+   "interes": "geomorphological - petrological",
+   "valor": "recreational",
+   "altitud": "210 m a.s.l.",
+   "parrafos": [
+    "This geosite lies 5 km southeast of Puerto Río Tranquilo, on the shores of Lake General Carrera, and is reached by boat. Because of its extraordinary beauty it was declared a Nature Sanctuary in June 1994. Its rocks date from the Late Devonian-Late Carboniferous and belong to the Eastern Andean Metamorphic Complex. As the name suggests, marble is the main rock here, although there are also other metamorphic rocks known as calcareous schists.",
+    "Nearby you can also see a series of striking marble islands and rocks, which because of their shapes are called Elephant Rock, Dog's Head Rock and many other imaginative names. Both the marbles and the calcareous schists are made mainly of calcium carbonate. Water can dissolve this mineral and has been shaping these rocks for about 12,000 years, shortly before the start of the Holocene, forming columns, stalactites, stalagmites, caves, fractures and hollows.",
+    "The variety of minerals and crystal structures in the marbles and their arrangement in bands of different colors create their varied and intense coloring, enhanced by light reflected from the lake. The shapes, colors and banding of these rocks give this geosite incomparable beauty and make it a wonder of nature."
+   ],
+   "pies": [
+    "Top: dissolution of the marble has created countless striking shapes and islets. Bottom: the colorful rocks of the Marble Chapel shine through and reflect in the turquoise waters of Lake General Carrera. Photo: Paula Alarcón C., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g45.mp3",
+    "dur": 80.9,
+    "marcas": [
+     0.0,
+     4.61,
+     33.86,
+     62.11
+    ]
+   }
+  },
+  "g46": {
+   "nombre": "Piedra Clavada",
+   "region_txt": "Aysén del General Carlos Ibáñez del Campo Region",
+   "interes": "geomorphological - volcanological",
+   "valor": "recreational",
+   "altitud": "940 m a.s.l.",
+   "parrafos": [
+    "This geosite lies south of Lake General Carrera, in Lago Jeinimeni National Reserve, 25 km southwest of Chile Chico. Its rocks are remnants of volcanic deposits from violent, explosive eruptions during the Late Jurassic-Early Cretaceous, about 152 to 142 million years ago. They belong to the Ibáñez Formation and represent the last volcanic episodes of that period in this region.",
+    "Piedra Clavada (Nailed Rock) is a pinnacle of volcanic rock about 40 m high and 6 to 8 m across, and one of the most striking examples of a series of columnar forms in the area. These forms exist because some zones of the volcanic rock were hardened by the addition of silica, making them more resistant to weathering and erosion. Thanks to fractures in the rock and to weathering by rain, ice, snow, wind and temperature changes, mainly during the Pleistocene and Holocene, these whimsical shapes were carved in the hardened rock and have survived over time."
+   ],
+   "pies": [
+    "Left: view north of Piedra Clavada, evidence of the explosive volcanism in what is now the Aysén Region during the Jurassic-Cretaceous. Photo: José Benado W. Right: Piedra Clavada is a recognized and protected natural landmark of the Aysén Region. Source: Sernatur Aysén.",
+    "Top: close-up of Piedra Clavada showing some of its volcanic rock layers.",
+    "Photo: Marina Solís E."
+   ],
+   "audio": {
+    "src": "audio/en/g46.mp3",
+    "dur": 67.6,
+    "marcas": [
+     0.0,
+     4.46,
+     31.97
+    ]
+   }
+  },
+  "g47": {
+   "nombre": "Paine Towers and Horns",
+   "region_txt": "Magallanes y de la Antártica Chilena Region",
+   "interes": "geomorphological-structural geology",
+   "valor": "recreational",
+   "altitud": "2,600 m a.s.l.",
+   "parrafos": [
+    "The Paine massif, home to this geosite, crowns Torres del Paine National Park, a world-class tourist destination declared a Biosphere Reserve in 1978, 150 km north of Puerto Natales, in Última Esperanza Province. The range includes several prominent peaks, such as Paine Grande, the highest at over 3,000 m a.s.l.; the Cuernos (Horns) del Paine, rising between the deep glacial valleys of Bader and Francés; and the Torres (Towers) del Paine, three peaks about 2,600 m high and the most iconic rock formation of the reserve.",
+    "Besides the unusual shapes of the Towers and Horns, the Horns stand out for their two-tone coloring: a prominent white rock band with extremely flat, sharp contacts with the dark rocks that enclose it. The dark rocks are sedimentary layers revealing a deep sea during the Cretaceous, assigned to the Punta Barrosa Formation (Early to Late Cretaceous, about 105 to 93 million years old) and the Cerro Toro Formation (Late Cretaceous, 93 to 73 million years old).",
+    "The lighter rocks result from the intrusion of at least four granitic magma bodies which together cover 200 km2. These granites were emplaced about 13 million years ago, in the Middle Miocene, along a zone of crustal weakness called the Río Nutrias Fault. After millions of years buried, a series of tectonic uplift events fractured, deformed and raised these rocks above 2,000 m a.s.l., exposing them to erosion.",
+    "Then, during the Pleistocene, the rocks were heavily worked, according to their hardness and resistance, by glacial ice. The glaciers carved the unmistakable angular horns, cirques and ridges of this range, creating a magnificent landscape enriched by vast coirón grass steppes, running guanacos, flying austral parakeets, dense ñirre and lenga forests, and llareta cushion plants that live undaunted on the cold bare rock."
+   ],
+   "pies": [
+    "General view of the Paine massif; on the left, the highest peak, Paine Grande, and next to it the Torres del Paine. Photo: Andrés Muñoz V.",
+    "Top: the Torres del Paine from the Base Torres viewpoint. Photo: Marcos Aguilar N.",
+    "Bottom right: close-up of the three granite columns forming the Torres del Paine. Photo: Lorenzo Albertini."
+   ],
+   "audio": {
+    "src": "audio/en/g47.mp3",
+    "dur": 134.2,
+    "marcas": [
+     0.0,
+     5.11,
+     45.34,
+     77.18,
+     106.25
+    ]
+   }
+  },
+  "g48": {
+   "nombre": "Pali-Aike Cone",
+   "region_txt": "Magallanes y de la Antártica Chilena Region",
+   "interes": "volcanological - geomorphological",
+   "valor": "cultural",
+   "altitud": "235 m a.s.l.",
+   "parrafos": [
+    "The Pali-Aike cone (desolate place in the Aónikenk language) is in the national park of the same name, 196 km northeast of Punta Arenas. It is part of the Pali-Aike Volcanic Field, an extensive volcanic plateau of more than 7,500 km2 in Patagonia, on the border between Chile and Argentina, with many volcanic landforms such as maars, tuff cones, scoria cones and lava flows.",
+    "This cone is a small volcanic edifice with a circular crater 160 to 180 m across, with steep walls (40-45° slope) that soften toward the base to slopes of 10-22°. It is horseshoe-shaped, open to the north, where a poorly preserved lava flow escaped. The Pali-Aike cone formed during eruptions between 130,000 and 17,000 years ago, in the Middle to Late Pleistocene. Although covered by vegetation and wind-blown sediment, its volcanic structures can still be recognized, as in many other eruptive centers in this field.",
+    "A volcanic cave preserved inside the cone, Pali-Aike Cave, adds to its cultural and scientific importance because of significant archaeological finds that have helped reconstruct the history of the early inhabitants of southern Patagonia. Evidence of human occupation, animal remains and stone and bone tools about 9,000 years old have been found there."
+   ],
+   "pies": [
+    "Sign pointing the way to the Pali-Aike Cone, visible as gentle hills on the horizon. Photo: Marcos Aguilar N.",
+    "Top left: aerial view southwest of the Pali-Aike Cone. Its steep walls soften to the north, giving its characteristic horseshoe shape. Source: Filmagallanes, a project run by Corfo and funded by the Magallanes and Chilean Antarctica Regional Government.",
+    "Bottom: aerial view of the small volcanic edifice with a circular crater 160 to 180 m across. Source: Filmagallanes, a project run by Corfo and funded by the Magallanes and Chilean Antarctica Regional Government."
+   ],
+   "audio": {
+    "src": "audio/en/g48.mp3",
+    "dur": 93.9,
+    "marcas": [
+     0.0,
+     4.2,
+     32.64,
+     71.71
+    ]
+   }
+  },
+  "g49": {
+   "nombre": "Dientes de Navarino",
+   "region_txt": "Magallanes y de la Antártica Chilena Region",
+   "interes": "geomorphological-structural geology",
+   "valor": "recreational",
+   "altitud": "870 m a.s.l.",
+   "parrafos": [
+    "The Dientes de Navarino (Teeth of Navarino) geosite is an east-west chain of peaks in the center of Navarino Island, about 6 km south of Puerto Williams, the southernmost city in the world. These mountains are made of marine sedimentary rock layers of the Yaghán Formation, 130 million years old (Early Cretaceous), and intrusive rocks called diorites, 100 million years old (Late Cretaceous).",
+    "The diorites are more resistant to erosion than the marine sedimentary rocks, so they form most of the summits of the Dientes de Navarino. This set of rocks was uplifted, fractured and deformed by the Alenghi fault about 85 million years ago, in the Late Cretaceous.",
+    "The jagged rocky peaks of the Dientes de Navarino are remnants of intense abrasion between 300,000 and 14,000 years ago, in the Middle to Late Pleistocene, by the slow flow of glacial ice loaded with rock fragments. Glacial erosion also left U-shaped, broad-floored valleys across the island and in these mountains.",
+    "Because of its extraordinary beauty and unique ecosystems, the island was added to the heritage routes of the Ministry of National Assets in 2001 and declared part of the Cape Horn Biosphere Reserve in 2005, which has helped protect and showcase this geosite at the end of the world."
+   ],
+   "pies": [
+    "Top: the Dientes de Navarino and surroundings looking northeast. Photo: Esteban Salazar P., Sernageomin.",
+    "Top: view east of the Dientes de Navarino, showing its current glacially shaped landforms. Bottom: the same photo labeled with rock units and geological and geomorphological features. Photo and geological interpretation: Esteban Salazar P., Sernageomin."
+   ],
+   "audio": {
+    "src": "audio/en/g49.mp3",
+    "dur": 86.9,
+    "marcas": [
+     0.0,
+     4.49,
+     31.18,
+     48.41,
+     69.74
+    ]
+   }
+  }
+ },
+ "audio_intro": {
+  "src": "audio/en/intro.mp3",
+  "dur": 298.4,
+  "marcas": [
+   0.0,
+   4.22,
+   29.45,
+   34.97,
+   158.9,
+   164.83
+  ]
+ }
+}

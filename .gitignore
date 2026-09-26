@@ -1,3 +1,6 @@
 tools/_fotos_orig/
 tools/_voces.log
 __pycache__/
+tools/_revision_voz_*.txt
+tools/_revisar.log
+tools/_voces_en.log

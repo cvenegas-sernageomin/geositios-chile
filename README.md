@@ -1,4 +1,6 @@
-# Geositios de Chile — PWA
+# Geositios de Chile — PWA (español / English)
+
+Desarrollo: **Carlos Venegas**.
 
 App web instalable (PWA) para recorrer con el GPS los 49 geositios del libro
 *Geositios de Chile: una mirada a sus maravillas geológicas* (Sernageomin, 2023).
@@ -16,10 +18,17 @@ Publicada desde `docs/` con GitHub Pages. El progreso se guarda en `localStorage
 ```bash
 python tools/extraer_kmz.py ruta/LIBRO.kmz   # -> docs/data/geositios.json + tools/_fotos_orig/
 python tools/imagenes.py                     # -> docs/img/*.webp + docs/icons/
-python tools/voces.py                        # -> docs/audio/*.mp3 (edge-tts, es-CL-CatalinaNeural)
+python tools/voces.py --lang es              # -> docs/audio/*.mp3 (edge-tts, es-CL-CatalinaNeural)
+python tools/traduccion_en.py                # tools/_trad/*.json -> docs/data/en.json
+python tools/voces.py --lang en              # -> docs/audio/en/*.mp3 (en-US-AvaMultilingualNeural)
+python tools/revisar_voz.py --lang es        # control de pronunciación con Whisper -> tools/_revision_voz_es.txt
 ```
 
-`docs/data/quiz.json` y `docs/data/glosario.json` se redactaron a mano a partir de los textos.
+Las correcciones de pronunciación están en `REEMPLAZOS_ES` de `tools/voces.py` (p. ej. "geositio" se
+sintetizaba "geosicio"; se envía como "geo sitio"). El libro en PDF se publica en
+`docs/libro/Geositios-de-Chile-Sernageomin-2023.pdf`; el botón de descarga se activa solo si el archivo existe.
+
+`docs/data/quiz[-en].json` y `docs/data/glosario[-en].json` se redactaron a mano a partir de los textos.
 Al cambiar el shell de la app, subir `VERSION` en `docs/sw.js`.
 
 Prueba de GPS sin moverse: abrir con `?sim=lat,lon` (p. ej. `?sim=-22.339,-68.012` junto a El Tatio).

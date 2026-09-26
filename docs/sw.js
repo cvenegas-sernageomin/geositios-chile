@@ -1,7 +1,7 @@
 /* Service worker de Geositios de Chile.
    OJO: el origen cvenegas-sernageomin.github.io es compartido con otras PWAs (Geonotas, etc.):
    caches.keys() devuelve también sus cachés. Solo se purgan las que calzan con MIAS. */
-const VERSION = 'geositios-chile-v2';
+const VERSION = 'geositios-chile-v3';
 const SHELL = VERSION + '-shell';
 const MEDIA = 'geositios-chile-media-v1';   // fotos y audios (misma constante en app.js)
 const TILES = 'geositios-chile-tiles';
@@ -14,6 +14,7 @@ const ASSETS = [
   'vendor/leaflet.js', 'vendor/leaflet.css',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/favicon.png',
   'data/geositios.json', 'data/quiz.json', 'data/glosario.json',
+  'data/en.json', 'data/quiz-en.json', 'data/glosario-en.json',
 ];
 
 self.addEventListener('install', e => {
@@ -70,6 +71,8 @@ self.addEventListener('fetch', e => {
     return;
   }
   if (url.origin !== location.origin) return;
+  // El PDF del libro es grande: se descarga directo, sin pasar por la caché
+  if (url.pathname.endsWith('.pdf')) return;
 
   // Narraciones: desde caché si están descargadas (con soporte de Range para adelantar/retroceder)
   if (url.pathname.endsWith('.mp3')) {

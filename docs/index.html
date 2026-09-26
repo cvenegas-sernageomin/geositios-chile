@@ -4,7 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Geositios de Chile</title>
-<meta name="description" content="Recorre con tu GPS los 49 geositios del libro Geositios de Chile (Sernageomin): narración, sellos, quiz y glosario.">
+<meta name="description" content="Recorre con tu GPS los 49 geositios del libro Geositios de Chile (Sernageomin): narración, sellos, quiz y glosario. / Explore the 49 geosites of Chile with your GPS.">
+<meta name="author" content="Carlos Venegas">
 <meta name="theme-color" content="#152634">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/favicon.png">
@@ -17,18 +18,14 @@
 
 <!-- Bienvenida (primera vez) -->
 <div id="bienvenida" class="bienvenida" hidden>
-  <div class="bv-foto"><img id="bv-img" alt=""></div>
+  <div class="bv-foto"><img id="bv-img" alt=""><button class="btn-idioma bv-idioma" aria-label="Idioma / Language">EN</button></div>
   <div class="bv-cuerpo">
     <p class="sobre">Sernageomin · 2023</p>
-    <h1>Geositios de Chile</h1>
-    <p class="sub">Una mirada a sus maravillas geológicas</p>
-    <ul class="bv-lista">
-      <li><span>🗺️</span> Recorre 49 lugares donde la Tierra cuenta su historia</li>
-      <li><span>🎧</span> Escucha cada geositio narrado</li>
-      <li><span>📍</span> Llega con tu GPS y gana su sello en el pasaporte</li>
-      <li><span>🧠</span> Responde el quiz y colecciona insignias</li>
-    </ul>
-    <button id="bv-ok" class="btn primario grande">Comenzar el viaje</button>
+    <h1 data-t="titulo">Geositios de Chile</h1>
+    <p class="sub" data-t="subtitulo">Una mirada a sus maravillas geológicas</p>
+    <ul class="bv-lista" id="bv-lista"></ul>
+    <button id="bv-ok" class="btn primario grande" data-t="comenzar">Comenzar el viaje</button>
+    <p class="bv-firma" data-t="dev">App desarrollada por Carlos Venegas</p>
   </div>
 </div>
 
@@ -38,9 +35,12 @@
     <div id="mapa"></div>
     <div class="mapa-top">
       <div class="nivel-pill" id="nivel-pill" role="button" tabindex="0"></div>
-      <button class="btn-redondo" id="btn-capas" aria-label="Cambiar mapa base">🗺️</button>
+      <div class="mapa-botones">
+        <button class="btn-redondo btn-idioma" aria-label="Idioma / Language">EN</button>
+        <button class="btn-redondo" id="btn-capas" aria-label="Mapa base / Base map">🗺️</button>
+      </div>
     </div>
-    <button class="btn-redondo gps" id="btn-gps" aria-label="Centrar en mi posición">📍</button>
+    <button class="btn-redondo gps" id="btn-gps" aria-label="GPS">📍</button>
     <div class="mas-cercano" id="mas-cercano" hidden></div>
   </section>
 
@@ -48,9 +48,9 @@
   <section id="v-cerca" class="vista" hidden>
     <header class="cab">
       <h2 id="cerca-titulo">Explorar</h2>
-      <input id="buscar" type="search" placeholder="Buscar geositio, comuna, roca…" autocomplete="off">
+      <input id="buscar" type="search" data-t-ph="buscar" autocomplete="off">
       <div class="filtros" id="filtros-cat"></div>
-      <select id="filtro-region" aria-label="Región"><option value="">Todas las regiones</option></select>
+      <select id="filtro-region" aria-label="Región / Region"></select>
     </header>
     <ol class="lista" id="lista"></ol>
   </section>
@@ -58,46 +58,59 @@
   <!-- PASAPORTE -->
   <section id="v-pasaporte" class="vista" hidden>
     <header class="cab">
-      <h2>Mi pasaporte</h2>
+      <h2 data-t="mi_pasaporte">Mi pasaporte</h2>
       <div class="resumen-puntos" id="resumen-puntos"></div>
     </header>
-    <h3 class="sec">Insignias</h3>
+    <h3 class="sec" data-t="insignias">Insignias</h3>
     <div class="insignias" id="insignias"></div>
-    <h3 class="sec">Sellos <small>📍 visitado · 🧠 estudiado</small></h3>
+    <h3 class="sec"><span data-t="sellos">Sellos</span> <small data-t="sellos_leyenda"></small></h3>
     <div class="sellos" id="sellos"></div>
   </section>
 
   <!-- LIBRO -->
   <section id="v-libro" class="vista" hidden>
-    <div class="portada"><img id="portada-img" alt="Portada: Cerro Castillo"></div>
+    <div class="portada"><img id="portada-img" alt="Cerro Castillo"></div>
     <div class="libro-cuerpo">
       <p class="sobre">Sernageomin · 2023</p>
-      <h2>Geositios de Chile</h2>
-      <p class="sub">Una mirada a sus maravillas geológicas</p>
+      <h2 data-t="titulo">Geositios de Chile</h2>
+      <p class="sub" data-t="subtitulo"></p>
+      <p class="firma-libro" data-t="dev"></p>
       <p id="lema" class="lema"></p>
-      <button class="btn primario" id="btn-intro">▶ Escuchar introducción y prólogos</button>
+      <div class="fila-botones">
+        <button class="btn primario" id="btn-intro" data-t="escuchar_intro"></button>
+        <a class="btn" id="btn-pdf" download></a>
+      </div>
+      <p class="pie-foto" data-t="libro_pdf_desc"></p>
       <div id="prologos"></div>
       <p class="pie-foto" id="pie-portada"></p>
 
-      <h3 class="sec">Para terreno</h3>
+      <h3 class="sec" data-t="idioma">Idioma</h3>
+      <div class="tarjeta fila-botones idioma-fila">
+        <span>🌐 Español · English</span>
+        <button class="btn btn-idioma largo">EN</button>
+      </div>
+
+      <h3 class="sec" data-t="para_terreno"></h3>
       <div class="tarjeta">
-        <p>Descarga fotos y narraciones para usar la app sin señal. El mapa base solo guarda las zonas que ya viste.</p>
+        <p data-t="terreno_txt"></p>
         <div class="fila-botones">
-          <button class="btn" id="btn-descargar">⬇ Descargar todo</button>
+          <button class="btn" id="btn-descargar" data-t="descargar_todo"></button>
         </div>
         <div class="progreso" id="descarga-prog" hidden><div></div><span></span></div>
       </div>
 
-      <h3 class="sec">Glosario geológico</h3>
-      <input id="buscar-glosario" type="search" placeholder="Buscar término…">
+      <h3 class="sec" data-t="glosario"></h3>
+      <input id="buscar-glosario" type="search" data-t-ph="buscar_termino">
       <dl class="glosario" id="glosario"></dl>
 
-      <h3 class="sec">Créditos</h3>
+      <h3 class="sec" data-t="creditos"></h3>
       <div class="tarjeta creditos">
+        <p class="dev-credito">💻 <b data-t="dev_corto"></b></p>
         <p id="referencia"></p>
-        <p>Textos y fotografías del libro; los autores de cada foto se indican en su ficha. Narración generada con voz sintética. Quiz y glosario elaborados a partir de los textos del libro.</p>
-        <p>Mapas: © OpenStreetMap, Esri.</p>
-        <button class="btn peque" id="btn-reset">Reiniciar mi progreso</button>
+        <p data-t="creditos_txt"></p>
+        <p id="creditos-en" data-t="creditos_en" hidden></p>
+        <p data-t="mapas"></p>
+        <button class="btn peque" id="btn-reset" data-t="reiniciar"></button>
       </div>
     </div>
   </section>
@@ -110,12 +123,12 @@
 
 <!-- Reproductor de narración (global: sigue sonando fuera de la ficha) -->
 <div class="reproductor" id="reproductor" hidden>
-  <button class="rep-play" id="rep-play" aria-label="Reproducir">▶</button>
+  <button class="rep-play" id="rep-play" aria-label="Play">▶</button>
   <div class="rep-centro">
     <div class="rep-titulo" id="rep-titulo"></div>
-    <input type="range" id="rep-barra" min="0" max="100" value="0" step="0.1" aria-label="Posición">
+    <input type="range" id="rep-barra" min="0" max="100" value="0" step="0.1" aria-label="Posición / Position">
   </div>
-  <button class="rep-vel" id="rep-vel" aria-label="Velocidad">1×</button>
+  <button class="rep-vel" id="rep-vel" aria-label="Velocidad / Speed">1×</button>
 </div>
 
 <!-- Tarjeta de glosario / avisos -->
@@ -124,10 +137,10 @@
 <div id="sello-anim" class="sello-anim" hidden></div>
 
 <nav class="tabs" id="tabs">
-  <a href="#/" data-v="mapa"><span>🗺️</span>Mapa</a>
-  <a href="#/cerca" data-v="cerca"><span>🧭</span>Explorar</a>
-  <a href="#/pasaporte" data-v="pasaporte"><span>🎖️</span>Pasaporte</a>
-  <a href="#/libro" data-v="libro"><span>📖</span>Libro</a>
+  <a href="#/" data-v="mapa"><span>🗺️</span><b data-t="tab_mapa">Mapa</b></a>
+  <a href="#/cerca" data-v="cerca"><span>🧭</span><b data-t="tab_cerca">Explorar</b></a>
+  <a href="#/pasaporte" data-v="pasaporte"><span>🎖️</span><b data-t="tab_pasaporte">Pasaporte</b></a>
+  <a href="#/libro" data-v="libro"><span>📖</span><b data-t="tab_libro">Libro</b></a>
 </nav>
 
 <audio id="audio" preload="none"></audio>

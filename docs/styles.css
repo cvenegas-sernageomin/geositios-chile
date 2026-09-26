@@ -297,3 +297,17 @@ details.prologo p { font-size: 16px; }
   .ficha { left: auto; width: 560px; box-shadow: -10px 0 40px rgba(0,0,0,.25); }
   .heroe { height: 340px; }
 }
+
+/* ---------- Idioma, créditos y libro PDF ---------- */
+.tabs a b { font-weight: 600; }
+.mapa-botones { display: flex; gap: 8px; }
+.btn-idioma.btn-redondo { font: 700 14px system-ui; }
+.bv-idioma { position: absolute; z-index: 2; top: calc(12px + env(safe-area-inset-top)); right: 12px; border: 0; border-radius: 999px; padding: 7px 14px; background: rgba(0,0,0,.5); color: #fff; font: 700 14px system-ui; backdrop-filter: blur(6px); }
+.bv-firma { text-align: center; font-size: 12px; color: #9fb0bd; margin: 10px 0 0; }
+.firma, .firma-libro { font-size: 13px; color: var(--tinta-2); }
+.firma { text-align: center; margin-top: 26px; }
+.firma-libro { margin: -4px 0 12px; font-weight: 600; }
+.dev-credito { font-size: 15px; color: var(--tinta); }
+.idioma-fila { align-items: center; justify-content: space-between; }
+#btn-pdf.deshabilitado { opacity: .55; pointer-events: none; font-weight: 600; }
+.libro-cuerpo .fila-botones { margin: 6px 0 2px; }

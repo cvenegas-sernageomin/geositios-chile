@@ -1,0 +1,248 @@
+{
+"_formato": "Same structure as quiz.json: the FIRST option is correct; the app shuffles them.",
+"g01": [
+ {"p": "What process sculpted the pillars of the Lauca River Valley Cathedral?", "o": ["Intense water runoff over the slopes", "Glaciers", "Waves of an ancient sea", "Lava eruptions"], "e": "Runoff over layers of lake sediments and volcanic ash has carved the pillars since the Pleistocene."},
+ {"p": "What is the name of the sequence of sediments and ash at this geosite?", "o": ["Lauca Formation", "Oxaya Formation", "La Negra Formation", "Camaraca Formation"], "e": "The Lauca Formation is 6.2 to 2.6 million years old (Late Miocene–Late Pliocene)."},
+ {"p": "What color are the interbedded volcanic ash layers?", "o": ["Whitish", "Black", "Bright green", "Blood red"], "e": "The volcanic ash is whitish and contrasts with the brown lake sediments."}
+],
+"g02": [
+ {"p": "What are the oval-shaped lavas seen at the Morro de Arica called?", "o": ["Pillow lavas", "Ropy lavas", "Aa lavas", "Columnar lavas"], "e": "They form when lava cools rapidly on contact with seawater."},
+ {"p": "What period do the rocks of the Morro de Arica belong to?", "o": ["Middle Jurassic", "Late Cretaceous", "Pleistocene", "Cambrian"], "e": "Their fossils date them to the Middle Jurassic, 170 to 163 million years ago."},
+ {"p": "What do the fossil bivalves, ammonites and corals of the Morro indicate?", "o": ["The rocks formed in a shallow sea", "There was a tropical forest", "There was a large freshwater lake", "The area was under glaciers"], "e": "They are marine organisms of shallow environments."}
+],
+"g03": [
+ {"p": "Which mineral gives the Amuyo crusts their yellowish-green color?", "o": ["Orpiment", "Realgar", "Quartz", "Calcite"], "e": "Orpiment gives yellowish-green tones; realgar gives orange-red ones."},
+ {"p": "What are the heat-tolerant bacteria in these lagoons called?", "o": ["Thermophiles", "Halophobes", "Cryophiles", "Strict anaerobes"], "e": "Thermophilic bacteria build structures called stromatolites and thrombolites."},
+ {"p": "Why is this geosite important for studying the origin of life?", "o": ["Similar organisms have existed on Earth for about 3,500 million years", "Dinosaurs were found here", "A meteorite with life fell here", "It is the coldest lagoon in the world"], "e": "Its bacterial colonies help us understand early life and the possibility of life elsewhere."}
+],
+"g04": [
+ {"p": "Why is the Cerro Dragón dune classified as fossil or relict?", "o": ["It no longer has an active source of sand", "It contains dragon bones", "It is covered by lava", "It formed in the Jurassic"], "e": "Without a beach to feed it, the dune receives no new sand."},
+ {"p": "When did the dune originate?", "o": ["During the Last Glacial Maximum, about 20,000 years ago", "200 million years ago", "Only 500 years ago", "In the Cretaceous"], "e": "Sea level was about 100 m lower and exposed a sandy platform."},
+ {"p": "What threatens the integrity of the dune?", "o": ["Urban growth, sand extraction and recreational activities", "Submarine earthquakes", "Nearby volcanic eruptions", "Frost"], "e": "Real-estate pressure in Iquique has fragmented it."}
+],
+"g05": [
+ {"p": "Why is the Pintados salt flat fossil or inactive?", "o": ["It receives no recharge from surface streams", "It is covered by lava", "It froze thousands of years ago", "It was drained by mining"], "e": "Its salt crust is disconnected from deep groundwater."},
+ {"p": "About how many figures make up the Pintados geoglyphs?", "o": ["About 450", "About 12", "More than 10,000", "Only 3"], "e": "About 450 figures over 50,000 m², made by pre-Hispanic peoples between 700 and 1500 AD."},
+ {"p": "What technique was mainly used to make the geoglyphs?", "o": ["Removing surface material", "Painting with oxides", "Carving with metal tools", "Piling up shells"], "e": "Removing surface material creates contrast with the natural ground."}
+],
+"g06": [
+ {"p": "What does 'puquio' mean in Quechua?", "o": ["A lagoon or place where water springs up", "White salt", "Mountain", "Burning sun"], "e": "Puquios are lagoons where groundwater emerges."},
+ {"p": "Which microbial communities live in the Llamara puquios?", "o": ["Microbial mats and evaporitic domes", "Coral reefs", "Giant kelp forests", "Fungal colonies"], "e": "Both are made of gypsum and microorganisms in extreme conditions."},
+ {"p": "Why do these lagoons have such high evaporation?", "o": ["The extreme solar radiation of the Atacama Desert", "Nearby geysers", "Polar winds", "They sit high on a volcano"], "e": "The Atacama Desert receives the highest solar radiation on the planet."}
+],
+"g07": [
+ {"p": "Where does El Tatio rank among the world's geothermal fields?", "o": ["Third", "First", "Tenth", "Fiftieth"], "e": "It is the most important in Chile and Latin America and the third in the world."},
+ {"p": "What share of the world's geysers is at El Tatio?", "o": ["8%", "50%", "1%", "25%"], "e": "Its geysers make up 8% of these features worldwide."},
+ {"p": "What temperature do the fluids reach at depth?", "o": ["280 °C", "86 °C", "1,200 °C", "40 °C"], "e": "They reach 280 °C at depth and 86 °C at the surface."}
+],
+"g08": [
+ {"p": "Why did the arches of La Portada form?", "o": ["The sedimentary rocks resist waves less than the volcanic rocks at the base", "They were carved by ancient peoples", "A volcano collapsed", "An earthquake in 1990"], "e": "Differential erosion wears away the La Portada Formation's sedimentary rocks faster."},
+ {"p": "What rocks are seen at the base of the cliff and arches?", "o": ["Volcanic rocks of the La Negra Formation (Jurassic)", "Marble", "Paleozoic granite", "Salt"], "e": "The La Negra Formation formed from volcanic activity 180 to 143 million years ago."},
+ {"p": "Why is access to the beach restricted?", "o": ["Risk of rockfall from the cliff", "It is a military zone", "Red tides", "Geysers"], "e": "The cliff keeps retreating slowly and steadily."}
+],
+"g09": [
+ {"p": "What makes Monturaqui crater unique in Chile?", "o": ["It is the only confirmed meteorite impact structure in the country", "It is the highest volcano", "It is the deepest crater in the world", "It has a lava lake"], "e": "It was discovered in 1962 from aerial photographs."},
+ {"p": "How long ago did the meteorite strike?", "o": ["500,000 to 700,000 years ago", "66 million years ago", "2,000 years ago", "In 1962"], "e": "It happened in the Middle Pleistocene."},
+ {"p": "What type of meteorite was it?", "o": ["Iron", "Ice", "Pure carbon", "Volcanic glass"], "e": "Its remains, along with the impactites, have been removed by unregulated expeditions."}
+],
+"g10": [
+ {"p": "What are the spheres that give this rock its spotted look called?", "o": ["Orbicules", "Amygdules", "Vesicles", "Chert nodules"], "e": "They average 6 cm and formed as minerals arranged themselves while the magma crystallized."},
+ {"p": "How many orbicular rocks have been described worldwide?", "o": ["Only about a hundred", "Millions", "Only this one", "About ten thousand"], "e": "They are rare, which is why this one became a Nature Sanctuary in 1981."},
+ {"p": "Which intrusive body does the orbicular tonalite belong to?", "o": ["Relincho Pluton", "Patagonian Batholith", "Southern Coastal Batholith", "Altos de Talinay Plutonic Complex"], "e": "The Relincho Pluton is 195 to 180 million years old (Early Jurassic)."}
+],
+"g11": [
+ {"p": "What are the layers rich in vertebrate fossils at Los Dedos called?", "o": ["A bone bed", "Red bed", "Gold layer", "Lava level"], "e": "They belong to the Mina Fosforita sub-unit, about 7 million years old."},
+ {"p": "Which giant shark left teeth over 15 cm long here?", "o": ["Carcharocles megalodon", "Whale shark", "Hammerhead shark", "Modern great white"], "e": "Its teeth stand out for their size."},
+ {"p": "How many fossil vertebrate species have been identified?", "o": ["More than 70", "Fewer than 5", "About 12", "More than 1,000"], "e": "They include sharks, crocodiles, penguins, whales, marine sloths and more."}
+],
+"g12": [
+ {"p": "What rocks form the orange layers of Quebrada Pinte?", "o": ["Sandstones and limestones", "Granites", "Basalts", "Marbles"], "e": "They belong to the fossil-rich Lautaro Formation."},
+ {"p": "What covered this area 190 to 170 million years ago?", "o": ["The sea", "A dune desert", "A glacier", "A large volcano"], "e": "In the Early to Middle Jurassic much of southern South America was under the sea."},
+ {"p": "Where can you see collections of its fossils?", "o": ["Don Gabito's site museum", "The Louvre", "Termas del Flaco", "Easter Island"], "e": "The museum is inside the ravine."}
+],
+"g13": [
+ {"p": "Which dinosaur was found at Pichasca?", "o": ["An 18 m long titanosaur", "A tyrannosaur", "A velociraptor", "A triceratops"], "e": "Antarctosaurus wichmannianus, from the Late Cretaceous."},
+ {"p": "What forms the roof of Casa de Piedra?", "o": ["A sill, a more resistant intrusive rock", "Glacial ice", "A salt layer", "Compacted sand"], "e": "The softer sedimentary rocks below eroded faster, leaving the overhang."},
+ {"p": "Which culture lived in the rock shelter about 9,000 years ago?", "o": ["Molle culture", "Inca culture", "Rapa Nui culture", "Selk'nam culture"], "e": "They left arrowheads, rock paintings and basketry."}
+],
+"g14": [
+ {"p": "What are terraces formed by wave erosion called?", "o": ["Marine abrasion terraces", "River terraces", "Farming terraces", "Moraines"], "e": "They record sea-level changes and the uplift of the Coastal Range."},
+ {"p": "What allows a southern forest to exist at Fray Jorge?", "o": ["Moisture from coastal fog (camanchaca)", "An underground hot river", "Tropical rains", "Artificial irrigation"], "e": "Olivillo and canelo trees survive thanks to the camanchaca."},
+ {"p": "How old is the youngest terrace (T5)?", "o": ["About 6,000 years", "321,000 years", "5 million years", "213 million years"], "e": "It lies at 10 m a.s.l.; T2 is 321,000 and T4 is 122,000 years old."}
+],
+"g15": [
+ {"p": "What human find stands out near Quebrada Quereo?", "o": ["Remains of the oldest dated human in South America", "An Inca city", "50,000-year-old rock paintings", "A Chinchorro mummy"], "e": "They are about 12,000 years old."},
+ {"p": "What extinct fauna is preserved under the dunes?", "o": ["Mylodons, gomphotheres and artiodactyls", "Dinosaurs", "Trilobites", "European woolly mammoths"], "e": "They are between 8,000 and 30,000 years old."},
+ {"p": "Why are some Quereo dunes still active?", "o": ["Wind carries sand from the beaches", "Earthquakes", "Rivers", "Eruptions"], "e": "The wind keeps bringing sand from the beach."}
+],
+"g16": [
+ {"p": "What created Easter Island (Rapa Nui)?", "o": ["A mantle plume (hotspot)", "A collision of continental plates", "A meteorite", "Uplifted reefs"], "e": "Rano Kao, Poike and Terevaka volcanoes form the island's volcanic complex."},
+ {"p": "What does the Rano Kao crater hold?", "o": ["A freshwater lake", "A glacier", "A lava lake", "A geyser"], "e": "It is one of the island's key freshwater reserves and an archive of past climates."},
+ {"p": "Which ceremonial village sits on the crater's slope?", "o": ["Orongo", "Hanga Roa", "Anakena", "Tongariki"], "e": "Orongo is of great significance to Rapa Nui culture."}
+],
+"g17": [
+ {"p": "What is the Devil's Staircase geologically?", "o": ["A dike: intrusive rock that cut vertically through other rocks", "A lava flow", "A petrified dune", "A fossil reef"], "e": "Magma rose through fractures and solidified quickly."},
+ {"p": "Why does the dike stand out above the ground?", "o": ["It is more resistant to erosion than the surrounding rock", "People built it", "It is growing", "A recent earthquake"], "e": "Its fractures control how blocks break off, forming the 'steps'."},
+ {"p": "Which project seeks to conserve this geosite?", "o": ["Petorca Valley Geopark", "Kütralkura Geopark", "Cajón del Maipo Geopark", "Puchuncaví Geopark"], "e": "It seeks to conserve and showcase it for local communities."}
+],
+"g18": [
+ {"p": "Which aquatic sloth lived at Quirilluca?", "o": ["Thalassocnus", "Megatherium", "Mylodon", "Three-toed sloth"], "e": "It lived 3 to 2 million years ago, at the end of the Pliocene."},
+ {"p": "What are the flat surfaces above the cliff?", "o": ["Uplifted marine terraces", "Volcanic plateaus", "Glacial plains", "Dune fields"], "e": "They formed underwater by wave abrasion and were later uplifted."},
+ {"p": "What are the two 5 m blocks on the beach?", "o": ["Remains of a collapsed rock arch", "Ancient statues", "Volcanic bombs", "Glacial erratics"], "e": "Waves keep eroding the coastline."}
+],
+"g19": [
+ {"p": "Why are the Concón Dunes fossil dunes?", "o": ["A cliff cuts them off from beach sand", "They contain dinosaurs", "They are made of rock", "They are 100 million years old"], "e": "They sit on a marine terrace at 80 m a.s.l."},
+ {"p": "When did these wind-blown sands accumulate?", "o": ["In the Late Pleistocene", "In the Jurassic", "In the 20th century", "In the Cambrian"], "e": "They cover marine sediments of the Caleta Horcón Formation (Late Pliocene)."},
+ {"p": "What mainly affects this sanctuary?", "o": ["Vehicle traffic and building construction", "Volcanoes", "Glaciers", "Desert drought"], "e": "Its location in the largest coastal urban area makes it very fragile."}
+],
+"g20": [
+ {"p": "What is Cerro Santa Lucía called in the Mapuche language?", "o": ["Huelén", "Ruka Pillañ", "Manquehue", "Pillanmapu"], "e": "It was declared a Historic Monument in 1983."},
+ {"p": "What shape do the most distinctive columns have?", "o": ["Hexagonal base", "Circular base", "Perfect triangular base", "No defined shape"], "e": "Columns can have 3 to 6 sides; hexagonal ones are the most distinctive."},
+ {"p": "What do the rocks of Santa Lucía, San Cristóbal and Manquehue represent?", "o": ["Magmatic roots of early Miocene volcanoes", "Fossil reefs", "Glacial moraines", "Meteorite remains"], "e": "They are 22 to 20 million years old."}
+],
+"g21": [
+ {"p": "Why are the Lo Valdés 'plates' vertical?", "o": ["Deformation during the rise of the Andes tilted them", "They were always deposited that way", "A glacier lifted them", "People built them"], "e": "They were originally horizontal layers on the seafloor."},
+ {"p": "How many ammonite species have been found?", "o": ["More than 39", "Only 1", "About 5", "More than 500"], "e": "Ammonites are extinct shelled cephalopods, relatives of the nautilus."},
+ {"p": "How deep was the sea where these layers formed?", "o": ["No more than 100 m", "More than 4,000 m", "About 10 cm", "There was no sea"], "e": "They formed 152 to 129 million years ago on volcanic rocks."}
+],
+"g22": [
+ {"p": "What gives the ravine's rocks their yellow-orange color?", "o": ["Hot fluids from San José volcano altered the minerals", "Natural lichen paint", "Desert dust", "Native gold"], "e": "They produced clays and iron oxides."},
+ {"p": "Which geological hazard occurs in the ravine during heavy rain?", "o": ["Debris flows", "Tsunamis", "Eruptions", "Geysers"], "e": "The altered rocks are brittle and erode easily."},
+ {"p": "What can a large debris flow here affect?", "o": ["Santiago's drinking water supply", "The port of Valparaíso", "El Tatio's geysers", "Navarino Island"], "e": "It can damage the water intake on the Maipo River."}
+],
+"g23": [
+ {"p": "What is the Pudahuel Ignimbrite?", "o": ["A pyroclastic flow deposit from a huge eruption", "A lava flow", "A marine sediment", "A glacial deposit"], "e": "It is linked to the collapse of an eruption column kilometers high."},
+ {"p": "Which volcanic depression formed in that eruption?", "o": ["Diamante Caldera", "Monturaqui crater", "Chaitén caldera", "Rano Kao"], "e": "Today Laguna del Diamante, in Argentina, fills it."},
+ {"p": "What makes up 85 to 90% of the deposit at Machalí?", "o": ["Volcanic ash", "Beach sand", "Ice", "Salt"], "e": "It contains very few rock fragments and some pumice."}
+],
+"g24": [
+ {"p": "How many kinds of dinosaurs left tracks at Termas del Flaco?", "o": ["Three: ornithopods, theropods and sauropods", "Only one", "Ten", "None: they are bird tracks"], "e": "Some may belong to the ichnogenus Brontopodus."},
+ {"p": "What preserved the tracks?", "o": ["Ash from volcanic eruptions that buried them", "Glacial ice", "Tree resin", "Desert salt"], "e": "The ash covered the footprints soon after they formed."},
+ {"p": "Where were these dinosaurs walking?", "o": ["Along a coastal lagoon near a coral reef", "In a cold desert", "On a volcano's summit", "On a glacier"], "e": "The climate was tropical to subtropical."}
+],
+"g25": [
+ {"p": "What type of fault is the El Fierro Fault?", "o": ["Low-angle reverse fault", "Vertical normal fault", "Oceanic transform fault", "It is not a fault"], "e": "It verges east and is associated with an anticline."},
+ {"p": "What recent event was linked to this fault?", "o": ["Earthquakes up to magnitude 6.5 in 2004", "The Chaitén eruption", "The Valdivia earthquake", "A tsunami"], "e": "It shows the fault has been active since the Late Eocene."},
+ {"p": "Which basin did these faults control from about 37 million years ago?", "o": ["Abanico Basin", "Santiago Basin", "Amazon Basin", "Magallanes Basin"], "e": "They controlled its eastern edge since the end of the Eocene."}
+],
+"g26": [
+ {"p": "What rock forms the Piedra de la Iglesia in Constitución?", "o": ["Monzogranite (intrusive rock)", "Marble", "Sandstone", "Basalt"], "e": "It crystallized in the Late Triassic, about 224 million years ago."},
+ {"p": "What are these islets?", "o": ["Remains of an ancient cliff eroded by the sea", "Submarine volcanoes", "Coral reefs", "Ancient buildings"], "e": "The cliff formed in the Late Pleistocene."},
+ {"p": "What extra value do the Constitución Rocks have?", "o": ["They are bird nesting sites", "They contain gold", "They emit hot gases", "They have dinosaur tracks"], "e": "Gulls, boobies, cormorants and pelicans nest there."}
+],
+"g27": [
+ {"p": "How did the 'cups' of the Claro River form?", "o": ["Erosion by rock fragments dragged along the riverbed", "Volcanic explosions", "People dug them", "Meteorites"], "e": "Erosion progressively deepened pools in the lava."},
+ {"p": "What rocks does the river flow over at Siete Tazas?", "o": ["Lava layers", "Marble", "Salt", "Loose sand"], "e": "They belong to the Planicies y Valles Volcanic Unit (Pliocene–Pleistocene)."},
+ {"p": "According to the text, what do columnar joint fractures resemble?", "o": ["Cracks in drying mud", "Tree branches", "Ocean waves", "Ice crystals"], "e": "They form polygons, mostly hexagons."}
+],
+"g28": [
+ {"p": "Why is the geosite called 'La Cárcel' (The Prison)?", "o": ["Its vertical columns look like the bars of a cell", "There was a prison", "It is hard to leave the valley", "A bandit legend"], "e": "The columns are up to 20 m high."},
+ {"p": "Which volcanic complex do these rocks belong to?", "o": ["Laguna del Maule Volcanic Complex", "Lonquimay Volcanic Complex", "Nevados de Chillán", "Villarrica volcano"], "e": "They are about 116,000 years old (Late Pleistocene)."},
+ {"p": "Which sport makes this place famous?", "o": ["Rock climbing", "Surfing", "Diving", "Water skiing"], "e": "It is one of the most attractive climbing spots in South America."}
+],
+"g29": [
+ {"p": "What did the Los Pincheira lavas flow beneath?", "o": ["Extensive glaciers", "The sea", "A city", "A salt flat"], "e": "They advanced gradually because they had to melt the ice."},
+ {"p": "About how far did these lavas travel?", "o": ["About 40 km", "About 200 m", "More than 1,000 km", "3 km"], "e": "They are among the longest lava flows in southern Chile."},
+ {"p": "Who used the cave as a hideout?", "o": ["The Pincheira, 19th-century outlaws", "English pirates", "The Incas", "20th-century gold miners"], "e": "Hence its name and legend."}
+],
+"g30": [
+ {"p": "What are rock fragments picked up by magma called?", "o": ["Xenoliths", "Orbicules", "Stromatolites", "Concretions"], "e": "They come from rocks of the Metamorphic Basement."},
+ {"p": "Which very special rock formed through magma interaction?", "o": ["Olivine granodiorite", "Pink marble", "Obsidian", "Fossiliferous limestone"], "e": "Only two are documented in Chile and about 30 worldwide."},
+ {"p": "How long ago did the Cobquecura magmas interact?", "o": ["About 210 million years ago (end of the Triassic)", "10,000 years ago", "2 million years ago", "541 million years ago"], "e": "It happened deep in the Earth's crust."}
+],
+"g31": [
+ {"p": "Where does the name 'Los Pangues' come from?", "o": ["The abundant pangue or nalca plants", "A chief", "A river", "A mineral"], "e": "Their leaves can exceed a meter across."},
+ {"p": "Which layer forms the roof of the grotto?", "o": ["A more resistant layer with lithic bombs", "An ice layer", "A quartz vein", "A ropy lava flow"], "e": "The weaker layers below eroded, forming the cavity."},
+ {"p": "How long ago did the eruptions that formed these layers occur?", "o": ["About 2,300 years ago", "65 million years ago", "300,000 years ago", "In 2008"], "e": "They were large explosive eruptions of Nevados de Chillán in the Holocene."}
+],
+"g32": [
+ {"p": "Which marine reptile stands out at Caleta Cocholgüe?", "o": ["Aristonectes quiriquinensis, a plesiosaur", "A giant ichthyosaur", "A modern crocodile", "A marine iguana"], "e": "It is the youngest plesiosaur described to date."},
+ {"p": "Which great transition in geological time do these rocks record?", "o": ["From the Mesozoic to the Cenozoic era, 66 million years ago", "The origin of life", "The last glaciation", "The formation of the Moon"], "e": "It shows in the change of fossil fauna between the Quiriquina and Curanilahue formations."},
+ {"p": "What is bioturbation?", "o": ["Fossil structures made by organisms in sediments", "Water whirlpools", "Lava bubbles", "A type of shell"], "e": "They are also called trace fossils."}
+],
+"g33": [
+ {"p": "What shape does an anticline have?", "o": ["Convex, like '∩'", "Concave, like 'U'", "Flat", "Spiral"], "e": "A concave fold ('U') is called a syncline."},
+ {"p": "What does it mean that the fold is 'overturned'?", "o": ["Its axial plane is tilted and one limb is inverted", "It is underwater", "It broke in two", "It is very young"], "e": "On the overturned limb, older layers lie above younger ones."},
+ {"p": "What caused the folding?", "o": ["A deep fault pushing the layers from below", "A meteorite", "Wind erosion", "A glacier"], "e": "It happened between 14 and 9 million years ago."}
+],
+"g34": [
+ {"p": "What rock forms the Piedra del Águila viewpoint?", "o": ["Granodiorite", "Marble", "Basalt", "Sandstone"], "e": "It belongs to the Southern Coastal Batholith (Late Paleozoic)."},
+ {"p": "At what depth did the batholith magmas cool?", "o": ["About 12 to 15 km", "At the surface", "100 m", "500 km"], "e": "They started at 700 to 800 °C."},
+ {"p": "Which metamorphic rock is found around the viewpoint?", "o": ["Gneiss", "Slate", "Marble", "Quartzite"], "e": "It formed when sedimentary rocks were heated above 600 °C."}
+],
+"g35": [
+ {"p": "When did the eruption that built the Navidad cone begin?", "o": ["December 25, 1988", "May 2, 2008", "1971", "10,000 years ago"], "e": "Hence its name: it began on Christmas (Navidad)."},
+ {"p": "Why did so much livestock die?", "o": ["Ash with high fluorine content (osteofluorosis)", "The lava", "The cold", "A tsunami"], "e": "About 50,000 head of livestock died."},
+ {"p": "How long did lava flow down the Lolco River valley?", "o": ["13 months", "2 days", "10 years", "1 hour"], "e": "It reached 10 km from its source."}
+],
+"g36": [
+ {"p": "How many layers can be seen in the canyon wall?", "o": ["About 70", "Only 3", "About 1,000", "Just one"], "e": "They record ash falls, pyroclastic flows and lahars."},
+ {"p": "Which deposit lies at the base of the sequence?", "o": ["The Curacautín Ignimbrite", "The Pudahuel Ignimbrite", "The Lauca Formation", "The 1971 lavas"], "e": "It is Llaima's largest and oldest eruption."},
+ {"p": "Where does Llaima rank in the specific-risk ranking?", "o": ["3rd", "1st", "49th", "It is not ranked"], "e": "It is one of Chile's most active volcanoes."}
+],
+"g37": [
+ {"p": "What does 'Ruka Pillañ' mean?", "o": ["House of the spirit", "Fire mountain", "Blue lake", "Land of the sun"], "e": "It is the Mapuche name of Villarrica volcano."},
+ {"p": "What does Villarrica's crater have that only 7 volcanoes in the world have?", "o": ["An open crater with a lava lake", "A freshwater lake", "A glacier inside the crater", "A giant geyser"], "e": "It is a true natural laboratory."},
+ {"p": "Where does Villarrica rank in the specific-risk ranking?", "o": ["1st", "11th", "3rd", "6th"], "e": "Because of its high hazard and nearby towns, it is monitored in real time."}
+],
+"g38": [
+ {"p": "What is 'cancagua'?", "o": ["A local hardened sand", "A native wood", "A type of lime", "A copper ore"], "e": "It was used to carve Fuerte Niebla's battery and moat."},
+ {"p": "How many ancient environments are recognized in the cancagua layers?", "o": ["Three", "One", "Ten", "None"], "e": "Beach and shallow platform, estuary, and coastal barrier with dunes and a delta."},
+ {"p": "In what year was Fuerte Niebla built?", "o": ["1671", "1950", "1810", "1541"], "e": "It was declared a Historic Monument in 1950."}
+],
+"g39": [
+ {"p": "What is lava with a rough, rope-like surface called?", "o": ["Pahoehoe", "Aa", "Pillow", "Columnar"], "e": "Aa lava, in contrast, has sharp-edged blocks."},
+ {"p": "How long did the 1971 lava take to travel about 16.5 km?", "o": ["Just 48 hours", "A year", "Ten minutes", "A century"], "e": "Lava flows are among the greatest hazards near volcanoes."},
+ {"p": "How many eruptions has Villarrica had in the last 440 years?", "o": ["More than 60", "Only 2", "None", "About 5"], "e": "Some calm and others very explosive."}
+],
+"g40": [
+ {"p": "In what year did the Mirador cone form?", "o": ["1979", "1907", "1955", "1988"], "e": "A prehistoric scoria cone reactivated between April and May 1979."},
+ {"p": "How many volcanic centers does the Carrán-Los Venados field have?", "o": ["At least 70", "Only 1", "About 5", "More than 1,000"], "e": "They include scoria cones, craters and maars."},
+ {"p": "What could this volcanic field let scientists study?", "o": ["How a volcano forms from its earliest stages", "The origin of the Moon", "The extinction of the dinosaurs", "How oil forms"], "e": "Its high activity makes it scientifically valuable."}
+],
+"g41": [
+ {"p": "Which Pilauco find is the oldest of its kind in South America?", "o": ["A 15,600-year-old human footprint", "A dinosaur skeleton", "A gold arrowhead", "A meteorite"], "e": "It would belong to a person of about 72 kg and 1.82 m."},
+ {"p": "What were gomphotheres?", "o": ["Relatives of elephants", "Giant birds", "Fish", "Dinosaurs"], "e": "They were part of the Pleistocene megafauna."},
+ {"p": "What hypothesis is proposed for the megafauna extinction?", "o": ["A meteorite impact 12,800 years ago", "A Villarrica eruption", "A tsunami", "Hunting with firearms"], "e": "Evidence of an impact has been found in the area."}
+],
+"g42": [
+ {"p": "What blocked the ancient Petrohué River valley?", "o": ["Lava flows from Osorno volcano", "A modern glacier", "A 2010 landslide", "A dam"], "e": "The lava flowed while the valley still held ice from the Llanquihue Glaciation."},
+ {"p": "How old are the lavas at Petrohué Falls?", "o": ["90,000 to 30,000 years", "About 200 million years", "Only 50 years", "About 2,000 years"], "e": "They are Late Pleistocene."},
+ {"p": "Which marsupials live in the park?", "o": ["Long-nosed shrew opossum and monito del monte", "Kangaroos", "Koalas", "Giant opossums"], "e": "The park is part of a biosphere reserve."}
+],
+"g43": [
+ {"p": "When did Chaitén volcano's last eruption begin?", "o": ["May 2, 2008", "1979", "1960", "1988"], "e": "It came as a surprise because there was no instrument network."},
+ {"p": "What did the Chaitén eruption lead Sernageomin to create?", "o": ["The National Volcano Monitoring Network", "A museum", "A mine", "A national park"], "e": "It now monitors the country's most dangerous volcanoes."},
+ {"p": "What partly destroyed the town of Chaitén?", "o": ["Lahars from rain remobilizing the ash", "A lava flow", "An earthquake", "A glacier"], "e": "They came down the Blanco River valley."}
+],
+"g44": [
+ {"p": "What shaped the towers of Cerro Castillo?", "o": ["Ice during the Pleistocene glaciations", "Waves", "Desert wind", "A meteorite"], "e": "Erosion according to rock hardness carved its pinnacles."},
+ {"p": "Which intrusive rocks are part of the mountain?", "o": ["Patagonian Batholith", "Relincho Pluton", "Southern Coastal Batholith", "Lautaro Formation"], "e": "It formed about 98 to 93 million years ago."},
+ {"p": "How high is Cerro Castillo?", "o": ["2,318 m a.s.l.", "6,893 m a.s.l.", "700 m a.s.l.", "4,290 m a.s.l."], "e": "It is visible from the Carretera Austral."}
+],
+"g45": [
+ {"p": "Which mineral mainly makes up the marble of the Marble Chapel?", "o": ["Calcium carbonate", "Quartz", "Iron", "Common salt"], "e": "Water dissolves this mineral and has shaped the rocks."},
+ {"p": "For how long has water been shaping these rocks?", "o": ["About 12,000 years", "300 million years", "Only 100 years", "1 million years"], "e": "Since shortly before the start of the Holocene."},
+ {"p": "How do you reach the geosite?", "o": ["By boat on Lake General Carrera", "Only by helicopter", "Through a tunnel", "Walking on the glacier"], "e": "It is 5 km from Puerto Río Tranquilo."}
+],
+"g46": [
+ {"p": "How tall is Piedra Clavada?", "o": ["About 40 m", "2 m", "400 m", "1 km"], "e": "It is 6 to 8 m across."},
+ {"p": "Why did some parts of the rock resist erosion better?", "o": ["They were hardened by added silica", "They were covered in moss", "They are pure iron", "People protected them"], "e": "This carved whimsical columnar shapes."},
+ {"p": "What kind of eruptions produced these rocks?", "o": ["Violent and explosive", "Calm and submarine", "None, they are sedimentary", "Cold mud eruptions"], "e": "They happened 152 to 142 million years ago (Ibáñez Formation)."}
+],
+"g47": [
+ {"p": "What are the light rocks of the Cuernos del Paine?", "o": ["Granites intruded about 13 million years ago", "Glacial ice", "Marble", "Salt"], "e": "They contrast with the dark Cretaceous sedimentary rocks."},
+ {"p": "What do the dark rocks of the Cuernos indicate?", "o": ["A deep sea in the Cretaceous", "An ancient desert", "A tropical forest", "A lava lake"], "e": "They belong to the Punta Barrosa and Cerro Toro formations."},
+ {"p": "What carved the horns, cirques and ridges?", "o": ["Glacial ice during the Pleistocene", "Wind", "Underground rivers", "Volcanic explosions"], "e": "Glacial erosion acted according to each rock's hardness."}
+],
+"g48": [
+ {"p": "What does 'Pali-Aike' mean in the Aónikenk language?", "o": ["Desolate place", "Sacred mountain", "Fresh water", "Strong wind"], "e": "The park is 196 km northeast of Punta Arenas."},
+ {"p": "What shape is the Pali-Aike cone?", "o": ["A horseshoe open to the north", "Perfectly circular and closed", "A pyramid", "A star"], "e": "A lava flow escaped through the opening."},
+ {"p": "What was found in Pali-Aike Cave?", "o": ["Evidence of human occupation about 9,000 years old", "Dinosaur bones", "Gold", "50,000-year-old paintings"], "e": "It helped reconstruct the history of early inhabitants of southern Patagonia."}
+],
+"g49": [
+ {"p": "Which rocks form most of the summits of the Dientes de Navarino?", "o": ["Diorites, more resistant to erosion", "Soft sandstones", "Ice", "Limestones"], "e": "The diorites are about 100 million years old (Late Cretaceous)."},
+ {"p": "What shape do glacier-carved valleys have?", "o": ["U-shaped", "V-shaped", "W-shaped", "Circular"], "e": "Glaciers leave broad-floored valleys."},
+ {"p": "Which town is about 6 km from this geosite?", "o": ["Puerto Williams", "Punta Arenas", "Ushuaia", "Puerto Natales"], "e": "It is the southernmost city in the world."}
+]
+}

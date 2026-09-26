@@ -109,7 +109,7 @@ def main():
         cab, _, cuerpo = b.partition('\n')
         cuerpo = cuerpo.split('Referencia bibliográfica')[0]
         # Los prólogos vienen con saltos de línea duros: reconstruir párrafos por oraciones
-        prologos.append({'titulo': 'Prólogo ' + limpia(cab).title().replace(' - ', ' — '),
+        prologos.append({'titulo': 'Prólogo ' + limpia(cab).title().replace(' - ', ' — ').replace(' De ', ' de '),
                          'texto': limpia(cuerpo)})
     ref = limpia(intro_txt.split('Referencia bibliográfica')[1].split('Portada:')[0])
     pie_portada = limpia(intro_txt.split('Portada:')[1])
