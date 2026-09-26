@@ -417,7 +417,7 @@ function actualizarEstadoSello() {
     el.innerHTML = `<span class="ico">🏅</span><div><b>Sello de visita obtenido</b><small>${new Date(s.v).toLocaleDateString('es-CL', { day: 'numeric', month: 'long', year: 'numeric' })}</small></div>`;
   } else {
     const d = pos ? distancia(pos, g) : null;
-    el.innerHTML = `<span class="ico">📍</span><div><b>Sello por ganar</b><small>Llega a menos de ${fmtDist(radio(g.id))} con el GPS activo${d != null ? ` · estás a ${fmtDist(d)} al ${rumbo(pos, g)}` : ''}.</small></div>`;
+    el.innerHTML = `<span class="ico">📍</span><div><b>Sello por ganar</b><small>Llega a menos de ${fmtDist(radio(g.id))} con el GPS activo${d != null ? ` · el geositio está a ${fmtDist(d)} hacia el ${rumbo(pos, g)}` : ''}.</small></div>`;
   }
 }
 function compartir(g) {

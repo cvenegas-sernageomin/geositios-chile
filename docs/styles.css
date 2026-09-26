@@ -146,7 +146,7 @@ select { margin-top: 8px; }
 .heroe .tit h2 { font-size: clamp(26px, 7vw, 38px); text-shadow: 0 2px 12px rgba(0,0,0,.5); }
 .ficha-cuerpo { padding: 14px 16px 120px; max-width: 760px; margin: 0 auto; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
-.acciones { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 4px 0 16px; }
+.acciones { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px; margin: 4px 0 16px; }
 .btn {
   display: inline-flex; align-items: center; justify-content: center; gap: 6px;
   padding: 11px 14px; border-radius: 12px; border: 1px solid var(--linea); background: var(--papel);
@@ -156,6 +156,7 @@ select { margin-top: 8px; }
 .btn.grande { padding: 15px 22px; font-size: 18px; width: 100%; }
 .btn.peque { padding: 7px 12px; font-size: 13px; }
 .btn.ancho { grid-column: 1 / -1; }
+#f-escuchar { white-space: nowrap; font-size: 15px; }
 .estado-sello { display: flex; gap: 10px; align-items: center; padding: 12px; border-radius: var(--r); background: var(--papel); border: 1px dashed var(--linea); margin-bottom: 16px; }
 .estado-sello .ico { font-size: 30px; }
 .estado-sello small { color: var(--tinta-2); display: block; }

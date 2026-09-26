@@ -88,7 +88,7 @@ self.addEventListener('fetch', e => {
     return;
   }
   // HTML, JS, CSS y datos: red primero (actualizaciones inmediatas), caché si no hay señal
-  e.respondWith(fetch(req).then(resp => {
+  e.respondWith(fetch(req.url, { cache: 'no-cache' }).then(resp => {
     if (resp.ok) { const cp = resp.clone(); caches.open(SHELL).then(c => c.put(req, cp)); }
     return resp;
   }).catch(() => caches.match(req).then(r => r || (req.mode === 'navigate' ? caches.match('index.html') : undefined))));
