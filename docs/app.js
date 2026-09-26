@@ -207,8 +207,7 @@ function traducirHTML() {
   document.querySelectorAll('[data-t-aria]').forEach(el => el.setAttribute('aria-label', t(el.dataset.tAria)));
   $('#bv-lista').innerHTML = ['🗺️', '🎧', '📍', '🧠'].map((e, i) => `<li><span>${e}</span> ${esc(t('bv_lista')[i])}</li>`).join('');
   document.title = t('titulo');
-  document.querySelectorAll('.btn-idioma').forEach(b => (b.textContent = b.classList.contains('largo')
-    ? (LANG === 'es' ? '🇬🇧 Switch to English' : '🇨🇱 Cambiar a español') : (LANG === 'es' ? 'EN' : 'ES')));
+  document.querySelectorAll('.idioma-banderas button').forEach(b => b.classList.toggle('activo', b.dataset.lang === LANG));
 }
 function cambiarIdioma() {
   store.set('lang', LANG === 'es' ? 'en' : 'es');
@@ -723,7 +722,7 @@ function pintarLibro() {
     if (!confirm(t('confirmar_reset'))) return;
     prog = {}; guardar(); insigniasPrevias = null; refrescarProgreso(); toast(t('reset_ok'));
   };
-  document.querySelectorAll('.btn-idioma').forEach(b => (b.onclick = cambiarIdioma));
+  document.querySelectorAll('.idioma-banderas button').forEach(b => (b.onclick = () => b.dataset.lang !== LANG && cambiarIdioma()));
   // Libro en PDF: el botón aparece activo solo si el archivo ya está publicado
   const pdf = $('#btn-pdf');
   fetch(PDF_URL, { method: 'HEAD', cache: 'no-store' }).then(r => {

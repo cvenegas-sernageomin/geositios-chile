@@ -301,13 +301,20 @@ details.prologo p { font-size: 16px; }
 /* ---------- Idioma, créditos y libro PDF ---------- */
 .tabs a b { font-weight: 600; }
 .mapa-botones { display: flex; gap: 8px; }
-.btn-idioma.btn-redondo { font: 700 14px system-ui; }
-.bv-idioma { position: absolute; z-index: 2; top: calc(12px + env(safe-area-inset-top)); right: 12px; border: 0; border-radius: 999px; padding: 7px 14px; background: rgba(0,0,0,.5); color: #fff; font: 700 14px system-ui; backdrop-filter: blur(6px); }
+.idioma-banderas { display: inline-flex; gap: 4px; padding: 5px; border-radius: 999px; background: var(--papel); box-shadow: var(--sombra); }
+.idioma-banderas button { display: inline-flex; align-items: center; gap: 8px; border: 0; background: none; padding: 3px; border-radius: 999px; cursor: pointer; }
+.idioma-banderas .bandera { width: 34px; height: 23px; border-radius: 4px; display: block; box-shadow: 0 0 0 1px rgba(0,0,0,.15);
+  filter: grayscale(.9) opacity(.45); transition: filter .2s, transform .2s; }
+.idioma-banderas button.activo .bandera { filter: none; transform: scale(1.08); }
+.idioma-banderas button.activo { cursor: default; }
+.idioma-banderas.grande { box-shadow: none; padding: 8px; }
+.idioma-banderas.grande button { padding: 6px 14px 6px 6px; font-weight: 600; color: var(--tinta-2); }
+.idioma-banderas.grande button.activo { background: color-mix(in srgb, var(--acento) 14%, transparent); color: var(--tinta); }
+.bv-idioma { position: absolute; z-index: 2; top: calc(12px + env(safe-area-inset-top)); right: 12px; background: rgba(0,0,0,.45); backdrop-filter: blur(6px); box-shadow: none; }
 .bv-firma { text-align: center; font-size: 12px; color: #9fb0bd; margin: 10px 0 0; }
 .firma, .firma-libro { font-size: 13px; color: var(--tinta-2); }
 .firma { text-align: center; margin-top: 26px; }
 .firma-libro { margin: -4px 0 12px; font-weight: 600; }
 .dev-credito { font-size: 15px; color: var(--tinta); }
-.idioma-fila { align-items: center; justify-content: space-between; }
 #btn-pdf.deshabilitado { opacity: .55; pointer-events: none; font-weight: 600; }
 .libro-cuerpo .fila-botones { margin: 6px 0 2px; }

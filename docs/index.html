@@ -15,10 +15,22 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="bandera-cl" viewBox="0 0 30 20">
+    <rect width="30" height="20" fill="#d52b1e"/><rect width="30" height="10" fill="#fff"/><rect width="10" height="10" fill="#0039a6"/>
+    <path fill="#fff" d="M5 2.2l.73 2.25h2.37l-1.92 1.39.74 2.25L5 6.7 3.08 8.09l.74-2.25L1.9 4.45h2.37z"/>
+  </symbol>
+  <symbol id="bandera-gb" viewBox="0 0 60 30">
+    <clipPath id="gb-c"><path d="M0 0v30h60V0z"/></clipPath><clipPath id="gb-t"><path d="M30 15h30v15zv15H0zH0V0zV0h30z"/></clipPath>
+    <g clip-path="url(#gb-c)"><path d="M0 0v30h60V0z" fill="#012169"/><path d="M0 0l60 30m0-30L0 30" stroke="#fff" stroke-width="6"/>
+    <path d="M0 0l60 30m0-30L0 30" clip-path="url(#gb-t)" stroke="#C8102E" stroke-width="4"/>
+    <path d="M30 0v30M0 15h60" stroke="#fff" stroke-width="10"/><path d="M30 0v30M0 15h60" stroke="#C8102E" stroke-width="6"/></g>
+  </symbol>
+</svg>
 
 <!-- Bienvenida (primera vez) -->
 <div id="bienvenida" class="bienvenida" hidden>
-  <div class="bv-foto"><img id="bv-img" alt=""><button class="btn-idioma bv-idioma" aria-label="Idioma / Language">EN</button></div>
+  <div class="bv-foto"><img id="bv-img" alt=""><div class="idioma-banderas bv-idioma" role="group" aria-label="Idioma / Language"><button data-lang="es" aria-label="Español"><svg class="bandera"><use href="#bandera-cl"/></svg></button><button data-lang="en" aria-label="English"><svg class="bandera"><use href="#bandera-gb"/></svg></button></div></div>
   <div class="bv-cuerpo">
     <p class="sobre">Sernageomin · 2023</p>
     <h1 data-t="titulo">Geositios de Chile</h1>
@@ -36,7 +48,7 @@
     <div class="mapa-top">
       <div class="nivel-pill" id="nivel-pill" role="button" tabindex="0"></div>
       <div class="mapa-botones">
-        <button class="btn-redondo btn-idioma" aria-label="Idioma / Language">EN</button>
+        <div class="idioma-banderas" role="group" aria-label="Idioma / Language"><button data-lang="es" aria-label="Español"><svg class="bandera"><use href="#bandera-cl"/></svg></button><button data-lang="en" aria-label="English"><svg class="bandera"><use href="#bandera-gb"/></svg></button></div>
         <button class="btn-redondo" id="btn-capas" aria-label="Mapa base / Base map">🗺️</button>
       </div>
     </div>
@@ -85,10 +97,7 @@
       <p class="pie-foto" id="pie-portada"></p>
 
       <h3 class="sec" data-t="idioma">Idioma</h3>
-      <div class="tarjeta fila-botones idioma-fila">
-        <span>🌐 Español · English</span>
-        <button class="btn btn-idioma largo">EN</button>
-      </div>
+      <div class="idioma-banderas grande" role="group" aria-label="Idioma / Language"><button data-lang="es" aria-label="Español"><svg class="bandera"><use href="#bandera-cl"/></svg><span>Español</span></button><button data-lang="en" aria-label="English"><svg class="bandera"><use href="#bandera-gb"/></svg><span>English</span></button></div>
 
       <h3 class="sec" data-t="para_terreno"></h3>
       <div class="tarjeta">
