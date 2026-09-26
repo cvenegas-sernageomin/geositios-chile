@@ -43,7 +43,7 @@
 
 <main id="vistas">
   <!-- MAPA -->
-  <section id="v-mapa" class="vista">
+  <section id="v-mapa" class="vista" hidden>
     <div id="mapa"></div>
     <div class="mapa-top">
       <div class="nivel-pill" id="nivel-pill" role="button" tabindex="0"></div>
@@ -80,13 +80,18 @@
   </section>
 
   <!-- LIBRO -->
-  <section id="v-libro" class="vista" hidden>
+  <section id="v-libro" class="vista">
     <div class="portada"><img id="portada-img" alt="Cerro Castillo"></div>
     <div class="libro-cuerpo">
       <p class="sobre">Sernageomin · 2023</p>
       <h2 data-t="titulo">Geositios de Chile</h2>
       <p class="sub" data-t="subtitulo"></p>
       <p class="firma-libro" data-t="dev"></p>
+      <a class="ir-mapa" href="#/mapa">
+        <span class="ir-mapa-ico">🗺️</span>
+        <span><b data-t="ir_mapa"></b><small data-t="ir_mapa_sub"></small></span>
+        <span class="ir-mapa-flecha">→</span>
+      </a>
       <p id="lema" class="lema"></p>
       <div class="fila-botones">
         <button class="btn primario" id="btn-intro" data-t="escuchar_intro"></button>
@@ -146,10 +151,10 @@
 <div id="sello-anim" class="sello-anim" hidden></div>
 
 <nav class="tabs" id="tabs">
-  <a href="#/" data-v="mapa"><span>🗺️</span><b data-t="tab_mapa">Mapa</b></a>
+  <a href="#/" data-v="libro"><span>📖</span><b data-t="tab_libro">Libro</b></a>
+  <a href="#/mapa" data-v="mapa"><span>🗺️</span><b data-t="tab_mapa">Mapa</b></a>
   <a href="#/cerca" data-v="cerca"><span>🧭</span><b data-t="tab_cerca">Explorar</b></a>
   <a href="#/pasaporte" data-v="pasaporte"><span>🎖️</span><b data-t="tab_pasaporte">Pasaporte</b></a>
-  <a href="#/libro" data-v="libro"><span>📖</span><b data-t="tab_libro">Libro</b></a>
 </nav>
 
 <audio id="audio" preload="none"></audio>

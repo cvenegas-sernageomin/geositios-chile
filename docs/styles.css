@@ -234,7 +234,7 @@ body.con-rep .mas-cercano { bottom: 84px; } body.con-rep .btn-redondo.gps { bott
 .sello small { display: block; font-size: 11px; line-height: 1.2; margin-top: 5px; color: var(--tinta-2); }
 
 /* ---------- Libro ---------- */
-.portada img { width: 100%; max-height: 60vh; object-fit: cover; }
+.portada img { width: 100%; max-height: 42vh; object-fit: cover; }
 .libro-cuerpo { padding: 18px 16px 40px; max-width: 760px; margin: 0 auto; }
 .libro-cuerpo h2 { font-size: 32px; }
 .sobre { margin: 0; font-size: 12px; text-transform: uppercase; letter-spacing: .12em; color: var(--acento); font-weight: 700; }
@@ -300,15 +300,16 @@ details.prologo p { font-size: 16px; }
 
 /* ---------- Idioma, créditos y libro PDF ---------- */
 .tabs a b { font-weight: 600; }
-.mapa-botones { display: flex; gap: 8px; }
-.idioma-banderas { display: inline-flex; gap: 4px; padding: 5px; border-radius: 999px; background: var(--papel); box-shadow: var(--sombra); }
-.idioma-banderas button { display: inline-flex; align-items: center; gap: 8px; border: 0; background: none; padding: 3px; border-radius: 999px; cursor: pointer; }
-.idioma-banderas .bandera { width: 34px; height: 23px; border-radius: 4px; display: block; box-shadow: 0 0 0 1px rgba(0,0,0,.15);
+.mapa-botones { display: flex; gap: 8px; align-items: center; }
+.idioma-banderas { display: inline-flex; align-items: center; gap: 2px; padding: 4px 5px; border-radius: 999px; background: var(--papel); box-shadow: var(--sombra); }
+.idioma-banderas button { display: inline-flex; align-items: center; gap: 6px; border: 0; background: none; padding: 2px; border-radius: 999px; cursor: pointer; }
+.idioma-banderas .bandera { width: 21px; height: 14px; border-radius: 2px; display: block; box-shadow: 0 0 0 1px rgba(0,0,0,.15);
   filter: grayscale(.9) opacity(.45); transition: filter .2s, transform .2s; }
-.idioma-banderas button.activo .bandera { filter: none; transform: scale(1.08); }
+.idioma-banderas button.activo .bandera { filter: none; }
 .idioma-banderas button.activo { cursor: default; }
-.idioma-banderas.grande { box-shadow: none; padding: 8px; }
-.idioma-banderas.grande button { padding: 6px 14px 6px 6px; font-weight: 600; color: var(--tinta-2); }
+.idioma-banderas.grande { box-shadow: none; padding: 6px; }
+.idioma-banderas.grande .bandera { width: 24px; height: 16px; }
+.idioma-banderas.grande button { padding: 5px 12px 5px 6px; font-size: 14px; font-weight: 600; color: var(--tinta-2); }
 .idioma-banderas.grande button.activo { background: color-mix(in srgb, var(--acento) 14%, transparent); color: var(--tinta); }
 .bv-idioma { position: absolute; z-index: 2; top: calc(12px + env(safe-area-inset-top)); right: 12px; background: rgba(0,0,0,.45); backdrop-filter: blur(6px); box-shadow: none; }
 .bv-firma { text-align: center; font-size: 12px; color: #9fb0bd; margin: 10px 0 0; }
@@ -318,3 +319,16 @@ details.prologo p { font-size: 16px; }
 .dev-credito { font-size: 15px; color: var(--tinta); }
 #btn-pdf.deshabilitado { opacity: .55; pointer-events: none; font-weight: 600; }
 .libro-cuerpo .fila-botones { margin: 6px 0 2px; }
+
+/* Acceso destacado al mapa desde el Libro (primera pantalla) */
+.ir-mapa {
+  display: flex; align-items: center; gap: 14px; margin: 6px 0 18px; padding: 16px 18px; border-radius: 18px;
+  text-decoration: none; color: #fff; box-shadow: var(--sombra);
+  background: linear-gradient(135deg, var(--acento) 0%, #9c3b1c 100%);
+  animation: latido 2.6s ease-in-out 1s 2;
+}
+.ir-mapa b { display: block; font: 700 19px/1.2 Georgia, serif; }
+.ir-mapa small { display: block; opacity: .9; font-size: 13.5px; margin-top: 3px; line-height: 1.35; }
+.ir-mapa-ico { font-size: 38px; flex: none; }
+.ir-mapa-flecha { margin-left: auto; font-size: 26px; font-weight: 700; flex: none; }
+@keyframes latido { 50% { transform: scale(1.025); } }

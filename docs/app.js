@@ -38,6 +38,7 @@ const TXT = {
     creditos_txt: 'Textos y fotografías del libro; los autores de cada foto se indican en su ficha. Narración generada con voz sintética. Quiz y glosario elaborados a partir de los textos del libro.',
     creditos_en: 'Traducción al inglés elaborada para esta app a partir del texto original en español.',
     mapas: 'Mapas: © Esri, OpenStreetMap.', reiniciar: 'Reiniciar mi progreso', idioma: 'Idioma',
+    ir_mapa: 'Explorar el mapa de geositios', ir_mapa_sub: 'Recorre los 49 lugares con tu GPS, gana sellos y escucha su historia',
     libro_pdf: '📕 Descargar el libro (PDF)', libro_pdf_pronto: '📕 El libro en PDF estará disponible pronto',
     libro_pdf_desc: 'Versión completa del libro publicado por Sernageomin.',
     base_topo: 'Topográfico', base_sat: 'Satélite', base_osm: 'Calles',
@@ -95,6 +96,7 @@ const TXT = {
     creditos_txt: 'Texts and photographs from the book; each photo’s author is credited on its page. Narration generated with a synthetic voice. Quiz and glossary written from the book’s texts.',
     creditos_en: 'English translation prepared for this app from the original Spanish text.',
     mapas: 'Maps: © Esri, OpenStreetMap.', reiniciar: 'Reset my progress', idioma: 'Language',
+    ir_mapa: 'Explore the geosite map', ir_mapa_sub: 'Visit the 49 places with your GPS, earn stamps and hear their stories',
     libro_pdf: '📕 Download the book (PDF, Spanish)', libro_pdf_pronto: '📕 The book PDF will be available soon',
     libro_pdf_desc: 'Full version of the book published by Sernageomin (in Spanish).',
     base_topo: 'Topographic', base_sat: 'Satellite', base_osm: 'Streets',
@@ -316,8 +318,7 @@ const BASES = {
 function iniciarMapa() {
   mapa = L.map('mapa', { zoomControl: false, attributionControl: true, worldCopyJump: true });
   ponerBase(store.get('mapa-base', 'sat'));
-  const cont = SITIOS.filter(g => g.lon > -80);
-  mapa.fitBounds(L.latLngBounds(cont.map(g => [g.lat, g.lon])), { padding: [30, 30] });
+  mapa.setView([-33, -71], 4);
   for (const g of SITIOS) {
     const m = L.marker([g.lat, g.lon], { icon: iconoPin(g), title: g.nombre, riseOnHover: true }).addTo(mapa);
     const ancho = Math.min(280, window.innerWidth - 90);
@@ -364,14 +365,14 @@ function iconoPin(g) {
 function pintarMarcadores() { if (mapa) for (const g of SITIOS) marcadores[g.id].setIcon(iconoPin(g)); }
 
 // ---------------------------------------------------------------- GPS
-let simulado = false;
+let simulado = false, mapaEncuadrado = false;
 function iniciarGPS(centrar) {
   if (!('geolocation' in navigator)) return toast(t('sin_gps'));
   let primera = true;
   $('#btn-gps').classList.add('activo');
   watchId = navigator.geolocation.watchPosition(p => {
     nuevaPosicion({ lat: p.coords.latitude, lon: p.coords.longitude, acc: p.coords.accuracy });
-    if (primera && centrar) mapa.flyTo([pos.lat, pos.lon], 12);
+    if (primera && centrar) { mapaEncuadrado = true; mapa.setView([pos.lat, pos.lon], 12); }
     primera = false;
   }, err => {
     $('#btn-gps').classList.remove('activo'); watchId = null;
@@ -763,10 +764,14 @@ function ruta() {
   const h = location.hash.replace(/^#\/?/, '');
   if (/^g\d\d$/.test(h)) return abrirFicha(h, true);
   ocultarFicha();
-  const v = ['cerca', 'pasaporte', 'libro'].includes(h) ? h : 'mapa';
+  const v = ['mapa', 'cerca', 'pasaporte'].includes(h) ? h : 'libro';  // la app abre en el Libro
   for (const s of ['mapa', 'cerca', 'pasaporte', 'libro']) $('#v-' + s).hidden = s !== v;
   document.querySelectorAll('#tabs a').forEach(a => a.classList.toggle('activa', a.dataset.v === v));
-  if (v === 'mapa') setTimeout(() => mapa.invalidateSize(), 0);
+  if (v === 'mapa') setTimeout(() => {
+    mapa.invalidateSize();
+    if (!mapaEncuadrado && !pos) mapa.fitBounds(L.latLngBounds(SITIOS.filter(g => g.lon > -80).map(g => [g.lat, g.lon])), { padding: [30, 30] });
+    mapaEncuadrado = true;
+  }, 0);
   if (v === 'cerca') pintarLista();
   if (v === 'pasaporte') pintarPasaporte();
 }
