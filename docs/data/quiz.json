@@ -1,0 +1,248 @@
+{
+"_formato": "Por geositio: lista de {p: pregunta, o: opciones (la PRIMERA es la correcta; la app las baraja), e: explicación}",
+"g01": [
+ {"p": "¿Qué proceso esculpió los pilares de la Catedral del Valle del Río Lauca?", "o": ["El escurrimiento intenso del agua sobre las laderas", "La acción de glaciares", "El oleaje de un antiguo mar", "Erupciones de lava"], "e": "El agua que escurre sobre capas de sedimentos lagunares y cenizas volcánicas fue modelando pilares desde el Pleistoceno."},
+ {"p": "¿Cómo se llama la secuencia de sedimentos y cenizas del geositio?", "o": ["Formación Lauca", "Formación Oxaya", "Formación La Negra", "Formación Camaraca"], "e": "La Formación Lauca tiene entre 6,2 y 2,6 millones de años (Mioceno Superior–Plioceno Superior)."},
+ {"p": "¿De qué color son las capas de ceniza volcánica intercaladas?", "o": ["Blanquecinas", "Negras", "Verde intenso", "Rojo sangre"], "e": "Las cenizas volcánicas son blanquecinas y contrastan con los sedimentos lagunares pardos."}
+],
+"g02": [
+ {"p": "¿Cómo se llaman las lavas con formas ovaladas que se ven en el Morro de Arica?", "o": ["Lavas almohadilladas (pillow lavas)", "Lavas cordadas", "Lavas aa", "Lavas columnares"], "e": "Se forman cuando la lava se enfría rápidamente al entrar en contacto con el agua del mar."},
+ {"p": "¿A qué período pertenecen las rocas del Morro de Arica?", "o": ["Jurásico Medio", "Cretácico Superior", "Pleistoceno", "Cámbrico"], "e": "Los fósiles permiten asignarlas al Jurásico Medio, entre 170 y 163 millones de años."},
+ {"p": "¿Qué indican los fósiles de bivalvos, amonites y corales del Morro?", "o": ["Que las rocas se formaron en un mar poco profundo", "Que allí hubo un bosque tropical", "Que existió un gran lago de agua dulce", "Que la zona estuvo bajo glaciares"], "e": "Son organismos marinos de ambientes someros."}
+],
+"g03": [
+ {"p": "¿Qué mineral da el color verde-amarillento a las costras de las lagunas de Amuyo?", "o": ["Oropimente", "Rejalgar", "Cuarzo", "Calcita"], "e": "El oropimente da tonos verde-amarillentos; el rejalgar, anaranjados-rojizos."},
+ {"p": "¿Cómo se llaman las bacterias que toleran altas temperaturas en estas lagunas?", "o": ["Termófilas", "Halófobas", "Criófilas", "Anaerobias estrictas"], "e": "Las bacterias termófilas generan estructuras llamadas estromatolitos y trombolitos."},
+ {"p": "¿Por qué este geositio interesa para estudiar el origen de la vida?", "o": ["Porque organismos similares existen en la Tierra hace unos 3.500 millones de años", "Porque allí se encontraron dinosaurios", "Porque cayó un meteorito con vida", "Porque es la laguna más fría del mundo"], "e": "Sus colonias bacterianas ayudan a comprender la vida temprana y la posibilidad de vida extraterrestre."}
+],
+"g04": [
+ {"p": "¿Por qué la duna Cerro Dragón se clasifica como fósil o relicta?", "o": ["Porque ya no tiene una fuente activa de arena", "Porque contiene huesos de dragón", "Porque está cubierta por lava", "Porque se formó en el Jurásico"], "e": "Sin una playa que la alimente, la duna no recibe arena nueva."},
+ {"p": "¿Cuándo se habría originado la duna?", "o": ["En el último máximo glacial, hace unos 20 mil años", "Hace 200 millones de años", "Hace apenas 500 años", "En el Cretácico"], "e": "El mar estaba unos 100 m más bajo y dejaba expuesta una plataforma con arena."},
+ {"p": "¿Qué pone en peligro la integridad de la duna?", "o": ["El desarrollo urbano, la extracción de arena y actividades recreativas", "Los terremotos submarinos", "La erupción de volcanes cercanos", "Las heladas"], "e": "La presión inmobiliaria de Iquique la ha fragmentado."}
+],
+"g05": [
+ {"p": "¿Por qué el salar de Pintados es un salar fósil o inactivo?", "o": ["No recibe recarga de cursos superficiales de agua", "Está cubierto por lava", "Se congeló hace miles de años", "Fue drenado por la minería"], "e": "Su costra salina está desconectada de las aguas subterráneas profundas."},
+ {"p": "¿Cuántas figuras incluyen aproximadamente los geoglifos de Pintados?", "o": ["Alrededor de 450", "Unas 12", "Más de 10.000", "Solo 3"], "e": "Unas 450 figuras en 50.000 m², hechas por pueblos prehispánicos entre los años 700 y 1.500 d.C."},
+ {"p": "¿Qué técnica se usó principalmente para hacer los geoglifos?", "o": ["Extracción de material superficial", "Pintura con óxidos", "Tallado con metal", "Apilamiento de conchas"], "e": "Retirar material superficial crea contraste con la superficie natural."}
+],
+"g06": [
+ {"p": "¿Qué significa «puquio» en lengua quechua?", "o": ["Laguna o lugar donde surge el agua", "Sal blanca", "Montaña", "Sol ardiente"], "e": "Los puquios son lagunas donde surge el agua subterránea."},
+ {"p": "¿Qué comunidades de microorganismos viven en los puquios de Llamara?", "o": ["Tapetes microbianos y domos evaporíticos", "Arrecifes de coral", "Bosques de algas gigantes", "Colonias de hongos"], "e": "Ambos están formados por sales de yeso y microorganismos en condiciones extremas."},
+ {"p": "¿Por qué estas lagunas tienen alta evaporación?", "o": ["Por la altísima radiación solar del desierto de Atacama", "Por géiseres cercanos", "Por vientos polares", "Porque están a gran altitud sobre un volcán"], "e": "El desierto de Atacama registra la mayor radiación solar del planeta."}
+],
+"g07": [
+ {"p": "¿Qué lugar ocupa El Tatio entre los campos geotérmicos del mundo?", "o": ["El tercero", "El primero", "El décimo", "El quincuagésimo"], "e": "Es el más importante de Chile y Latinoamérica y el tercero en el mundo."},
+ {"p": "¿Qué porcentaje de los géiseres del mundo están en El Tatio?", "o": ["8%", "50%", "1%", "25%"], "e": "Sus géiseres corresponden al 8% de estas manifestaciones a nivel mundial."},
+ {"p": "¿Qué temperatura alcanzan los fluidos en profundidad?", "o": ["280 °C", "86 °C", "1.200 °C", "40 °C"], "e": "Llegan a 280 °C en profundidad y a 86 °C en la superficie."}
+],
+"g08": [
+ {"p": "¿Por qué se formaron los arcos de La Portada?", "o": ["Las rocas sedimentarias resisten menos el oleaje que las volcánicas de la base", "Fueron tallados por pueblos antiguos", "Por el colapso de un volcán", "Por un terremoto en 1990"], "e": "La erosión diferencial desgasta más rápido las rocas sedimentarias de la Formación La Portada."},
+ {"p": "¿Qué rocas se ven en la base del acantilado y de los arcos?", "o": ["Volcánicas de la Formación La Negra (Jurásico)", "Mármol", "Granito del Paleozoico", "Sal"], "e": "La Formación La Negra se formó por actividad volcánica entre 180 y 143 millones de años."},
+ {"p": "¿Por qué el acceso a la playa es restringido?", "o": ["Por el riesgo de caída de material desde el acantilado", "Porque es zona militar", "Por mareas rojas", "Por géiseres"], "e": "El acantilado sigue retrocediendo lenta y constantemente."}
+],
+"g09": [
+ {"p": "¿Qué tiene de único el cráter de Monturaqui en Chile?", "o": ["Es la única estructura de impacto de meteorito confirmada en el país", "Es el volcán más alto", "Es el cráter más profundo del mundo", "Tiene un lago de lava"], "e": "Fue descubierto en 1962 mediante fotografías aéreas."},
+ {"p": "¿Hace cuánto impactó el meteorito?", "o": ["Entre 500 mil y 700 mil años", "Hace 66 millones de años", "Hace 2.000 años", "En 1962"], "e": "Ocurrió en el Pleistoceno Medio."},
+ {"p": "¿De qué tipo era el meteorito?", "o": ["Ferroso (de hierro)", "De hielo", "De carbono puro", "De vidrio volcánico"], "e": "Sus restos, junto a las impactitas, han sido sustraídos por expediciones sin regulación."}
+],
+"g10": [
+ {"p": "¿Cómo se llaman las esferas que dan el aspecto moteado a esta roca?", "o": ["Orbículas", "Amígdalas", "Vesículas", "Nódulos de pedernal"], "e": "Miden en promedio 6 cm y se formaron por el ordenamiento de minerales al cristalizar el magma."},
+ {"p": "¿Cuántas rocas orbiculares se han descrito en el planeta?", "o": ["Solo alrededor de un centenar", "Millones", "Solo esta", "Unas diez mil"], "e": "Son escasas y diversas; por eso fue declarada Santuario de la Naturaleza en 1981."},
+ {"p": "¿A qué cuerpo intrusivo pertenece la tonalita orbicular?", "o": ["Plutón Relincho", "Batolito Patagónico", "Batolito Costero del Sur", "Complejo Plutónico Altos de Talinay"], "e": "El Plutón Relincho tiene entre 195 y 180 millones de años (Jurásico Inferior)."}
+],
+"g11": [
+ {"p": "¿Cómo se conoce a las capas con abundantes fósiles de vertebrados de Los Dedos?", "o": ["Capa de huesos o bonebed", "Capa roja", "Estrato de oro", "Nivel de lava"], "e": "Pertenecen a la subunidad Mina Fosforita, de unos 7 millones de años."},
+ {"p": "¿Qué tiburón gigante dejó dientes de más de 15 cm en este sitio?", "o": ["Carcharocles megalodon", "Tiburón ballena", "Tiburón martillo", "Tiburón blanco actual"], "e": "Sus dientes destacan por su gran tamaño."},
+ {"p": "¿Cuántas especies fósiles de vertebrados se han identificado?", "o": ["Más de 70", "Menos de 5", "Unas 12", "Más de 1.000"], "e": "Incluyen tiburones, cocodrilos, pingüinos, ballenas, perezosos marinos y más."}
+],
+"g12": [
+ {"p": "¿Qué tipo de rocas forman las capas anaranjadas de quebrada Pinte?", "o": ["Areniscas y calizas", "Granitos", "Basaltos", "Mármoles"], "e": "Integran la Formación Lautaro, rica en fósiles."},
+ {"p": "¿Qué ocupaba esta zona hace entre 190 y 170 millones de años?", "o": ["El mar", "Un desierto de dunas", "Un glaciar", "Un gran volcán"], "e": "Durante el Jurásico Inferior a Medio, gran parte del sur de Sudamérica estaba bajo el mar."},
+ {"p": "¿Dónde se pueden ver colecciones de sus fósiles?", "o": ["En el museo de sitio de don Gabito", "En el Museo del Louvre", "En Termas del Flaco", "En Isla de Pascua"], "e": "El museo está al interior de la quebrada."}
+],
+"g13": [
+ {"p": "¿Qué dinosaurio se encontró en Pichasca?", "o": ["Un titanosaurio de 18 m de largo", "Un tiranosaurio", "Un velociraptor", "Un triceratops"], "e": "Antarctosaurus wichmannianus, del Cretácico Superior."},
+ {"p": "¿Qué forma el techo de la Casa de Piedra?", "o": ["Un filón-manto, roca intrusiva más resistente", "Hielo glaciar", "Una capa de sal", "Arena compactada"], "e": "Las rocas sedimentarias de abajo se desgastaron más rápido, dejando el alero."},
+ {"p": "¿Qué cultura habitó el alero hace unos 9 mil años?", "o": ["Cultura Molle", "Cultura Inca", "Cultura Rapa Nui", "Cultura Selk'nam"], "e": "Dejó puntas de flecha, pinturas rupestres y cestería."}
+],
+"g14": [
+ {"p": "¿Cómo se llaman las terrazas formadas por el desgaste del oleaje?", "o": ["Terrazas de abrasión marina", "Terrazas fluviales", "Terrazas de cultivo", "Morrenas"], "e": "Evidencian cambios del nivel del mar y el alzamiento de la cordillera de la Costa."},
+ {"p": "¿Qué permite que exista un bosque del sur en Fray Jorge?", "o": ["El aporte hídrico de las neblinas costeras (camanchacas)", "Un río subterráneo termal", "Lluvias tropicales", "Riego artificial"], "e": "Olivillos y canelos perduran gracias a la camanchaca."},
+ {"p": "¿Qué edad tiene la terraza más joven (T5)?", "o": ["Unos 6 mil años", "321 mil años", "5 millones de años", "213 millones de años"], "e": "Está a 10 m s.n.m.; la T2 tiene 321 mil y la T4, 122 mil años."}
+],
+"g15": [
+ {"p": "¿Qué hallazgo humano destaca junto a la quebrada Quereo?", "o": ["Restos óseos del individuo humano más antiguo datado en Sudamérica", "Una ciudad inca", "Pinturas rupestres de 50 mil años", "Una momia chinchorro"], "e": "Tiene cerca de 12 mil años de antigüedad."},
+ {"p": "¿Qué fauna extinta se conserva bajo las dunas?", "o": ["Milodones, gonfotéridos y artiodáctilos", "Dinosaurios", "Trilobites", "Mamuts lanudos europeos"], "e": "Sus edades varían entre 8 mil y 30 mil años."},
+ {"p": "¿Por qué algunas dunas de Quereo siguen activas?", "o": ["Por el transporte eólico de arena desde las playas", "Por terremotos", "Por el paso de ríos", "Por erupciones"], "e": "El viento sigue trayendo arena de la playa."}
+],
+"g16": [
+ {"p": "¿Qué originó Isla de Pascua (Rapa Nui)?", "o": ["Una pluma mantélica (hotspot)", "Un choque de placas continentales", "Un meteorito", "El alzamiento de arrecifes"], "e": "Los volcanes Rano Kao, Poike y Terevaka forman el complejo volcánico de la isla."},
+ {"p": "¿Qué guarda el cráter del Rano Kao?", "o": ["Un lago de agua dulce", "Un glaciar", "Un lago de lava", "Un géiser"], "e": "Es uno de los reservorios de agua dulce más importantes de la isla y un archivo de climas pasados."},
+ {"p": "¿Qué aldea ceremonial está en la ladera del cráter?", "o": ["Orongo", "Hanga Roa", "Anakena", "Tongariki"], "e": "Orongo tiene gran significación para la cultura Rapa Nui."}
+],
+"g17": [
+ {"p": "¿Qué es geológicamente la Escalera del Diablo?", "o": ["Un dique: roca intrusiva que penetró verticalmente otras rocas", "Una colada de lava", "Una duna petrificada", "Un arrecife fósil"], "e": "El magma subió por fracturas y se solidificó rápidamente."},
+ {"p": "¿Por qué el dique sobresale del terreno?", "o": ["Es más resistente a la erosión que la roca que lo rodea", "Fue construido por personas", "Está creciendo", "Por un terremoto reciente"], "e": "Sus fracturas controlan el desprendimiento de bloques que forman los 'peldaños'."},
+ {"p": "¿Qué proyecto busca conservar este geositio?", "o": ["Geoparque Valle de Petorca", "Geoparque Kütralkura", "Geoparque Cajón del Maipo", "Geoparque Puchuncaví"], "e": "Busca su conservación y puesta en valor para las comunidades locales."}
+],
+"g18": [
+ {"p": "¿Qué perezoso adaptado al medio acuático vivió en Quirilluca?", "o": ["Thalassocnus", "Megaterio", "Milodón", "Perezoso de tres dedos"], "e": "Vivió hace 3 a 2 millones de años, a fines del Plioceno."},
+ {"p": "¿Qué son las planicies sobre el acantilado?", "o": ["Terrazas marinas alzadas", "Mesetas volcánicas", "Llanuras glaciares", "Campos de dunas"], "e": "Se formaron bajo el mar por abrasión y luego fueron alzadas tectónicamente."},
+ {"p": "¿Qué son los dos bloques de 5 m en la playa?", "o": ["Restos de un arco de roca derrumbado", "Estatuas antiguas", "Bombas volcánicas", "Bloques traídos por glaciares"], "e": "El oleaje sigue erosionando el borde costero."}
+],
+"g19": [
+ {"p": "¿Por qué las Dunas de Concón son dunas fósiles?", "o": ["No reciben arena de la playa porque las separa un acantilado", "Contienen dinosaurios", "Están hechas de roca", "Son de hace 100 millones de años"], "e": "Están sobre una terraza marina a 80 m s.n.m."},
+ {"p": "¿Cuándo se acumularon estas arenas eólicas?", "o": ["En el Pleistoceno Superior", "En el Jurásico", "En el siglo XX", "En el Cámbrico"], "e": "Cubren sedimentos marinos de la Formación Caleta Horcón (Plioceno Superior)."},
+ {"p": "¿Qué afecta principalmente a este santuario?", "o": ["El tráfico de vehículos y la construcción de edificios", "Los volcanes", "Los glaciares", "La sequía del desierto"], "e": "Su ubicación en la mayor conurbación del litoral la hace muy frágil."}
+],
+"g20": [
+ {"p": "¿Cómo se llama el cerro Santa Lucía en lengua mapuche?", "o": ["Huelén", "Ruka pillañ", "Manquehue", "Pillanmapu"], "e": "Fue declarado Monumento Histórico en 1983."},
+ {"p": "¿Qué forma tienen las columnas más distintivas de la disyunción columnar?", "o": ["Base hexagonal", "Base circular", "Base triangular perfecta", "Sin forma definida"], "e": "Las columnas pueden tener de 3 a 6 caras; las hexagonales son las más distintivas."},
+ {"p": "¿Qué representan las rocas del Santa Lucía, el San Cristóbal y el Manquehue?", "o": ["Raíces magmáticas de volcanes del Mioceno Inferior", "Arrecifes fósiles", "Morrenas glaciares", "Restos de meteoritos"], "e": "Tienen entre 22 y 20 millones de años."}
+],
+"g21": [
+ {"p": "¿Por qué las 'placas' de Lo Valdés están verticales?", "o": ["La deformación por el alzamiento de los Andes las giró", "Siempre se depositaron así", "Las levantó un glaciar", "Las construyeron personas"], "e": "Originalmente eran capas horizontales en el fondo del mar."},
+ {"p": "¿Cuántas especies de amonites se han encontrado?", "o": ["Más de 39", "Solo 1", "Unas 5", "Más de 500"], "e": "Los amonites son cefalópodos extintos con concha externa, parientes de los nautilos."},
+ {"p": "¿Qué profundidad tenía el mar donde se formaron estas capas?", "o": ["No más de 100 m", "Más de 4.000 m", "Unos 10 cm", "No había mar"], "e": "Se formaron entre 152 y 129 millones de años sobre rocas volcánicas."}
+],
+"g22": [
+ {"p": "¿Qué da el color amarillo-anaranjado a las rocas de la quebrada?", "o": ["Fluidos calientes del volcán San José que alteraron los minerales", "Pintura natural de líquenes", "Polvo del desierto", "Oro nativo"], "e": "Generaron arcillas y óxidos de hierro."},
+ {"p": "¿Qué peligro geológico se genera en la quebrada con lluvias fuertes?", "o": ["Aluviones", "Tsunamis", "Erupciones", "Géiseres"], "e": "Las rocas alteradas son frágiles y se erosionan con facilidad."},
+ {"p": "¿Qué puede afectar un gran aluvión en esta zona?", "o": ["El abastecimiento de agua potable de Santiago", "El puerto de Valparaíso", "Los géiseres de El Tatio", "La isla Navarino"], "e": "Puede dañar el sistema colector de agua en el río Maipo."}
+],
+"g23": [
+ {"p": "¿Qué es la Ignimbrita Pudahuel?", "o": ["Un depósito de flujo piroclástico de una gran erupción", "Una colada de lava", "Un sedimento marino", "Un depósito glaciar"], "e": "Se asocia al colapso de una columna eruptiva de altura kilométrica."},
+ {"p": "¿Qué depresión volcánica se formó en esa erupción?", "o": ["La Caldera Diamante", "El cráter Monturaqui", "La caldera del Chaitén", "El Rano Kao"], "e": "Hoy la ocupa la laguna Diamante, en Argentina."},
+ {"p": "¿De qué está compuesto en un 85 a 90% el depósito en Machalí?", "o": ["Ceniza volcánica", "Arena de playa", "Hielo", "Sal"], "e": "Tiene muy escasos fragmentos de roca y algunas pómez."}
+],
+"g24": [
+ {"p": "¿Cuántos tipos de dinosaurios dejaron huellas en Termas del Flaco?", "o": ["Tres: ornitópodos, terópodos y saurópodos", "Solo uno", "Diez", "Ninguno: son de aves"], "e": "Algunas podrían corresponder al icnogénero Brontopodus."},
+ {"p": "¿Qué preservó las huellas?", "o": ["Cenizas de erupciones volcánicas que las sepultaron", "Hielo glaciar", "Resina de árboles", "Sal del desierto"], "e": "Las cenizas cubrieron las pisadas poco después de formarse."},
+ {"p": "¿En qué ambiente caminaban estos dinosaurios?", "o": ["Orilla de una laguna costera cerca de un arrecife de coral", "Un desierto frío", "La cima de un volcán", "Un glaciar"], "e": "El clima era tropical a subtropical."}
+],
+"g25": [
+ {"p": "¿Qué tipo de falla es la Falla El Fierro?", "o": ["Inversa de bajo ángulo", "Normal vertical", "Transformante oceánica", "No es una falla"], "e": "Tiene vergencia hacia el este y se asocia a un pliegue anticlinal."},
+ {"p": "¿Qué evento reciente se relacionó con esta falla?", "o": ["Sismos de hasta magnitud 6,5 en 2004", "La erupción del Chaitén", "El terremoto de Valdivia", "Un tsunami"], "e": "Indica que ha estado activa desde el Eoceno Superior hasta hoy."},
+ {"p": "¿Qué cuenca controlaron estas fallas desde hace unos 37 millones de años?", "o": ["Cuenca Abanico", "Cuenca de Santiago", "Cuenca del Amazonas", "Cuenca Magallanes"], "e": "Controlaron su borde oriental desde fines del Eoceno."}
+],
+"g26": [
+ {"p": "¿Qué tipo de roca forma la Piedra de la Iglesia de Constitución?", "o": ["Monzogranito (roca intrusiva)", "Mármol", "Arenisca", "Basalto"], "e": "Cristalizó en el Triásico Superior, hace unos 224 millones de años."},
+ {"p": "¿Qué son estos islotes?", "o": ["Restos de un antiguo acantilado erosionado por el mar", "Volcanes submarinos", "Arrecifes de coral", "Construcciones antiguas"], "e": "El acantilado se formó en el Pleistoceno Superior."},
+ {"p": "¿Qué valor adicional tienen las Rocas de Constitución?", "o": ["Son lugar de nidificación de aves", "Tienen oro", "Emiten gases termales", "Tienen huellas de dinosaurio"], "e": "Allí anidan gaviotas, piqueros, cormoranes y pelícanos."}
+],
+"g27": [
+ {"p": "¿Cómo se formaron las 'tazas' del río Claro?", "o": ["Por la erosión de fragmentos de roca arrastrados en el fondo del río", "Por explosiones volcánicas", "Excavadas por personas", "Por meteoritos"], "e": "La erosión profundizó progresivamente pozones en las lavas."},
+ {"p": "¿Sobre qué rocas avanza el río en Siete Tazas?", "o": ["Capas de lava", "Mármol", "Sal", "Arena suelta"], "e": "Forman parte de las Volcanitas de Planicies y Valles (Plioceno–Pleistoceno)."},
+ {"p": "¿A qué se parecen las fracturas de la disyunción columnar según el texto?", "o": ["A las grietas del barro al secarse", "A las ramas de un árbol", "A olas del mar", "A cristales de hielo"], "e": "Forman polígonos, principalmente hexágonos."}
+],
+"g28": [
+ {"p": "¿Por qué el geositio se llama 'La Cárcel'?", "o": ["Sus columnas verticales semejan barrotes de una celda", "Hubo una prisión", "Es difícil salir del valle", "Por una leyenda de bandidos"], "e": "Las columnas alcanzan hasta 20 m de altura."},
+ {"p": "¿A qué complejo volcánico pertenecen estas rocas?", "o": ["Complejo Volcánico Laguna del Maule", "Complejo Volcánico Lonquimay", "Nevados de Chillán", "Volcán Villarrica"], "e": "Tienen unos 116 mil años (Pleistoceno Superior)."},
+ {"p": "¿Qué deporte hace famoso a este lugar?", "o": ["Escalada", "Surf", "Buceo", "Esquí acuático"], "e": "Es uno de los lugares más atractivos de Sudamérica para escalar."}
+],
+"g29": [
+ {"p": "¿Bajo qué fluyeron las lavas Los Pincheira?", "o": ["Bajo extensos glaciares", "Bajo el mar", "Bajo una ciudad", "Bajo un salar"], "e": "Avanzaron gradualmente porque debían fundir el hielo."},
+ {"p": "¿Qué longitud aproximada recorrieron estas lavas?", "o": ["Cerca de 40 km", "Unos 200 m", "Más de 1.000 km", "3 km"], "e": "Son una de las coladas más largas del sur de Chile."},
+ {"p": "¿Quiénes usaron la cueva como escondite?", "o": ["Los Pincheira, montoneros del siglo XIX", "Piratas ingleses", "Los incas", "Buscadores de oro del siglo XX"], "e": "De ahí su nombre y su leyenda."}
+],
+"g30": [
+ {"p": "¿Cómo se llaman los fragmentos de roca incorporados por el magma?", "o": ["Xenolitos", "Orbículas", "Estromatolitos", "Concreciones"], "e": "Provienen de rocas metamórficas del Basamento Metamórfico."},
+ {"p": "¿Qué roca muy especial se formó por la interacción de magmas?", "o": ["Granodiorita de olivino", "Mármol rosado", "Obsidiana", "Caliza fosilífera"], "e": "Solo hay dos documentadas en Chile y unas 30 en el mundo."},
+ {"p": "¿Hace cuánto interactuaron los magmas de Cobquecura?", "o": ["Unos 210 millones de años (fines del Triásico)", "10 mil años", "2 millones de años", "541 millones de años"], "e": "Ocurrió en lo profundo de la corteza terrestre."}
+],
+"g31": [
+ {"p": "¿De dónde viene el nombre 'Los Pangues'?", "o": ["De la abundante vegetación de pangues o nalcas", "De un cacique", "De un río", "De un mineral"], "e": "Sus hojas pueden superar el metro de diámetro."},
+ {"p": "¿Qué capa forma el techo de la gruta?", "o": ["Una capa con bombas líticas, más resistente", "Una capa de hielo", "Un filón de cuarzo", "Una colada de lava cordada"], "e": "Las capas inferiores, menos resistentes, se erosionaron formando la cavidad."},
+ {"p": "¿Hace cuánto ocurrieron las erupciones que formaron estas capas?", "o": ["Unos 2.300 años", "65 millones de años", "300 mil años", "En 2008"], "e": "Fueron grandes erupciones explosivas de Nevados de Chillán en el Holoceno."}
+],
+"g32": [
+ {"p": "¿Qué reptil marino destaca en Caleta Cocholgüe?", "o": ["Aristonectes quiriquinensis, un plesiosauro", "Un ictiosaurio gigante", "Un cocodrilo actual", "Una iguana marina"], "e": "Es el plesiosauro más joven descrito a la fecha."},
+ {"p": "¿Qué gran transición del tiempo geológico registran estas rocas?", "o": ["El paso de la era mesozoica a la cenozoica, hace 66 millones de años", "El origen de la vida", "La última glaciación", "La formación de la Luna"], "e": "Lo muestra el cambio de fauna fósil entre las formaciones Quiriquina y Curanilahue."},
+ {"p": "¿Qué son las bioturbaciones?", "o": ["Estructuras fosilizadas por la acción de organismos en los sedimentos", "Remolinos de agua", "Burbujas de lava", "Tipos de concha"], "e": "También se conocen como trazas fósiles."}
+],
+"g33": [
+ {"p": "¿Qué forma tiene un pliegue anticlinal?", "o": ["Convexa, como una '∩'", "Cóncava, como una 'U'", "Plana", "En espiral"], "e": "Si la curva es cóncava ('U') se llama sinclinal."},
+ {"p": "¿Qué significa que el pliegue esté 'volcado'?", "o": ["Su plano axial está inclinado y un flanco queda invertido", "Que está bajo el agua", "Que se rompió en dos", "Que es muy joven"], "e": "En el flanco invertido las capas más antiguas quedan sobre las más jóvenes."},
+ {"p": "¿Qué provocó el plegamiento?", "o": ["Una falla profunda que empujó las capas desde abajo", "Un meteorito", "La erosión del viento", "Un glaciar"], "e": "Ocurrió entre 14 y 9 millones de años."}
+],
+"g34": [
+ {"p": "¿Qué roca forma el mirador de Piedra del Águila?", "o": ["Granodiorita", "Mármol", "Basalto", "Arenisca"], "e": "Pertenece al Batolito Costero del Sur (Paleozoico Superior)."},
+ {"p": "¿A qué profundidad se enfriaron los magmas del batolito?", "o": ["A unos 12 a 15 km", "En la superficie", "A 100 m", "A 500 km"], "e": "Tenían inicialmente entre 700 y 800 °C."},
+ {"p": "¿Qué roca metamórfica se reconoce alrededor del mirador?", "o": ["Gneis", "Pizarra", "Mármol", "Cuarcita"], "e": "Se originó al calentarse rocas sedimentarias por sobre 600 °C."}
+],
+"g35": [
+ {"p": "¿Cuándo comenzó la erupción que formó el cono Navidad?", "o": ["El 25 de diciembre de 1988", "El 2 de mayo de 2008", "En 1971", "Hace 10 mil años"], "e": "De ahí su nombre: comenzó en Navidad."},
+ {"p": "¿Por qué murió gran cantidad de ganado?", "o": ["Por la ceniza con alto contenido de flúor (osteofluorosis)", "Por la lava", "Por el frío", "Por un tsunami"], "e": "Murieron cerca de 50 mil cabezas de ganado."},
+ {"p": "¿Cuánto tiempo fluyó la lava por el valle del río Lolco?", "o": ["13 meses", "2 días", "10 años", "1 hora"], "e": "Alcanzó 10 km desde su fuente."}
+],
+"g36": [
+ {"p": "¿Cuántas capas se observan en la pared del cañadón?", "o": ["Cerca de 70", "Solo 3", "Unas 1.000", "Una sola"], "e": "Registran caídas de ceniza, flujos piroclásticos y lahares."},
+ {"p": "¿Qué depósito está en la base de la secuencia?", "o": ["La Ignimbrita Curacautín", "La Ignimbrita Pudahuel", "La Formación Lauca", "Lavas de 1971"], "e": "Es el mayor y más antiguo evento eruptivo del Llaima."},
+ {"p": "¿Qué lugar ocupa el Llaima en el ranking de riesgo específico?", "o": ["El número 3", "El número 1", "El número 49", "No está en el ranking"], "e": "Es uno de los volcanes más activos de Chile."}
+],
+"g37": [
+ {"p": "¿Qué significa 'Ruka pillañ'?", "o": ["Casa del espíritu", "Montaña de fuego", "Lago azul", "Tierra del sol"], "e": "Es el nombre mapuche del volcán Villarrica."},
+ {"p": "¿Qué tiene el cráter del Villarrica que solo se da en 7 volcanes del mundo?", "o": ["Un cráter abierto con lago de lava", "Un lago de agua dulce", "Un glaciar dentro del cráter", "Un géiser gigante"], "e": "Es un verdadero laboratorio natural."},
+ {"p": "¿Qué lugar ocupa el Villarrica en el ranking de riesgo específico?", "o": ["El número 1", "El número 11", "El número 3", "El número 6"], "e": "Por su alta peligrosidad y cercanía a centros poblados, se monitorea en tiempo real."}
+],
+"g38": [
+ {"p": "¿Qué es la 'cancagua'?", "o": ["Una arena endurecida local", "Una madera nativa", "Un tipo de cal", "Un mineral de cobre"], "e": "Se usó para labrar la batería y el foso del fuerte Niebla."},
+ {"p": "¿Cuántos ambientes antiguos se reconocen en las capas de cancagua?", "o": ["Tres", "Uno", "Diez", "Ninguno"], "e": "Playa y plataforma somera, estuario, y barra costera con dunas y delta."},
+ {"p": "¿En qué año se construyó el fuerte Niebla?", "o": ["1671", "1950", "1810", "1541"], "e": "Fue declarado Monumento Histórico en 1950."}
+],
+"g39": [
+ {"p": "¿Cómo se llama la lava de superficie rugosa que semeja cuerdas?", "o": ["Pahoehoe", "Aa", "Almohadillada", "Columnar"], "e": "La lava aa, en cambio, tiene bloques de lados afilados."},
+ {"p": "¿Cuánto tardó la lava de 1971 en recorrer unos 16,5 km?", "o": ["Apenas 48 horas", "Un año", "Diez minutos", "Un siglo"], "e": "Los flujos de lava son uno de los mayores peligros cerca de los volcanes."},
+ {"p": "¿Cuántos eventos eruptivos registra el Villarrica en los últimos 440 años?", "o": ["Más de 60", "Solo 2", "Ninguno", "Unos 5"], "e": "Algunos tranquilos y otros muy explosivos."}
+],
+"g40": [
+ {"p": "¿En qué año se formó el cono Mirador?", "o": ["1979", "1907", "1955", "1988"], "e": "Se reactivó un cono de escorias prehistórico entre abril y mayo de 1979."},
+ {"p": "¿Cuántos centros volcánicos tiene el Campo Volcánico Carrán-Los Venados?", "o": ["Al menos 70", "Solo 1", "Unos 5", "Más de 1.000"], "e": "Incluye conos de piroclastos, cráteres y maares."},
+ {"p": "¿Qué permitiría estudiar este campo volcánico?", "o": ["Cómo se forma un volcán desde sus etapas primarias", "El origen de la Luna", "La extinción de los dinosaurios", "La formación del petróleo"], "e": "Su alta actividad lo hace de gran interés científico."}
+],
+"g41": [
+ {"p": "¿Qué hallazgo de Pilauco es el más antiguo de su tipo en Sudamérica?", "o": ["Una huella humana de 15.600 años", "Un esqueleto de dinosaurio", "Una punta de flecha de oro", "Un meteorito"], "e": "Correspondería a una persona de unos 72 kilos y 1,82 m."},
+ {"p": "¿Qué eran los gonfoterios?", "o": ["Parientes de los elefantes", "Aves gigantes", "Peces", "Dinosaurios"], "e": "Forman parte de la megafauna del Pleistoceno."},
+ {"p": "¿Qué hipótesis se plantea sobre la extinción de la megafauna?", "o": ["Un impacto de meteorito hace 12.800 años", "Una erupción del Villarrica", "Un tsunami", "La caza con armas de fuego"], "e": "Se han encontrado evidencias de un impacto en la zona."}
+],
+"g42": [
+ {"p": "¿Qué bloqueó el antiguo valle del río Petrohué?", "o": ["Coladas de lava del volcán Osorno", "Un glaciar actual", "Un derrumbe de 2010", "Una represa"], "e": "Las lavas fluyeron cuando el valle aún tenía hielos de la Glaciación Llanquihue."},
+ {"p": "¿Qué edad tienen las lavas de los Saltos del Petrohué?", "o": ["Entre 90 mil y 30 mil años", "Unos 200 millones de años", "Apenas 50 años", "Unos 2 mil años"], "e": "Son del Pleistoceno Superior."},
+ {"p": "¿Qué marsupiales viven en el parque?", "o": ["La comadrejita trompuda y el monito del monte", "Canguros", "Koalas", "Zarigüeyas gigantes"], "e": "El parque es parte de una reserva de la biósfera."}
+],
+"g43": [
+ {"p": "¿Cuándo comenzó la última erupción del volcán Chaitén?", "o": ["El 2 de mayo de 2008", "En 1979", "En 1960", "En 1988"], "e": "Fue un evento sorpresivo por falta de una red instrumental."},
+ {"p": "¿Qué creó la erupción del Chaitén en Sernageomin?", "o": ["La Red Nacional de Vigilancia Volcánica", "Un museo", "Una mina", "Un parque nacional"], "e": "Hoy monitorea los volcanes más peligrosos del país."},
+ {"p": "¿Qué destruyó parcialmente el pueblo de Chaitén?", "o": ["Lahares por lluvias que movilizaron la ceniza", "Una colada de lava", "Un terremoto", "Un glaciar"], "e": "Descendieron por el valle del río Blanco."}
+],
+"g44": [
+ {"p": "¿Qué modeló las torres de Cerro Castillo?", "o": ["Los hielos de las glaciaciones del Pleistoceno", "El oleaje", "El viento del desierto", "Un meteorito"], "e": "La erosión diferencial según la dureza de las rocas formó sus penachos."},
+ {"p": "¿Qué conjunto de rocas intrusivas forma parte del cerro?", "o": ["Batolito Patagónico", "Plutón Relincho", "Batolito Costero del Sur", "Formación Lautaro"], "e": "Se generó hace unos 98 a 93 millones de años."},
+ {"p": "¿Qué altura tiene Cerro Castillo?", "o": ["2.318 m s.n.m.", "6.893 m s.n.m.", "700 m s.n.m.", "4.290 m s.n.m."], "e": "Se ve junto a la carretera Austral."}
+],
+"g45": [
+ {"p": "¿Qué mineral forma principalmente el mármol de la Capilla de Mármol?", "o": ["Carbonato de calcio", "Cuarzo", "Hierro", "Sal común"], "e": "El agua disuelve este mineral y fue modelando las rocas."},
+ {"p": "¿Desde hace cuánto el agua modela estas rocas?", "o": ["Unos 12 mil años", "300 millones de años", "Solo 100 años", "1 millón de años"], "e": "Desde poco antes del comienzo del Holoceno."},
+ {"p": "¿Cómo se accede al geositio?", "o": ["Navegando por el lago General Carrera", "Solo en helicóptero", "Por un túnel", "Caminando sobre el glaciar"], "e": "Está a 5 km de Puerto Río Tranquilo."}
+],
+"g46": [
+ {"p": "¿Qué altura tiene la Piedra Clavada?", "o": ["Unos 40 m", "2 m", "400 m", "1 km"], "e": "Tiene 6 a 8 m de diámetro."},
+ {"p": "¿Por qué algunas zonas de roca resistieron más la erosión?", "o": ["Se endurecieron con la incorporación de sílice", "Estaban cubiertas de musgo", "Son de hierro puro", "Fueron protegidas por personas"], "e": "Así se modelaron formas columnares caprichosas."},
+ {"p": "¿Qué tipo de erupciones originaron estas rocas?", "o": ["Violentas y explosivas", "Tranquilas y submarinas", "Ninguna, son sedimentarias", "Erupciones de lodo frío"], "e": "Ocurrieron hace 152 a 142 millones de años (Formación Ibáñez)."}
+],
+"g47": [
+ {"p": "¿Qué son las rocas claras de los Cuernos del Paine?", "o": ["Granitos intruidos hace unos 13 millones de años", "Hielo glaciar", "Mármol", "Sal"], "e": "Contrastan con las rocas sedimentarias oscuras del Cretácico."},
+ {"p": "¿Qué indican las rocas oscuras de los Cuernos?", "o": ["La existencia de un mar profundo en el Cretácico", "Un antiguo desierto", "Un bosque tropical", "Un lago de lava"], "e": "Son de las formaciones Punta Barrosa y Cerro Toro."},
+ {"p": "¿Qué modeló las formas de cuernos, circos y aristas?", "o": ["Los hielos glaciares durante el Pleistoceno", "El viento", "Los ríos subterráneos", "Explosiones volcánicas"], "e": "La erosión glaciar actuó según la dureza de cada roca."}
+],
+"g48": [
+ {"p": "¿Qué significa 'Pali-Aike' en lengua aóniken?", "o": ["Lugar desolado", "Montaña sagrada", "Agua dulce", "Viento fuerte"], "e": "El parque está a 196 km al noreste de Punta Arenas."},
+ {"p": "¿Qué forma tiene el cono de Pali-Aike?", "o": ["De herradura abierta hacia el norte", "Perfectamente circular y cerrada", "De pirámide", "De estrella"], "e": "Por la abertura escurrió un flujo de lava."},
+ {"p": "¿Qué se encontró en la cueva Pali-Aike?", "o": ["Evidencia de ocupación humana de unos 9 mil años", "Huesos de dinosaurio", "Oro", "Pinturas de 50 mil años"], "e": "Permitió reconstruir la historia de los antiguos habitantes de la Patagonia austral."}
+],
+"g49": [
+ {"p": "¿Qué rocas forman en gran parte las cumbres de los Dientes de Navarino?", "o": ["Dioritas, más resistentes a la erosión", "Areniscas blandas", "Hielo", "Calizas"], "e": "Las dioritas tienen unos 100 millones de años (Cretácico Superior)."},
+ {"p": "¿Qué forma tienen los valles modelados por glaciares?", "o": ["Forma de 'U'", "Forma de 'V'", "Forma de 'W'", "Circular"], "e": "Los glaciares dejan valles de fondos amplios."},
+ {"p": "¿Qué ciudad está a unos 6 km de este geositio?", "o": ["Puerto Williams", "Punta Arenas", "Ushuaia", "Puerto Natales"], "e": "Es la ciudad más austral del mundo."}
+]
+}

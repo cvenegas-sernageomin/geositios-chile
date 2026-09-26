@@ -1,0 +1,2722 @@
+{
+ "titulo": "Geositios de Chile",
+ "subtitulo": "Una mirada a sus maravillas geológicas",
+ "lema": "\"Geositios de Chile: una mirada a sus maravillas geológicas”, es un libro que busca dar a conocer la extraordinaria diversidad y riqueza geológica de nuestro país. Los geositios representan pequeños capítulos de la vasta y fascinante historia natural de Chile y del planeta. Son nuestra herencia y también deben ser nuestro legado.",
+ "pie_portada": "vista hacia el noroeste del geositio Cerro Castillo. Destacan en la pared rocosa las diferentes unidades geológicas que lo conforman, cubiertas parcialmente por ventisqueros o sedimentos. En la parte baja, una laguna glaciar. Autor: Felipe Andrade A.",
+ "prologos": [
+  {
+   "titulo": "Prólogo Director Nacional Sernageomin — Patricio Aguilera Poblete",
+   "texto": "Una función relevante de nuestra misión como Servicio Nacional de Geología y Minería es generar, mantener y divulgar información de geología básica y de recursos y peligros geológicos del territorio nacional, al servicio del desarrollo del país y del bienestar y seguridad de la comunidad, razón por la cual, este libro que describe y sistematiza parte de nuestro patrimonio geológico, es un producto coherente con nuestra misión institucional. “Geositios de Chile, una mirada a sus maravillas geológicas”, nace como resultado del interés, esfuerzo y visión de los profesionales de Sernageomin por dar a conocer a la sociedad la extraordinaria diversidad y riqueza geológica de nuestro país. Recorrer estas páginas y analizar cada uno de los 49 geositios caracterizados, nos permitirá dar una nueva mirada a fenómenos geológicos que han contribuido a conformar y configurar nuestro territorio, los que son representativos de diversos procesos ocurridos durante su evolución geológica, desde la era paleozoica hasta la actualidad, incluyendo aspectos relacionados al origen y la evolución de la vida en la Tierra. Sin embargo, la importancia de algunos de estos lugares no solo se debe a su relación con el conocimiento geocientífico que de ellos se dispone, ya que sus vínculos con hechos históricos o saberes ancestrales, su afamado uso recreativo o turístico, o su rol como soportes del conocimiento de diversos ecosistemas a lo largo de nuestro país, les otorgan una mayor relevancia y los hacen más cercanos a las personas y comunidades. Invitamos a todos y todas a disfrutar de este libro, el que nos concede tanto la posibilidad de conocer, apreciar y valorar, aún más, la diversidad de nuestro territorio, como de generar un mayor nivel de conciencia respecto de cómo lo ocupamos y nos desarrollamos en él, especialmente en esta etapa de la evolución de la humanidad en que enfrentamos cambios globales significativos, cada vez más impactantes y frecuentes. Finalmente, en una tarea compartida con otras instituciones, entre ellas y principalmente la prestigiosa Sociedad Geológica de Chile, esperamos que este libro contribuya al reconocimiento de estos y otros lugares relevantes para las geociencias, los que pertenecen al diverso y vasto patrimonio natural de nuestro país y que, en consecuencia, contribuya, también, a generar y activar las medidas de conservación que ellos ameritan."
+  },
+  {
+   "titulo": "Prólogo Presidenta Sociedad Geológica De Chile — Millarca Valenzuela Picón",
+   "texto": "“Geositios de Chile, una mirada a sus maravillas geológicas” llega en un momento álgido para Chile, en el año en el que muchas familias perdieron sus casas, construidas en zonas de inundación, por muchos años secas, en casi todos los ríos del centro-sur del país, así como el impactante caso Socavones, en las Dunas de Concón, uno de los geositios de este libro. La crisis climática ya está aquí golpeándonos duramente con daños materiales y la pérdida de vidas que podrían ser evitadas si toda la cadena de instituciones públicas y privadas responsables de la construcción de inmuebles entendieran que territorios con alto riesgo de desastres no debiesen ser ocupados para ello, tal como lo aconsejan organismos técnicos como Sernageomin. Estos casos llevan a la reflexión de que necesitamos dirigentes políticos, empresarios y agentes del estado más entendidos en aspectos de las geociencias que impactan en la sociedad, a la vez que también es necesaria una ciudadanía que conozca los territorios que habita para convivir en ellos de manera más segura. Durante mi trabajo en la Unidad de Geopatrimonio de Sernageomin el año 2018 me tocó impulsar los primeros pasos para la elaboración de este libro, pensado como una de las primeras tareas a realizar al alero del convenio marco firmado entre Sernageomin y la Sociedad Geológica de Chile para colaborar en los temas de geopatrimonio que ambas instituciones comparten. Se deseaba generar un libro que ayudara a difundir la riqueza geológica que existe en el país, de sitios emblemáticos con los que la ciudadanía pudiera identificarse (Morro de Arica, Duna Cerro Dragón, La Portada y otros), pero también con otros más remotos, para darlos a conocer y mostrar cómo estos lugares pueden contar pequeñas o grandes historias del planeta Tierra. El mapa sinóptico de los geositios en la carta del tiempo geológico que incluye el libro, así como el contexto geológico en que todos ellos aparecen, entrega una grata forma de ir descubriendo las historias que cada uno de ellos cuenta, que a su vez permite comprender mejor la geología de los lugares donde habitamos, los que han pasado por increíbles procesos y transformaciones, dejando vestigios que luego debemos descifrar. Los invito a disfrutar y maravillarnos con estos magníficos representantes de los más de 500 geositios actualmente presentes en los repositorios de Sernageomin, Sociedad Geológica de Chile y otras instituciones, que esperamos que sigan aumentando y generando mayor consciencia del territorio que nutre nuestras vidas, para disfrutarlo y también para tomar mejores decisiones de cómo vivir en él."
+  }
+ ],
+ "referencia": "Sernageomin. 2023. Geositios de Chile: una mirada a sus maravillas geológicas. Servicio Nacional de Geología y Minería: 144 p. Santiago. https://geositiosdechile.sernageomin.cl/",
+ "categorias": [
+  {
+   "id": "volcanico",
+   "nombre": "Volcánico"
+  },
+  {
+   "id": "geomorfologico",
+   "nombre": "Geomorfológico"
+  },
+  {
+   "id": "paleontologico",
+   "nombre": "Paleontológico"
+  },
+  {
+   "id": "estratigrafico",
+   "nombre": "Estratigráfico-sedimentario"
+  },
+  {
+   "id": "estructural",
+   "nombre": "Estructural-tectónico"
+  },
+  {
+   "id": "petrologico",
+   "nombre": "Petrológico-mineral"
+  },
+  {
+   "id": "geotermico",
+   "nombre": "Geotérmico"
+  },
+  {
+   "id": "otro",
+   "nombre": "Otro"
+  }
+ ],
+ "sitios": [
+  {
+   "id": "g01",
+   "orden": 1,
+   "slug": "catedral-del-valle-del-rio-lauca",
+   "nombre": "Catedral del Valle del Río Lauca",
+   "region": "Arica y Parinacota",
+   "region_txt": "Región de Arica y Parinacota",
+   "lat": -18.474252,
+   "lon": -69.253873,
+   "provincia": "Parinacota",
+   "comuna": "Putre",
+   "localidad": "Ancuta",
+   "altitud": "4.170 m s.n.m.",
+   "interes": "geomorfológico",
+   "categoria": "geomorfologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "El geositio Catedral del Valle del Río Lauca se ubica a poco más de 7,8 km al oeste de la localidad de Ancuta, en la provincia de Parinacota. No obstante, la forma más directa de acceder a este sitio es dirigirse hacia el sur, desde el kilómetro 158 de la ruta internacional CH-11 (12 km antes de llegar a Chucuyo), por la ruta A-235 hasta Misitune y luego continuar al sur por la ruta A-245 hasta cerca de 1,5 km antes del cruce con la ruta A-243, donde hay un desvío que permite acercarse al geositio.",
+    "Este geositio corresponde a un sector del valle, con forma de anfiteatro, donde, a partir del Pleistoceno hasta el presente, la erosión ha esculpido llamativas estructuras con aspecto de pilares. Estas se originaron por el intenso escurrimiento del agua sobre las laderas compuestas por una serie de capas de sedimentos lagunares, de distintos espesores y de color pardo en diferentes tonalidades, en las que, además, se intercalan capas de cenizas volcánicas de coloración blanquecina. Toda esta secuencia de capas de sedimentos y cenizas ha sido agrupada en la denominada Formación Lauca, a la que se le asigna una edad entre 6,2 y 2,6 millones de años, correspondiente al lapso Mioceno Superior-Plioceno Superior."
+   ],
+   "pies": [
+    "Fotografía superior: panorama hacia el oeste de la localidad de Ancuta en las cercanías del geositio Catedral del Valle del Río Lauca, región de Arica y Parinacota. Fotografía inferior: geositio Catedral del Valle del Río Lauca. A la derecha se distinguen las capas de sedimentos lagunares, de colores pardo y ocre, y las de cenizas volcánicas más blanquecinas. Al fondo, entre nubes, se observa el volcán Guallatiri. Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g01-1.webp",
+     "mini": "img/g01-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g01-2.webp",
+     "mini": "img/g01-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g01.mp3",
+    "dur": 88.6,
+    "marcas": [
+     0.0,
+     5.62,
+     44.5
+    ]
+   }
+  },
+  {
+   "id": "g02",
+   "orden": 2,
+   "slug": "morro-de-arica",
+   "nombre": "Morro de Arica",
+   "region": "Arica y Parinacota",
+   "region_txt": "Región de Arica y Parinacota",
+   "lat": -18.480771,
+   "lon": -70.324565,
+   "provincia": "Arica",
+   "comuna": "Arica",
+   "localidad": "Arica",
+   "altitud": "130 m s.n.m.",
+   "interes": "petrológico - geomorfológico",
+   "categoria": "petrologico",
+   "valor": "cultural",
+   "parrafos": [
+    "El geositio Morro de Arica es un cerro costero de 280 m de altura aproximada ubicado en el sector sur de la ciudad de Arica. Declarado Monumento Nacional el 6 de octubre de 1971, constituye el extremo norte de la cordillera de la Costa en Chile y el inicio del acantilado costero.",
+    "Sus rocas, asignadas a la denominada Formación Camaraca, son las más antiguas de la provincia de Arica y, según su contenido fosilífero, han sido asignadas al Jurásico Medio, entre 170 y 163 millones de años aproximadamente. En el acantilado, resultante de procesos de alzamiento y erosión ocurridos durante el lapso Pleistoceno-Presente, se expone una secuencia de capas levemente inclinadas hacia el este (15-20°), conformadas, principalmente, por lavas andesíticas con intercalaciones de rocas sedimentarias marinas con fósiles.",
+    "Toda la secuencia se formó en un ambiente marino de poca profundidad según lo demuestra el contenido fósil, donde destacan los restos de bivalvos, amonites, equinodermos, corales y braquiópodos, todos organismos marinos de ambientes someros. Por otra parte, la fuente de los materiales volcánicos se ubicaba cercana a la costa, tal como lo demuestra la presencia de estructuras de enfriamiento rápido generadas en la lava al entrar en contacto con el agua del mar. Las lavas con estas estructuras son denominadas lavas almohadilladas o pillow lavas por sus formas ovaladas y se pueden observar a simple vista en las rocas del morro.",
+    "Este geositio es el principal símbolo de la ciudad y es visitado por muchos turistas cada año, tanto por la vista panorámica que ofrece de la ciudad y sus playas cercanas, como por su relevancia histórica."
+   ],
+   "pies": [
+    "Fotografía: perspectiva hacia el nornoreste de la ciudad de Arica desde el geositio Morro de Arica, región de Arica y Parinacota. Autora: Natalia Espina L. Sernageomin.",
+    "Fotografía superior: vista general hacia el sur del geositio Morro de Arica. Fuente de la fotografía: © Archivo Fotográfico del Consejo de Monumentos Nacionales, 2008. Autora: Karina Sánchez V.",
+    "Fotografía inferior: estructuras de almohadillas o pillow lavas en la parte central de la ladera poniente del geositio Morro de Arica, las que destacan por su estructura rugosa y formas ovaladas. Autor: Guillermo López A., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g02-1.webp",
+     "mini": "img/g02-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g02-2.webp",
+     "mini": "img/g02-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g02-3.webp",
+     "mini": "img/g02-3-t.webp",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "audio": {
+    "src": "audio/g02.mp3",
+    "dur": 110.7,
+    "marcas": [
+     0.0,
+     4.51,
+     24.29,
+     60.58,
+     98.28
+    ]
+   }
+  },
+  {
+   "id": "g03",
+   "orden": 3,
+   "slug": "lagunas-de-amuyo",
+   "nombre": "Lagunas de Amuyo",
+   "region": "Arica y Parinacota",
+   "region_txt": "Región de Arica y Parinacota",
+   "lat": -19.057636,
+   "lon": -69.253436,
+   "provincia": "Arica",
+   "comuna": "Camarones",
+   "localidad": "Camiña",
+   "altitud": "3.700 m s.n.m.",
+   "interes": "geomorfológico - geotérmico",
+   "categoria": "geomorfologico",
+   "valor": "cultural",
+   "parrafos": [
+    "Las lagunas de Amuyo, ubicadas en las cercanías del poblado de Camiña, son la expresión superficial de un sistema hidrotermal profundo donde fluidos a altas temperaturas circulan por rocas volcánicas muy permeables de la Formación Oxaya, del Oligoceno-Mioceno. Esta circulación provoca que se disuelvan ciertos minerales presentes en esas rocas y, a su vez, el aumento de la salinidad y concentración de algunos elementos y compuestos en estos fluidos.",
+    "El ascenso de estos fluidos y la precipitación constante de sales, durante el lapso Mioceno Medio-Presente, dan forma a rocas termales de manantial, las que consisten en gruesas costras de colores muy llamativos, que dan el nombre a estas lagunas. Dependiendo de la composición del fluido, estas costras pueden ser verde-amarillentas, si son ricas en el mineral conocido como oropimente, o anaranjadas-rojizas, si en ellas abunda el rejalgar. La continua acumulación de costras ha generado una estructura de domo de unos 400 m de diámetro que se eleva unos 15 m sobre el nivel del río Caritaya.",
+    "Además, estos ambientes extremos y únicos albergan colonias de bacterias que soportan las altas temperaturas y concentraciones salinas de las lagunas (la laguna Roja tiene una temperatura máxima de 57 ºC medida a 11 m de profundidad). Estas comunidades bacterianas, conocidas como termófilas por su tolerancia a altas temperaturas, generan estructuras orgánicas denominadas estromatolitos y trombolitos. Debido a la presencia de este tipo de organismos en la Tierra desde hace unos 3.500 millones de años, el estudio de las colonias de este geositio es fundamental para la comprensión del origen y desarrollo de la vida terrestre y la posibilidad de vida extraterrestre.",
+    "Debido a lo peculiar de los tonos de sus aguas y depósitos, lo llamativo de su morfología y el contraste con su entorno opaco, estas lagunas son un espacio ritual para las comunidades originarias, lo que ha generado nutridos relatos e imaginarios asociados a ellas, además de constituir un gran atractivo turístico local."
+   ],
+   "pies": [
+    "Fotografía superior: vista hacia el oriente a la laguna roja de Amuyo, región de Arica y Parinacota. Fotografía inferior: panorama hacia el oriente de la laguna roja de Amuyo donde se aprecian las costras salinas de diferentes coloraciones que le dan las tonalidades a las lagunas de este geositio. Autor: Francisco Munita Y."
+   ],
+   "fotos": [
+    {
+     "src": "img/g03-1.webp",
+     "mini": "img/g03-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g03-2.webp",
+     "mini": "img/g03-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g03.mp3",
+    "dur": 133.2,
+    "marcas": [
+     0.0,
+     4.63,
+     32.52,
+     70.61,
+     113.57
+    ]
+   }
+  },
+  {
+   "id": "g04",
+   "orden": 4,
+   "slug": "duna-cerro-dragon",
+   "nombre": "Duna Cerro Dragón",
+   "region": "Tarapacá",
+   "region_txt": "Región de Tarapacá",
+   "lat": -20.257483,
+   "lon": -70.119861,
+   "provincia": "Iquique",
+   "comuna": "Iquique",
+   "localidad": "Iquique",
+   "altitud": "289 m s.n.m.",
+   "interes": "geomorfológico - sedimentológico",
+   "categoria": "geomorfologico",
+   "valor": "cultural",
+   "parrafos": [
+    "La duna Cerro Dragón, declarada Santuario de la Naturaleza en 2005, constituye una de las formas del relieve más relevantes y llamativas de los paisajes áridos del norte de Chile. Esta duna costera se emplaza en el sector sur de una estrecha y rocosa terraza litoral, de unos 52 m s.n.m. de altitud promedio, que limita al este con un acantilado costero del orden de 500 m de altura, y sobre la que se ha desarrollado la ciudad de Iquique.",
+    "Con cerca de 4 km de largo y un ancho que varía entre 150 y 550 m, destaca en ella su afilada cima, de forma alargada y trazado sinuoso que culmina en una cresta alta y aguda. Son precisamente estas características las responsables de su similitud con la figura de un dragón recostado.",
+    "Actualmente, esta duna carece de una fuente activa de arena, como una playa por ejemplo, por lo que se le clasifica como fósil o relicta. Se ha postulado que su origen se remonta al último máximo glacial, hace unos 20 mil años aproximadamente, durante el Pleistoceno Superior, cuando el nivel del mar estaba unos 100 m más bajo que el actual y dejaba expuesta una plataforma de cerca de 5 km de ancho, con sedimentos que habrían provisto la arena para la formación de esta duna.",
+    "No obstante ser un área protegida, el desarrollo urbano de Iquique ha puesto en peligro la integridad y la existencia de la duna Cerro Dragón. La presión inmobiliaria, la extracción de arena para la construcción y las actividades de esparcimiento han provocado la fragmentación de esta duna y la pérdida de naturalidad de sus geoformas originales."
+   ],
+   "pies": [
+    "Fotografía superior: perspectiva hacia el norponiente tanto del geositio Duna Cerro Dragón como de la ciudad de Iquique. Fotografía inferior: vista hacia el sur del geositio Duna cerro Dragón. Destaca, al centro de la fotografía, su afilada y sinuosa cima; a la izquierda, el imponente acantilado costero de cerca de 500 m de altura y a la derecha, la ciudad de Iquique emplazada en la plataforma costera de este sector. Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g04-1.webp",
+     "mini": "img/g04-1-t.webp",
+     "w": 1200,
+     "h": 425
+    },
+    {
+     "src": "img/g04-2.webp",
+     "mini": "img/g04-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g04.mp3",
+    "dur": 104.6,
+    "marcas": [
+     0.0,
+     4.15,
+     33.38,
+     53.54,
+     84.02
+    ]
+   }
+  },
+  {
+   "id": "g05",
+   "orden": 5,
+   "slug": "salar-y-geoglifos-de-pintados",
+   "nombre": "Salar y Geoglifos de Pintados",
+   "region": "Tarapacá",
+   "region_txt": "Región de Tarapacá",
+   "lat": -20.622731,
+   "lon": -69.663119,
+   "provincia": "Tamarugal",
+   "comuna": "Pozo Almonte",
+   "localidad": "Pica y Pozo Almonte",
+   "altitud": "978 m s.n.m.",
+   "interes": "hidrogeológico - mineralógico",
+   "categoria": "petrologico",
+   "valor": "cultural",
+   "parrafos": [
+    "El salar de Pintados, ubicado a 47 km al sur de Pozo Almonte, se encuentra en la Reserva Nacional de la Pampa del Tamarugal, creada en 1988. Se localiza en el límite de la depresión Intermedia con la cordillera de la Costa, en el extremo norte de la pampa del Tamarugal. Corresponde a un salar fósil o inactivo, ya que no recibe recarga de cursos superficiales de agua y su edad comprende el lapso Pleistoceno-Holoceno, aproximadamente entre 2,6 millones de años y el presente.",
+    "El salar está compuesto por costras de sal y cantidades menores de sedimentos finos. Entre las sales más comunes destacan sulfatos (yeso, anhidrita), carbonatos, nitratos y haluros (sal común) que forman una costra superficial desconectada de las aguas subterráneas profundas. El análisis químico de estas aguas evidencia un predominio en ellas de sulfatos y sodio, aunque en algunos sectores prevalece también el cloro o el bicarbonato, y el magnesio o el calcio, en especial hacia el suroeste del salar.",
+    "En las laderas orientales de la cordillera de la Costa, en el sector centro-oeste del salar, se ubican los geoglifos de Pintados, declarados Monumento Histórico en el año 1969, que incluyen alrededor de 450 figuras en un área de 50.000 m2 en una extensión de 3 km. Estos fueron realizados por pueblos prehispánicos entre los años 700 y 1.500 d.C., y en la mayoría de ellos se utilizó la técnica de extracción de material superficial para dar el contraste con la superficie natural de las rocas.",
+    "En este sector se ubica un centro de interpretación en el cual se puede obtener información acerca de los geoglifos y de los hallazgos arqueológicos relacionados con los pueblos prehispánicos."
+   ],
+   "pies": [
+    "Fotografía: panorama hacia el oeste de la costra rugosa del salar de Pintados. Se observa, además, el centro de interpretación y las laderas con los geoglifos de Pintados. Autor: Felipe Fuentes C., Sernageomin.",
+    "Fotografía superior: vista hacia el oeste de los geoglifos de Pintados.",
+    "Fotografía inferior: capa de yeso en la costra salina del salar, cerca del centro de interpretación.",
+    "Autor fotografías:Felipe Fuentes C., Sernageomin"
+   ],
+   "fotos": [
+    {
+     "src": "img/g05-1.webp",
+     "mini": "img/g05-1-t.webp",
+     "w": 1200,
+     "h": 253
+    },
+    {
+     "src": "img/g05-2.webp",
+     "mini": "img/g05-2-t.webp",
+     "w": 1200,
+     "h": 522
+    },
+    {
+     "src": "img/g05-3.webp",
+     "mini": "img/g05-3-t.webp",
+     "w": 1200,
+     "h": 600
+    }
+   ],
+   "audio": {
+    "src": "audio/g05.mp3",
+    "dur": 115.8,
+    "marcas": [
+     0.0,
+     4.92,
+     37.66,
+     70.2,
+     104.83
+    ]
+   }
+  },
+  {
+   "id": "g06",
+   "orden": 6,
+   "slug": "los-puquios-del-salar-de-llamara",
+   "nombre": "Los Puquios del Salar de Llamara",
+   "region": "Tarapacá",
+   "region_txt": "Región de Tarapacá",
+   "lat": -21.268581,
+   "lon": -69.617804,
+   "provincia": "Tamarugal",
+   "comuna": "Pozo Almonte",
+   "localidad": "Quillagua y Pica",
+   "altitud": "754 m s.n.m.",
+   "interes": "hidrogeológico - mineralógico",
+   "categoria": "petrologico",
+   "valor": "científico",
+   "parrafos": [
+    "Ubicadas a 43 km al norte de la localidad de Quillagua, en una zona deprimida del salar de Llamara, se encuentran 2 lagunas, puquios en lengua quechua, donde surge el agua subterránea. La costra salina de este salar, cuya edad comprende el lapso Pleistoceno-Holoceno, aproximadamente entre 2,6 millones de años y el presente, está compuesta por diferentes minerales, principalmente yeso, calcita y halita, y es consistente con el resultado del análisis químico de las salmueras de los puquios. Este evidencia un predominio de iones de cloro y sodio disueltos en esas aguas, además de una alta concentración de arsénico y boro.",
+    "Su localización en el desierto de Atacama, lugar donde se registra la mayor radiación solar del planeta, y el hecho de estar expuestas a sus efectos, son la causa de que estas lagunas presenten una alta tasa de evaporación. Además, en ellas es posible encontrar dos complejas comunidades de microorganismos: los tapetes microbianos y los domos evaporíticos, ambos sistemas formados por sales de yeso y microorganismos que se desarrollan en condiciones ambientales extremas.",
+    "El salar de Llamara es uno de los pocos sitios en Chile con presencia de este tipo de comunidades microbianas, y ha sido estudiado tanto desde el punto de vista biológico como hidrogeológico e hidrogeoquímico. Estos estudios proporcionan valiosa información acerca de la vida en ambientes extremos, dando así luces respecto del origen de la vida sobre la Tierra.",
+    "Actualmente, las aguas subterráneas del salar son explotadas por la Sociedad Química y Minera de Chile (SQM), y son objeto de un plan de monitoreo y alerta temprana para que las extracciones no impacten negativamente en los niveles de agua de los puquios."
+   ],
+   "pies": [
+    "Fotografía superior: vista hacia el poniente del geositio Los Puquios de Salar de Llamara desde un mirador-pasarela. Destaca en primer plano el panel con información acerca del salar y los puquios. Fotografía inferior: tapete microbiano en el geositio Los Puquios del Salar de Llamara. Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g06-1.webp",
+     "mini": "img/g06-1-t.webp",
+     "w": 1200,
+     "h": 404
+    },
+    {
+     "src": "img/g06-2.webp",
+     "mini": "img/g06-2-t.webp",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "audio": {
+    "src": "audio/g06.mp3",
+    "dur": 112.7,
+    "marcas": [
+     0.0,
+     4.75,
+     46.01,
+     75.1,
+     96.55
+    ]
+   }
+  },
+  {
+   "id": "g07",
+   "orden": 7,
+   "slug": "geiseres-de-el-tatio",
+   "nombre": "Géiseres de El Tatio",
+   "region": "Antofagasta",
+   "region_txt": "Región de Antofagasta",
+   "lat": -22.336185,
+   "lon": -68.013696,
+   "provincia": "El Loa",
+   "comuna": "Calama",
+   "localidad": "Ollagüe",
+   "altitud": "4.290 m s.n.m.",
+   "interes": "geotérmico",
+   "categoria": "geotermico",
+   "valor": "cultural",
+   "parrafos": [
+    "El Tatio es el campo geotérmico más importante y emblemático de Chile y Latinoamérica y el tercero en importancia en el mundo, tanto por sus características geológicas e hidrotermales como por su historia y desarrollo. El campo está ubicado en el sector cordillerano de la región de Antofagasta, a una altitud de 4.290 m s.n.m., a 65 km al noreste de la localidad de San Pedro de Atacama y a 7 km de la frontera con Argentina.",
+    "Posee múltiples manifestaciones hidrotermales tales como pozas de agua caliente y de barros hirvientes, fumarolas y vertientes termales. Sin embargo, son sus géiseres, o erupciones hidrotermales, los que le otorgan la importancia a este geositio, pues corresponden al 8% de estas expresiones a nivel mundial. Asimismo, las colonias de cianobacterias asociadas a los extensos depósitos de sínter silíceo aportan un gran valor al patrimonio geobiológico mundial, ya que este campo es un sitio único para el estudio y comprensión del origen y evolución de la vida.",
+    "Su origen geotérmico se asocia a la presencia, en profundidad, de rocas volcánicas muy permeables, denominadas Ignimbrita Río Salado e Ignimbrita Puripicar, del Mioceno Superior (9 millones de años) y Plioceno Inferior (4,3 millones de años), respectivamente, y a la existencia de estructuras geológicas que generaron una trampa, o reservorio, con estas rocas. Así, se originó un sistema que permite la acumulación y circulación de fluidos a altas temperaturas, que llegan a 280 ºC en profundidad y a 86 ºC en la superficie, a 4.200 m s.n.m. Estos fluidos a altas temperaturas provienen de las calderas volcánicas Pastos Grandes y Cerro Guacha, ubicadas en territorio boliviano.",
+    "Las características de El Tatio hacen que sea considerado por las comunidades originarias atacameñas y quechuas como un sitio ceremonial sagrado, un lugar donde se reúnen energías internas con las que la Tierra manifiesta la plenitud de la vida."
+   ],
+   "pies": [
+    "Fotografía: vista hacia el este de los géiseres o erupciones hidrotermales episódicas características del sistema geotermal El Tatio. Autora: Daniela Montecinos C.",
+    "Fotografía superior: manifestación termal del geositio Géiseres de El Tatio donde brota un chorro de agua y gases desde el interior de la Tierra.",
+    "Fotografía inferior: detalle de un depósito de sínter silíceo con textura filamentosa, asociado a colonias de bacterias termófilas que, al digerir el azufre de estas manifestaciones hidrotermales, quedan atrapadas y retratadas por la costra de sílice en formación. Este tipo de depósito biogénico es conocido también como microbialito.",
+    "Autor fotografías: Flaviu Petru C."
+   ],
+   "fotos": [
+    {
+     "src": "img/g07-1.webp",
+     "mini": "img/g07-1-t.webp",
+     "w": 1200,
+     "h": 385
+    },
+    {
+     "src": "img/g07-2.webp",
+     "mini": "img/g07-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g07-3.webp",
+     "mini": "img/g07-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g07.mp3",
+    "dur": 133.7,
+    "marcas": [
+     0.0,
+     4.37,
+     33.94,
+     69.84,
+     119.35
+    ]
+   }
+  },
+  {
+   "id": "g08",
+   "orden": 8,
+   "slug": "la-portada",
+   "nombre": "La Portada",
+   "region": "Antofagasta",
+   "region_txt": "Región de Antofagasta",
+   "lat": -23.506608,
+   "lon": -70.427167,
+   "provincia": "Antofagasta",
+   "comuna": "Antofagasta",
+   "localidad": "Antofagasta",
+   "altitud": "50 m s.n.m.",
+   "interes": "geomorfológico",
+   "categoria": "geomorfologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "El geositio La Portada, uno de los símbolos de la ciudad y de la región de Antofagasta, es un atractivo turístico nacional declarado Monumento Natural el 3 de abril de 1990 debido a su espectacularidad escénica y a la biodiversidad allí existente. Está integrado por un acantilado activo, playas, islotes, cavernas y arcos costeros; el mayor de estos últimos es el más llamativo y el que le otorga el nombre a este lugar.",
+    "El acantilado y los arcos han sido labrados, principalmente, en capas de rocas sedimentarias asignadas a la llamada Formación La Portada y cuyo origen está ligado a procesos de sedimentación en un mar existente entre las épocas geológicas del Mioceno Medio al Plioceno, entre 14 y 2,5 millones de años aproximadamente.",
+    "De acuerdo con los fósiles contenidos en estas rocas (moluscos y foraminíferos y en menor grado fragmentos de peces, aves y cetáceos) estas se habrían generado en un mar de aguas cálido-templadas y a profundidades no superiores a los 200 m.",
+    "Bajo ellas, y visibles en los roqueríos costeros y en la base del acantilado y de los arcos, se pueden observar rocas de la llamada Formación La Negra, generadas por la actividad volcánica ocurrida en la zona durante el Jurásico, entre los 180 y los 143 millones de años.",
+    "Durante el Pleistoceno el empuje de las fuerzas tectónicas provocaron el alzamiento de estas rocas, las que quedaron expuestas al desgaste provocado por las olas, y en menor medida por el viento, y a la generación de derrumbes en las rocas sedimentarias.",
+    "La acción constante de estos procesos ha ido esculpiendo el acantilado costero y las llamativas formas de arcos aquí presentes, cuya existencia se debe a que las rocas sedimentarias que forman los arcos tienen menor resistencia al oleaje que las rocas volcánicas que se encuentran en su base. El geositio está bien preservado y cuenta con fácil acceso, miradores, un sendero y un museo de sitio.",
+    "El acceso, tanto al sendero como a la playa, es de uso restringido debido al riesgo asociado a la caída de material desde el acantilado, el que continúa retrocediendo lenta y constantemente."
+   ],
+   "pies": [
+    "Fotografía superior: panorama hacia el sureste de La Portada de Antofagasta y parte del acantilado costero. Al fondo se visualiza la ciudad de Antofagasta. Autora: Renate Wall Z. Fotografía inferior: perspectiva hacia el sureste del geositio La Portada. A la izquierda el acantilado costero presenta rocas volcánicas oscuras en su parte baja y sobre ellas capas de rocas sedimentarias fosilíferas de tonalidades claras. Autora: Marcela Ávalos V."
+   ],
+   "fotos": [
+    {
+     "src": "img/g08-1.webp",
+     "mini": "img/g08-1-t.webp",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/g08-2.webp",
+     "mini": "img/g08-2-t.webp",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "audio": {
+    "src": "audio/g08.mp3",
+    "dur": 136.0,
+    "marcas": [
+     0.0,
+     3.89,
+     31.51,
+     51.6,
+     67.15,
+     85.03,
+     100.1,
+     123.94
+    ]
+   }
+  },
+  {
+   "id": "g09",
+   "orden": 9,
+   "slug": "crater-de-impacto-monturaqui",
+   "nombre": "Cráter de Impacto Monturaqui",
+   "region": "Antofagasta",
+   "region_txt": "Región de Antofagasta",
+   "lat": -23.927968,
+   "lon": -68.261567,
+   "provincia": "El Loa",
+   "comuna": "San Pedro de Atacama",
+   "localidad": "Peine",
+   "altitud": "3.060 m s.n.m.",
+   "interes": "exogeológico - geomorfológico",
+   "categoria": "geomorfologico",
+   "valor": "científico",
+   "parrafos": [
+    "Este geositio se ubica en los cerros de Lila, en la sierra de Almeida, a unos 20 km al sur del salar de Atacama. Descubierto en 1962 mediante fotografías áreas, representa la única estructura generada por el impacto de un meteorito confirmada en territorio chileno y una de las pocas reconocidas en Sudamérica. Además, este cráter es una de las estructuras de impacto mejor conservadas para su edad y lo convierte en un laboratorio natural para el estudio de cráteres de impacto simples. Desde el sector del cráter es posible tener una vista panorámica privilegiada del macizo andino hacia el este, del salar de Atacama hacia el norte y de sus quebradas aledañas que tienen una gran variedad de flora altiplánica que aporta a la belleza escénica del lugar.",
+    "El cráter posee una forma semicircular, con un diámetro promedio de 360 m y con 34 m de profundidad máxima. Se ha estimado que el meteorito que lo causó impactó el terreno hace unos 500 mil a 700 mil años, en el Pleistoceno Medio, a una velocidad probable de colisión de 15 km/s, con una masa de 9.870 t y un diámetro de 13,4 m. El impacto habría disipado una energía comparable a 2,2 bombas atómicas similares a la de Hiroshima.",
+    "Tanto los restos del meteorito, de tipo ferroso, como las estructuras de impacto generadas por su caída (impactitas) han sido sustraídos en numerosas expediciones turísticas y científicas que no han contado con ningún tipo de normativa ni fiscalización, con lo cual se ha perdido valiosa información de este evento. Además, la falta de conocimiento del valor científico de este geositio ha motivado que algunos visitantes ingresen con sus vehículos hasta el interior del cráter, generando un deterioro acelerado de sus flancos."
+   ],
+   "pies": [
+    "Fotografía superior: vista satelital del geositio Cráter de Impacto de Monturaqui. Imagen Skysat, combinación RGB 3-2-1 (color natural). Fuente: Cráter Monturaqui | Región de Antofagasta, Chile - Mar 21, 2023. Planet Labs PBC. Todos los derechos reservados. © 2023; Esri, Chile. Fotografía inferior: vista del sector oriental del cráter Monturaqui. Autor: Flaviu Petru C."
+   ],
+   "fotos": [
+    {
+     "src": "img/g09-1.webp",
+     "mini": "img/g09-1-t.webp",
+     "w": 1200,
+     "h": 932
+    },
+    {
+     "src": "img/g09-2.webp",
+     "mini": "img/g09-2-t.webp",
+     "w": 1200,
+     "h": 467
+    }
+   ],
+   "audio": {
+    "src": "audio/g09.mp3",
+    "dur": 119.7,
+    "marcas": [
+     0.0,
+     4.82,
+     52.18,
+     87.12
+    ]
+   }
+  },
+  {
+   "id": "g10",
+   "orden": 10,
+   "slug": "tonalita-orbicular",
+   "nombre": "Tonalita Orbicular",
+   "region": "Atacama",
+   "region_txt": "Región de Atacama",
+   "lat": -26.972739,
+   "lon": -70.795076,
+   "provincia": "Copiapó",
+   "comuna": "Caldera",
+   "localidad": "Pan de Azúcar",
+   "altitud": "2 m s.n.m.",
+   "interes": "petrológico",
+   "categoria": "petrologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "Este geositio lo conforma una roca intrusiva denominada tonalita, con un inusual y fascinante aspecto moteado, de gran belleza e interés científico, razón por la cual fue declarado Santuario de la Naturaleza en 1981. Es un pequeño roquerío, de no más de 2 m de altura, localizado en la playa Rodillo, a 11 km al norte de la ciudad de Caldera. Cuenta con acceso directo, estacionamiento y un área de descanso.",
+    "La llamativa textura de esta roca, que es parte de un cuerpo intrusivo denominado Plutón Relincho, de entre 195 y 180 millones de años de antigüedad, Jurásico Inferior, se la otorga una serie de esferas de 6 cm de diámetro promedio, llamadas orbiculas, formadas por un particular ordenamiento de sus minerales durante el enfriamiento y cristalización del magma. Las rocas orbiculares son escasas y diversas, con solo un centenar de ellas descritas en todo el planeta. En la región de Antofagasta hay otros dos ejemplos, uno denominado Diorita de Quebrada Las Animas y otro, una granodiorita en el cordón de Lila, aunque ninguna de ellas ostenta la espectacularidad de la tonalita orbicular de Caldera.",
+    "Las orbiculas se componen de un núcleo y un armazón. El primero es una roca denominada diorita cuarcífera, sobre la que cristalizó un armazón de minerales orientados radialmente, entre ellos, plagioclasa, clinopiroxeno y anfibola, los que disminuyen su tamaño hacia afuera dando paso a un borde donde predominan cristales oscuros. Finalmente, minerales dispuestos de manera tangencial, cierran y separan la orbícula de la granodiorita que cristalizó entre las orbículas, donde destacan, además, grandes cristales de feldespato potásico y mica.",
+    "Su ubicación, a merced del oleaje y del vandalismo ocasional, lo hacen un geositio muy vulnerable, más aún, luego de la partida de don Hipólito Avalos, su solitario celador por cerca de 20 años."
+   ],
+   "pies": [
+    "Fotografía superior: cartel artesanal con llamado a la valoración y conservación del geositio Tonalita Orbicular elaborado por estudiantes del Colegio Caldera. Autora: Natalia Espina L., Sernageomin.",
+    "Fotografía superior: Vista hacia el oeste de la tonalita orbicular. El aspecto moteado lo confieren cerca de 196 orbículas por metro cuadrado.",
+    "Fotografía inferior: Las orbículas se forman por un núcleo diorítico y un armazón oscuro en parte radial. Entre las orbículas se observa la granodiorita con feldespatos potásicos (rosado pálido).",
+    "Autora: Natalia Espina L., Sernageomin"
+   ],
+   "fotos": [
+    {
+     "src": "img/g10-1.webp",
+     "mini": "img/g10-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g10-2.webp",
+     "mini": "img/g10-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g10-3.webp",
+     "mini": "img/g10-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g10.mp3",
+    "dur": 128.7,
+    "marcas": [
+     0.0,
+     4.22,
+     33.58,
+     79.34,
+     115.06
+    ]
+   }
+  },
+  {
+   "id": "g11",
+   "orden": 11,
+   "slug": "parque-paleontologico-los-dedos",
+   "nombre": "Parque Paleontológico Los Dedos",
+   "region": "Atacama",
+   "region_txt": "Región de Atacama",
+   "lat": -27.14456,
+   "lon": -70.882985,
+   "provincia": "Copiapó",
+   "comuna": "Caldera",
+   "localidad": "Bahía Inglesa",
+   "altitud": "45 m s.n.m.",
+   "interes": "paleontológico - estratigráfico",
+   "categoria": "paleontologico",
+   "valor": "didáctico",
+   "parrafos": [
+    "Este parque municipal, de 370 ha, se localiza a 6 km al suroeste de Bahía Inglesa y el año 2007 fue declarado Bien Nacional de uso público. Allí se exponen, principalmente, rocas de origen sedimentario y de ambiente marino de la denominada Formación Bahía Inglesa, del Mioceno Medio-Plioceno, y en particular de una subunidad conocida como Mina Fosforita, del Mioceno Superior, de alrededor de 7 millones de años. Estas capas se caracterizan por su alta concentración de fosfato e impresionante abundancia de fósiles de vertebrados. Por esto último también se las conoce como capa de huesos, o bonebed.",
+    "Los fósiles de Los Dedos han sido los más estudiados de esta formación, aunque en su mayoría están dispersos y fragmentados. En la subunidad Mina Fosforita se han identificado más de 70 especies fósiles de vertebrados, que abarcan peces cartilaginosos (tiburones, rayas y quimeras), peces óseos, cocodrilos, aves marinas (pingüinos, albatros, piqueros, cormoranes, petreles, pelagornítidos), mamíferos marinos (ballenas, delfines, cachalotes, focas, dugongos y perezosos marinos) y mamíferos continentales (capibaras).",
+    "Entre los tiburones destacan, por su gran tamaño, los dientes de Carcharocles megalodon, que pueden medir más de 15 cm. A dicha fauna se suman protozoos microscópicos (foraminíferos), invertebrados (moluscos y equinodermos) y restos de plantas.",
+    "Por la abundancia de fósiles de vertebrados, estas capas han sido calificadas por los científicos como un ejemplo de “yacimiento excepcional” (Fossil-Lagerstätten)."
+   ],
+   "pies": [
+    "Fotografía: vista hacia el norte del geositio Parque Paleontológico Los Dedos. Destacan, en primer plano, las capas de roca portadoras de fósiles y los senderos implementados en el parque para observarlas. Autora: Natalia Espina L., Sernageomin.",
+    "Fotografía superior: en los senderos se pueden observar diferentes capas de roca de la Formación Bahía Inglesa, portadoras de abundantes fósiles apreciables a simple vista.",
+    "Autora: Natalia Espina L., Sernageomin"
+   ],
+   "fotos": [
+    {
+     "src": "img/g11-1.webp",
+     "mini": "img/g11-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g11-2.webp",
+     "mini": "img/g11-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g11-3.webp",
+     "mini": "img/g11-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g11.mp3",
+    "dur": 112.1,
+    "marcas": [
+     0.0,
+     4.92,
+     46.68,
+     83.76,
+     101.64
+    ]
+   }
+  },
+  {
+   "id": "g12",
+   "orden": 12,
+   "slug": "areniscas-y-calizas-de-quebrada-pinte",
+   "nombre": "Areniscas y Calizas de Quebrada Pinte",
+   "region": "Atacama",
+   "region_txt": "Región de Atacama",
+   "lat": -28.971443,
+   "lon": -70.269915,
+   "provincia": "Huasco",
+   "comuna": "Alto del carmen",
+   "localidad": "",
+   "altitud": "1.450 m s.n.m.",
+   "interes": "estratigráfico - paleontológico",
+   "categoria": "estratigrafico",
+   "valor": "científico",
+   "parrafos": [
+    "Este geositio, ubicado a 12 km al este de la localidad de El Tránsito, destaca por sus espectaculares capas de roca de coloraciones anaranjadas a pardo amarillento. Son parte de una secuencia de rocas sedimentarias, areniscas y calizas, que integran la denominada Formación Lautaro, con abundante contenido de fósiles. Esta unidad data del Jurásico Inferior a Medio, entre 190 y 170 millones de años, cuando este sector y gran parte del sur de la actual Sudamérica estaba ocupado por el mar. Estas rocas sedimentarias están, además, en la quebrada La Totora y en el valle del río Copiapó, al norte de la quebrada Pinte.",
+    "Entre los fósiles de invertebrados marinos sobresalen restos bien preservados de braquiópodos (rhynchonélidos y terebratúlidos), gastrópodos (del género Lithotrochus), y bivalvos, crinoideos y amonites (Fanninoceras, Phymatoceras, Peydelia), los que, en conjunto, son propios del Jurásico Inferior. Una colección de algunos de estos fósiles y rocas se puede ver en el museo de sitio de don Gabito, al interior de esta quebrada."
+   ],
+   "pies": [
+    "Fotografía: panorama hacia el noreste de la quebrada Pinte. Los estratos rojos y amarillos corresponden a areniscas y calizas fosilíferas de la Formación Lautaro. Autor: Felipe Coloma B., Sernageomin.",
+    "Fotografía superior: vista hacia el este de los estratos de la Formación Lautaro, inclinados 70° hacia el oeste con respecto a la horizontal. Autor: Felipe Coloma B., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g12-1.webp",
+     "mini": "img/g12-1-t.webp",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/g12-2.webp",
+     "mini": "img/g12-2-t.webp",
+     "w": 1200,
+     "h": 560
+    },
+    {
+     "src": "img/g12-3.webp",
+     "mini": "img/g12-3-t.webp",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "audio": {
+    "src": "audio/g12.mp3",
+    "dur": 75.5,
+    "marcas": [
+     0.0,
+     5.26,
+     47.21
+    ]
+   }
+  },
+  {
+   "id": "g13",
+   "orden": 13,
+   "slug": "yacimiento-paleontologico-pichasca",
+   "nombre": "Yacimiento Paleontológico Pichasca",
+   "region": "Coquimbo",
+   "region_txt": "Región de Coquimbo",
+   "lat": -30.391137,
+   "lon": -70.885481,
+   "provincia": "Limarí",
+   "comuna": "Río Hurtado",
+   "localidad": "San Pedro de Pichasca",
+   "altitud": "760 m s.n.m.",
+   "interes": "paleontológico - estratigráfico",
+   "categoria": "paleontologico",
+   "valor": "didáctico",
+   "parrafos": [
+    "El Monumento Natural Pichasca, declarado así en 1969, está ubicado en el valle del río Hurtado, a 56 km al norte de Ovalle y a 2 km del pueblo de San Pedro de Pichasca. Posee una gran riqueza paleontológica, en la que destacan los restos de troncos de araucarias (Araucarioxylon pichasquensis) y los huesos de titanosaurios (Antarctosaurus wichmannianus), un dinosaurio de 18 m de largo. Además, se han encontrado restos de dientes y huesos de saurópodos y terópodos, así como también fragmentos de caparazón de tortugas y de bivalvos y gastrópodos. Todos estos fósiles son del Cretácico Superior y se encuentran en rocas de los denominados Estratos de Quebrada La Totora, de unos 86 millones de años.",
+    "Además, hay una gran riqueza arqueológica que da cuenta de la cultura Molle, cuyos integrantes habitaban este lugar hace unos 9 mil años. Destacan puntas de flechas, pinturas rupestres, restos de cestería y de alimentos hallados en el alero rocoso denominado Casa de Piedra, una caverna de 10 m de profundidad, unos 80 m de largo y una altura que varía entre 2 y 5 m.",
+    "Este alero se originó debido a que los tipos de rocas que allí se encuentran tienen diferente grado de resistencia a la acción desintegradora de los agentes atmosféricos. El techo de la caverna lo constituye una roca intrusiva dispuesta de manera casi horizontal, denominada filón-manto, mucho más resistente que las rocas sedimentarias que hay bajo ella.",
+    "La roca intrusiva presenta, además, fracturamiento con forma de columnas generadas durante el enfriamiento y solidificación del magma que la provocó, llamada disyunción columnar."
+   ],
+   "pies": [
+    "Fotografía superior izquierda: réplica de un Titanosaurio (Antarctosaurus wichmannianus), cuyos huesos fósiles fueron encontrados en este yacimiento paleontológico. Fotografía superior derecha: réplica de una persona de la cultura Molle cuyos integrantes ocuparon esta cueva hace unos 9 mil años. Fotografía superior derecha: vista hacia el norte de la Casa de Piedra. El alero rocoso de la cueva corresponde a una roca intrusiva tipo filón-manto, de mayor resistencia a los agentes atmosféricos que las rocas sedimentarias que se encuentran bajo él. Fotografía inferior: vista hacia el norte de la Casa de Piedra. El alero rocoso de la cueva corresponde a una roca intrusiva tipo filón-manto, de mayor resistencia a los agentes atmosféricos que las rocas sedimentarias que se encuentran bajo él. Autor: Felipe Fuentes C., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g13-1.webp",
+     "mini": "img/g13-1-t.webp",
+     "w": 1280,
+     "h": 471
+    },
+    {
+     "src": "img/g13-2.webp",
+     "mini": "img/g13-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g13.mp3",
+    "dur": 112.2,
+    "marcas": [
+     0.0,
+     5.21,
+     54.12,
+     79.54,
+     100.8
+    ]
+   }
+  },
+  {
+   "id": "g14",
+   "orden": 14,
+   "slug": "borde-costero-parque-nacional-fray-jorge",
+   "nombre": "Borde Costero Parque Nacional Fray Jorge",
+   "region": "Coquimbo",
+   "region_txt": "Región de Coquimbo",
+   "lat": -30.72878,
+   "lon": -71.701879,
+   "provincia": "Limarí",
+   "comuna": "Ovalle",
+   "localidad": "Ovalle",
+   "altitud": "25 m s.n.m.",
+   "interes": "geomorfológico",
+   "categoria": "geomorfologico",
+   "valor": "ambiental",
+   "parrafos": [
+    "El Parque Nacional Fray Jorge se ubica en la cordillera de la Costa, a 62 km al oeste de la ciudad de Ovalle y a unos 90 km al sur de la ciudad de La Serena. Con una superficie de 143 mil hectáreas, fue declarado Parque Nacional el año 1977 debido a la presencia de especies vegetales propias del sur de Chile (árboles de bosque hidrófilo como el olivillo y el canelo), las que perduran en esta zona por el aporte hídrico de neblinas costeras (camanchacas).",
+    "Destacan en el parque las formas aterrazadas de su sector costero. Estas terrazas se formaron debido al desgaste, por la acción erosiva del oleaje, de rocas intrusivas graníticas del Triásico Superior (213-201 millones de años), del denominado Complejo Plutónico Altos de Talinay, y de depósitos sedimentarios del Plioceno Inferior, de cerca de 5 millones de años, razón por la que se llaman terrazas de abrasión marina. La existencia de, al menos, 5 niveles diferentes de terrazas en el sector costero de la región de Coquimbo, evidencia los cambios del nivel medio del mar y del alzamiento de la cordillera de la Costa en la zona durante los últimos 2,6 millones de años, lapso Pleistoceno-Holoceno.",
+    "En el borde costero sur del parque, especialmente en la desembocadura del río Limarí, se distinguen 3 de estos niveles de terrazas hacia el norte y el sur del estuario, las que han sido datadas en 321 mil años (T2), 122 mil (T4) y 6 mil años de antigüedad para la de menor altitud y más joven (T5), ubicada a 10 m s.n.m., por lo que abarcan el lapso Pleistoceno-Holoceno."
+   ],
+   "pies": [
+    "Fotografía superior: terrazas de abrasión marina en el geositio Borde Costero del Parque Nacional Fray Jorge, desde la desembocadura del río Limarí hacia el norte. Se indican las terrazas con una línea horizontal y una letra T con el número de nivel respectivo. Fotografía inferior: desembocadura del río Limarí, donde se observa el estuario y la continuidad de las terrazas hacia el sur. Autor: Felipe Fuentes C., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g14-1.webp",
+     "mini": "img/g14-1-t.webp",
+     "w": 1200,
+     "h": 456
+    },
+    {
+     "src": "img/g14-2.webp",
+     "mini": "img/g14-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g14.mp3",
+    "dur": 108.7,
+    "marcas": [
+     0.0,
+     5.33,
+     36.46,
+     81.79
+    ]
+   }
+  },
+  {
+   "id": "g15",
+   "orden": 15,
+   "slug": "dunas-de-quereo",
+   "nombre": "Dunas de Quereo",
+   "region": "Coquimbo",
+   "region_txt": "Región de Coquimbo",
+   "lat": -31.938611,
+   "lon": -71.501482,
+   "provincia": "Choapa",
+   "comuna": "Los Vilos",
+   "localidad": "Los Vilos",
+   "altitud": "100 m s.n.m.",
+   "interes": "geomorfológico - paleontológico",
+   "categoria": "geomorfologico",
+   "valor": "cultural",
+   "parrafos": [
+    "Las dunas de Quereo se ubican 2 km al sur de la localidad de Los Vilos, entre el borde costero y el piedemonte de la cordillera de la Costa. En algunos sectores permanecen activas, debido al transporte eólico de arena desde las playas, aunque su origen se remonta al Pleistoceno Superior, probablemente hace más de 30 mil años. Enterrados bajo ellas, estas dunas conservan gran cantidad de restos paleontológicos y arqueológicos que le otorgan un valor patrimonial único a este geositio.",
+    "Entre estos restos destaca la abundancia de fauna extinta, tal como artiodáctilos, milodones y gonfotéridos, cuyas edades varían entre 8 mil y 30 mil años, lapso Pleistoceno-Holoceno. Por otra parte, los restos arqueológicos evidencian que la zona estuvo poblada por cazadores-recolectores desde hace al menos 13 mil años, Pleistoceno Superior, de modo que entregan pistas relevantes sobre el poblamiento temprano del continente americano. En la periferia de este geositio, justo al norte de la quebrada Quereo, sobresale, especialmente, el hallazgo de los restos óseos de un individuo humano, el más antiguo datado hasta ahora en Sudamérica, con cerca de 12 mil años de antigüedad.",
+    "Las dunas de Quereo entrelazan la evolución del poblamiento humano con la presencia de la fauna extinta que habitó en el norte de Chile. Lo anterior, sumado a su valor medioambiental y escénico, justifica la importancia de proteger y conservar este geositio."
+   ],
+   "pies": [
+    "Fotografía: perspectiva hacia el noroeste del geositio Dunas de Quereo, donde se aprecia la típica vegetación costera de la zona Autora: Daniela Villela O., Sernageomin.",
+    "Fotografía superior: vista de la zona de acumulación de arena (sotavento) de una duna tipo barján.",
+    "Autora: Daniela Villela O., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g15-1.webp",
+     "mini": "img/g15-1-t.webp",
+     "w": 1200,
+     "h": 671
+    },
+    {
+     "src": "img/g15-2.webp",
+     "mini": "img/g15-2-t.webp",
+     "w": 1200,
+     "h": 538
+    },
+    {
+     "src": "img/g15-3.webp",
+     "mini": "img/g15-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g15.mp3",
+    "dur": 94.4,
+    "marcas": [
+     0.0,
+     3.86,
+     34.94,
+     78.67
+    ]
+   }
+  },
+  {
+   "id": "g16",
+   "orden": 16,
+   "slug": "crater-del-volcan-rano-kao",
+   "nombre": "Cráter del Volcán Rano Kao",
+   "region": "Valparaíso",
+   "region_txt": "Región de Valparaíso",
+   "lat": -27.186689,
+   "lon": -109.435392,
+   "provincia": "Isla de Pascua",
+   "comuna": "Isla de Pascua",
+   "localidad": "Hanga Roa",
+   "altitud": "290 m s.n.m.",
+   "interes": "volcanológico - paleoambiental",
+   "categoria": "volcanico",
+   "valor": "cultural",
+   "parrafos": [
+    "El volcán Rano Kao, uno de los rasgos fisiográficos más importantes de Isla de Pascua (Rapa Nui), tiene de 900 mil a 100 mil años de antigüedad, es decir, del Pleistoceno Medio. Este volcán, junto al también antiguo volcán Poike y al más reciente Terevaka, integra un complejo volcánico generado por una pluma mantélica (hotspot) en esa zona de la corteza oceánica. A este proceso se debe el origen de Isla de Pascua (Rapa Nui).",
+    "El cráter del volcán Rano Kao, además del valor que representa para la cultura Rapa Nui, tiene importancia tanto geológica como ambiental. El cráter, de 1,6 km de diámetro y 200 m de profundidad, alberga un lago que constituye uno de los reservorios de agua dulce más importantes de la isla y es, al mismo tiempo, un sitio fundamental para la reconstrucción de los ambientes del pasado a partir de los sedimentos y fósiles acumulados en su lecho. Este registro geológico, que alcanza hasta 37 mil años, en el Pleistoceno Superior, evidencia un progresivo cambio en el clima: de condiciones más frías y secas durante el último período glacial a condiciones más húmedas y cálidas que persisten actualmente.",
+    "En las inmediaciones del cráter, y, particularmente, en la ladera exterior que mira al suroeste en dirección a los islotes o motus, se emplaza la villa y aldea ceremonial de Orongo, de gran significación para la cultura Rapa Nui."
+   ],
+   "pies": [
+    "Fotografía superior: vista al noreste del cráter Rano Kao, uno de los rasgos fisiográficos más destacados de la isla. Fotografía inferior: panorama hacia el sur del cráter Rano Kao desde el mirador que lleva su nombre. El cuerpo de agua que alberga este cráter, visible en la parte central de esta fotografía, es de gran importancia ambiental para la isla y de gran valor para estudiar el cambio climático en los últimos 37 mil años. Fuente de las fotografías: karkozphoto, envato elements, 2021."
+   ],
+   "fotos": [
+    {
+     "src": "img/g16-1.webp",
+     "mini": "img/g16-1-t.webp",
+     "w": 1200,
+     "h": 876
+    },
+    {
+     "src": "img/g16-2.webp",
+     "mini": "img/g16-2-t.webp",
+     "w": 1200,
+     "h": 852
+    }
+   ],
+   "audio": {
+    "src": "audio/g16.mp3",
+    "dur": 94.9,
+    "marcas": [
+     0.0,
+     4.87,
+     34.66,
+     80.45
+    ]
+   }
+  },
+  {
+   "id": "g17",
+   "orden": 17,
+   "slug": "escalera-del-diablo",
+   "nombre": "Escalera del Diablo",
+   "region": "Valparaíso",
+   "region_txt": "Región de Valparaíso",
+   "lat": -32.2852,
+   "lon": -71.000052,
+   "provincia": "Petorca",
+   "comuna": "Petorca",
+   "localidad": "Hierro Viejo",
+   "altitud": "777 m s.n.m.",
+   "interes": "geológico estructural - geomorfológico",
+   "categoria": "estructural",
+   "valor": "cultural",
+   "parrafos": [
+    "Ubicado al sureste de la localidad de Hierro Viejo, este geositio constituye una formación rocosa de llamativa apariencia de escalera, esculpida naturalmente en la roca, y que debe su nombre a un mito popular que señala que el Diablo la ocupó como escape para retornar al infierno luego de ser perseguido por un grupo de hombres.",
+    "La particular forma de este geositio se debe a la existencia de una roca intrusiva, denominada dique, que penetra de forma vertical o columnar en la roca que lo rodea, perteneciente a la denominada Formación Cerro Morado. Tiene su origen en procesos ocurridos en profundidad, donde las fracturas de las rocas permiten el ascenso del magma y este, al entrar en contacto con la roca circundante, de menor temperatura, se solidifica a gran velocidad.",
+    "Esto habría ocurrido en el período conocido como Cretácico Inferior, entre 116 y 106 millones de años atrás, cuando en esta zona se localizaba un arco volcánico. Posteriormente, a partir del Neógeno y hasta el Presente, como resultado del empuje de las fuerzas tectónicas y del desgaste de las rocas, el dique quedó expuesto a la erosión. La forma adoptada se debe tanto a que es más resistente que la roca que lo circunda, lo que permite que sobresalga de ella, como a la existencia de fracturas que controlan el desprendimiento de bloques rocosos, lo que moldea los peldaños de la escalera.",
+    "Aunque este geositio no está reconocido bajo ninguna categoría de protección de la legislación chilena, el proyecto Geoparque Valle de Petorca busca su conservación y puesta en valor para promover el desarrollo económico, social y cultural de las comunidades locales."
+   ],
+   "pies": [
+    "Fotografía superior: panorama hacia el sureste desde el poblado de Hierro Viejo. La Escalera del Diablo se localiza en la cima del cerro, en el farellón rocoso al centro a la izquierda de la fotografía. Fotografía inferior: vista hacia el suroeste del dique conocido como Escalera del Diablo, ubicado en la ladera de un cerro localizado al sureste de la localidad de Hierro Viejo. Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g17-1.webp",
+     "mini": "img/g17-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g17-2.webp",
+     "mini": "img/g17-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g17.mp3",
+    "dur": 104.3,
+    "marcas": [
+     0.0,
+     4.37,
+     23.78,
+     51.38,
+     88.34
+    ]
+   }
+  },
+  {
+   "id": "g18",
+   "orden": 18,
+   "slug": "acantilado-costero-de-quirilluca",
+   "nombre": "Acantilado Costero de Quirilluca",
+   "region": "Valparaíso",
+   "region_txt": "Región de Valparaíso",
+   "lat": -32.699069,
+   "lon": -71.459356,
+   "provincia": "Valparaíso",
+   "comuna": "Puchuncaví",
+   "localidad": "Puchuncaví",
+   "altitud": "50 m s.n.m.",
+   "interes": "paleontológico - geomorfológico",
+   "categoria": "paleontologico",
+   "valor": "ambiental",
+   "parrafos": [
+    "Este geositio, ubicado en la playa de Quirilluca, entre Horcón y Maitencillo, se caracteriza por su morfología de acantilados costeros con 40 a 50 m de altura, a lo largo de 450 m de playa. Las actuales paredes verticales y abruptas son el resultado de la acción erosiva del mar sobre el borde costero y su posterior derrumbamiento. En la base del acantilado se observan, además, dos cavernas generadas por la acción del oleaje.",
+    "Por sobre el acantilado se extienden amplias planicies que corresponden a terrazas marinas que se formaron bajo el nivel del mar por la abrasión del oleaje y que luego fueron alzadas por las fuerzas tectónicas durante el Pleistoceno Superior, dejándolas expuestas en superficie, proceso que también permitió la formación del acantilado costero. Durante la marea baja es posible ver en la zona costera la planicie que actualmente está siendo desgastada por el mar. En la playa, además, sobresalen dos bloques de 5 m de altura que corresponden a restos de un arco de roca derrumbado.",
+    "Este geositio destaca también por su valor paleontológico. En los sedimentos marinos que conforman el acantilado, y que forman parte de la denominada Formación Caleta Horcón, del Plioceno Superior, se han encontrado fósiles de moluscos, peces, aves y mamíferos. Destaca la presencia de restos de perezosos adaptados al medio acuático, del género Thalassocnus, que vivieron en el lugar hace 3 a 2 millones de años, al final de la época del Plioceno.",
+    "La singular configuración geomorfológica de este sector otorga las condiciones ideales para albergar la diversa y abundante fauna y flora local, por lo que diferentes organizaciones e iniciativas, entre ellas el proyecto de Geoparque Puchuncaví, impulsan la preservación de este geositio."
+   ],
+   "pies": [
+    "Fotografía: acantilado costero de Quirilluca. En el centro de la fotografía, en la base del acantilado, se observa una de las cavernas generadas por la acción erosiva del mar. Autora: Natalia Espina L., Sernageomin.",
+    "Fotografía superior: en el geositio Acantilado Costero de Quirilluca se pueden distinguir diferentes capas de roca de la época geológica del Plioceno, algunas de ellas con contenido de fósiles de moluscos y vertebrados.",
+    "Autora: Natalia Espina L., Sernageomin"
+   ],
+   "fotos": [
+    {
+     "src": "img/g18-1.webp",
+     "mini": "img/g18-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g18-2.webp",
+     "mini": "img/g18-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g18-3.webp",
+     "mini": "img/g18-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g18.mp3",
+    "dur": 115.5,
+    "marcas": [
+     0.0,
+     5.23,
+     34.37,
+     68.83,
+     97.82
+    ]
+   }
+  },
+  {
+   "id": "g19",
+   "orden": 19,
+   "slug": "dunas-de-concon",
+   "nombre": "Dunas de Concón",
+   "region": "Valparaíso",
+   "region_txt": "Región de Valparaíso",
+   "lat": -32.940847,
+   "lon": -71.549448,
+   "provincia": "Concón",
+   "comuna": "Concón",
+   "localidad": "Concón",
+   "altitud": "80 m s.n.m.",
+   "interes": "geomorfológico - sedimentológico",
+   "categoria": "geomorfologico",
+   "valor": "ambiental",
+   "parrafos": [
+    "El geositio Dunas de Concón corresponde al campo dunar de la punta de Concón, declarado Santuario de la Naturaleza en 1993, y está localizado en la costa de la región de Valparaíso, entre las localidades de Reñaca y Concón, sobre una terraza marina ubicada a 80 m s.n.m. Debido a que estas dunas no están siendo alimentadas por arenas de la playa, ya que están separadas de esta por el acantilado costero, se les denomina dunas fósiles.",
+    "En gran parte de su superficie están estabilizadas naturalmente por una cubierta vegetal de gramíneas o por el matorral bajo costero. El área de reactivación más antigua posee una morfología característica de dunas libres, con líneas de crestas agudas, depresiones y frentes abruptos de arena móvil, que señalan una actividad eólica que retoma sedimentos que antiguamente constituyeron dunas estabilizadas. Estos sedimentos eólicos se acumularon en el Pleistoceno Superior y cubren sedimentos marinos de la Formación Caleta Horcón, del Plioceno Superior.",
+    "El hecho de ser un campo de dunas fósiles lo convierte en una geoforma natural extremadamente frágil. Su ubicación en la mayor conurbación del litoral chileno las expone a la degradación y la transformación de su medio natural, ya que son afectadas, principalmente, por el tráfico excesivo de vehículos motorizados y la construcción de edificios. Ante esto, la comunidad se ha organizado y ha defendido este santuario natural frente a la amenaza inmobiliaria."
+   ],
+   "pies": [
+    "Fotografía superior: panorama hacia el norte de una de las crestas de las dunas de Concón. Al fondo, los edificios cuya construcción ha disminuido la superficie original del campo de dunas. Fotografía inferior: vista del campo de dunas hacia el norte. En primer plano, se aprecian estructuras de ondulitas, las que se forman en dirección perpendicular al viento predominante. Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g19-1.webp",
+     "mini": "img/g19-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g19-2.webp",
+     "mini": "img/g19-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g19.mp3",
+    "dur": 96.4,
+    "marcas": [
+     0.0,
+     4.2,
+     33.72,
+     67.85
+    ]
+   }
+  },
+  {
+   "id": "g20",
+   "orden": 20,
+   "slug": "disyuncion-columnar-cerro-santa-lucia",
+   "nombre": "Disyunción Columnar Cerro Santa Lucía",
+   "region": "Región Metropolitana de Santiago",
+   "region_txt": "Región Metropolitana de Santiago",
+   "lat": -33.440214,
+   "lon": -70.643392,
+   "provincia": "Santiago",
+   "comuna": "Santiago",
+   "localidad": "Santiago",
+   "altitud": "615 m s.n.m.",
+   "interes": "petrológico - geomorfológico",
+   "categoria": "petrologico",
+   "valor": "cultural",
+   "parrafos": [
+    "Enclavado en pleno centro de la ciudad de Santiago, este cerro es visitado diariamente por cientos de personas que buscan contemplar, desde su cima, la ciudad y los cordones montañosos que la circundan. Con no más de 70 m de altura, el cerro Santa Lucía, o Huelén en lengua mapuche, ha sido testigo del crecimiento de la ciudad desde la instalación de los primeros asentamientos prehispánicos que se arrimaron a sus pies. Fue declarado Monumento Histórico en el año 1983.",
+    "Las rocas que lo componen fueron formadas a partir del enfriamiento y cristalización de un magma que intruyó a poca profundidad las rocas preexistentes. El posterior alzamiento y la erosión expuso este intrusivo que resiste hasta el día de hoy el ataque de los agentes atmosféricos y las intervenciones urbanas. Estas rocas y otras rocas intrusivas existentes, por ejemplo, en los cerros Renca, San Cristóbal y Manquehue, y en otras localidades hacia el norte de la ciudad (Las Canteras de Colina, Cerro Gordo) son consideradas parte de las raíces magmáticas de los volcanes que existieron en esta zona a comienzos del Mioceno Inferior, entre 22 y 20 millones de años atrás.",
+    "Las estructuras con forma de columnas que se observan en estas rocas han sido generadas por un tipo de fracturamiento conocido como disyunción columnar, que se origina en rocas ígneas debido a la contracción de su volumen durante su enfriamiento. La orientación del eje de las columnas suele ser perpendicular al borde de enfriamiento y su sección basal puede estar formada por 3 a 6 caras; las columnas con base hexagonal son las más distintivas.",
+    "Hasta el siglo XVIII este cerro fue un roquerío coronado por notables columnas de enfriamiento verticales e inclinadas, y a fines del siglo XIX se inició un plan para su modernización y remodelación, en el marco de las mejoras urbanas efectuadas en Santiago con ocasión de la celebración del centenario de la República. La implementación de estas obras, así como el uso de sus rocas en la construcción de numerosos edificios y en la pavimentación del Santiago antiguo modificaron su apariencia."
+   ],
+   "pies": [
+    "Fotografía superior: en primer plano roca intrusiva con disyunción columnar en la ladera occidental del cerro Santa Lucía. Atrás parte de la ciudad de Santiago. Fotografía inferior: en el diseño de las obras arquitectónicas y paseos del cerro se aprovecharon las estructuras columnares de la roca, otorgando así una particular belleza a este hito geográfico y cultural de Santiago. Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g20-1.webp",
+     "mini": "img/g20-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g20-2.webp",
+     "mini": "img/g20-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g20.mp3",
+    "dur": 134.9,
+    "marcas": [
+     0.0,
+     6.17,
+     37.3,
+     79.37,
+     105.62
+    ]
+   }
+  },
+  {
+   "id": "g21",
+   "orden": 21,
+   "slug": "las-placas-de-lo-valdes",
+   "nombre": "Las Placas de Lo Valdés",
+   "region": "Región Metropolitana de Santiago",
+   "region_txt": "Región Metropolitana de Santiago",
+   "lat": -33.832608,
+   "lon": -70.046989,
+   "provincia": "Cordillera",
+   "comuna": "San José de Maipo",
+   "localidad": "El Volcán",
+   "altitud": "1.980 m s.n.m.",
+   "interes": "estratigráfico - paleontológico",
+   "categoria": "estratigrafico",
+   "valor": "recreativo",
+   "parrafos": [
+    "Este geositio se ubica en el cajón del río Maipo, a unos 84 km al sureste de Santiago, frente a la localidad de Baños Morales, y a 19 km por la ruta G-25 desde el empalme con el camino al embalse El Yeso. Corresponde a una serie de estratos rocosos verticales, denominados comúnmente “placas” por su apariencia y posición espacial, que se disponen en forma perpendicular al valle del río El Volcán.",
+    "Estas rocas pertenecen a la denominada Formación Lo Valdés, del Jurásico Superior-Cretácico Inferior, la que, con un espesor de 1.635 m, se ubica según una franja de orientación norte-sur en la cordillera andina de la región Metropolitana, extendiéndose más allá del límite con Argentina.",
+    "Destaca su gran contenido de fósiles de invertebrados marinos, entre esponjas, corales, gastrópodos, bivalvos, equinodermos y más de 39 especies de amonites, una subclase extinta de cefalópodos con concha externa, al igual que los actuales nautiloideos.",
+    "Estas capas se formaron entre 152 y 129 millones de años, a partir de la acumulación de sedimentos sobre rocas volcánicas en el fondo de un mar, de no más de 100 m de profundidad, existente en esa época. Originalmente horizontales, su posterior deformación, en concordancia con el alzamiento de la cordillera de los Andes desde el Mioceno, las posicionó en forma vertical. Al ser capas con distintas durezas y resistencias, la acción del agua, el hielo y el viento las afecta de manera diferente, de modo que algunas de ellas han sido erosionadas con mucha mayor facilidad que otras, originando así el imponente escenario actual.",
+    "Sus dimensiones monumentales y variadas tonalidades hacen de este geositio un lugar famoso por su belleza y un ícono turístico que busca ser conocido, protegido y conservado por el proyecto Geoparque Cajón del Maipo."
+   ],
+   "pies": [
+    "Fotografía superior: perspectiva hacia el este de las placas y del volcán San José (al fondo), desde Lo Valdés. Autor: Rodrigo Mardel H. Fotografía inferior: vista hacia el sureste del geositio Las Placas de Lo Valdés. Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g21-1.webp",
+     "mini": "img/g21-1-t.webp",
+     "w": 1200,
+     "h": 628
+    },
+    {
+     "src": "img/g21-2.webp",
+     "mini": "img/g21-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g21.mp3",
+    "dur": 124.6,
+    "marcas": [
+     0.0,
+     5.23,
+     33.12,
+     52.63,
+     70.22,
+     111.36
+    ]
+   }
+  },
+  {
+   "id": "g22",
+   "orden": 22,
+   "slug": "quebrada-las-amarillas",
+   "nombre": "Quebrada Las Amarillas",
+   "region": "Región Metropolitana de Santiago",
+   "region_txt": "Región Metropolitana de Santiago",
+   "lat": -33.832097,
+   "lon": -70.074058,
+   "provincia": "Cordillera",
+   "comuna": "San José de Maipo",
+   "localidad": "El Volcán",
+   "altitud": "1.835 m s.n.m.",
+   "interes": "geomorfológico - peligro geológico",
+   "categoria": "geomorfologico",
+   "valor": "didáctico",
+   "parrafos": [
+    "La quebrada Las Amarillas está ubicada en el valle del río El Volcán, aproximadamente en el kilómetro 75 de la ruta G-25. Su relieve es abrupto y las rocas que la conforman, pertenecientes a la denominada Formación Colimapu, de la época geológica conocida como Cretácico Inferior, están muy deformadas y alteradas.",
+    "Los colores pardos, amarillentos y anaranjados de estas rocas tienen su origen, en gran medida, en la circulación por fracturas y fallas geológicas de fluidos a altas temperaturas provenientes del volcán San José durante el Holoceno. Estos fluidos contienen diversos elementos disueltos que provocan la desintegración de los minerales de las rocas y la generación de nuevos minerales, entre ellos arcillas y óxidos de Fe, que le otorgan su atractiva y característica coloración.",
+    "Estos cambios, además, disminuyen la resistencia de las rocas haciéndolas muy frágiles y fáciles de erosionar, situación que hace de esta quebrada una zona particularmente inestable y peligrosa, sobre todo cuando ocurren fuertes lluvias.",
+    "En esas circunstancias en la quebrada se pueden generar aluviones, que corresponden a gran cantidad de materiales (rocas, sedimentos, vegetación) movilizados por el agua y la gravedad desde las partes altas de la montaña y que pueden alcanzar hasta el río El Volcán donde generan un amplio abanico aluvial. Cuando esto sucede, este tramo de la ruta G-25 puede quedar inhabilitado, impidiendo la circulación de vehículos.",
+    "En casos extremos, cuando ocurre una gran cantidad de aluviones en esta zona cordillerana se puede ver afectado el sistema colector de agua instalado en el río Maipo, lo que puede alterar el normal abastecimiento de agua potable de la ciudad de Santiago."
+   ],
+   "pies": [
+    "Fotografía superior: vista del geositio Quebrada Las Amarillas desde la ruta G-25 hacia el Monumento Nacional El Morado. Autor: Víctor Godoy D. Fotografía inferior: panorama hacia el suroeste de la quebrada Las Amarillas. A la derecha, en la sección inferior de la fotografía, se aprecia la parte baja del abanico aluvial de la quebrada por donde pasa el trazado de la ruta G-25. Autora: Mónica Marín D. Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g22-1.webp",
+     "mini": "img/g22-1-t.webp",
+     "w": 1200,
+     "h": 803
+    },
+    {
+     "src": "img/g22-2.webp",
+     "mini": "img/g22-2-t.webp",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "audio": {
+    "src": "audio/g22.mp3",
+    "dur": 113.4,
+    "marcas": [
+     0.0,
+     5.28,
+     27.17,
+     55.87,
+     71.33,
+     98.28
+    ]
+   }
+  },
+  {
+   "id": "g23",
+   "orden": 23,
+   "slug": "ignimbrita-pudahuel-en-machali",
+   "nombre": "Ignimbrita Pudahuel en Machalí",
+   "region": "Libertador General Bernardo O’Higgins",
+   "region_txt": "Región del Libertador General Bernardo O’Higgins",
+   "lat": -34.195003,
+   "lon": -70.638953,
+   "provincia": "Cachapoal",
+   "comuna": "Machalí",
+   "localidad": "Machalí",
+   "altitud": "685 m s.n.m.",
+   "interes": "volcanológico - peligro geológico",
+   "categoria": "volcanico",
+   "valor": "científico",
+   "parrafos": [
+    "La ignimbrita Pudahuel es un depósito de flujo piroclástico asociado al colapso de una columna eruptiva de altura kilométrica producida durante una erupción explosiva de gran magnitud, ocurrida en algún momento del Pleistoceno Medio, entre los 450 mil y 150 mil años. En su desarrollo, la erupción habría emitido un importante volumen de magma, lo que causó el colapso del volcán original y formó una depresión volcánica o caldera, denominada Caldera Diamante. La laguna Diamante, situada en Argentina, ocupa hoy esa depresión, donde también se ubica el volcán Maipo.",
+    "La nube de partículas y gases originada viajó a gran velocidad sobre la superficie y generó un depósito característico a lo largo de los valles, incluso a cientos de kilómetros de su origen. Así, tanto en el valle del río Cachapoal como en el del río Maipo, y del mismo modo en la vertiente argentina de la cordillera andina, existen remanentes de esta ignimbrita distribuidos en una superficie de miles de kilómetros cuadrados.",
+    "En el sector de Machalí se observa un depósito de varios metros de espesor, compuesto en un 85 a 90% de su volumen por ceniza volcánica, sin estructura interna y con un notorio cambio de color, que incluye muy escasos fragmentos de roca y localmente algunas pómez. Este geositio es una magnífica evidencia de un evento eruptivo extremo y, aunque su probabilidad de ocurrencia es baja, resulta importante para comprender el impacto ambiental de gran escala que sin duda produjo y el que podría eventualmente generar en el futuro ante condiciones similares."
+   ],
+   "pies": [
+    "Fotografía: perspectiva hacia el sureste desde Machalí, donde se observa la Ignimbrita Pudahuel al costado de la carretera del Cobre (ruta H-25). Autor: Alejandro Alfaro S., Sernageomin.",
+    "Fotografía superior: sección geológica de la ignimbrita Pudahuel con hasta 5 m de espesor, expuesta en un corte de camino en la ruta H-25 o carretera del Cobre, sector de Machalí.",
+    "Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g23-1.webp",
+     "mini": "img/g23-1-t.webp",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/g23-2.webp",
+     "mini": "img/g23-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g23-3.webp",
+     "mini": "img/g23-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g23.mp3",
+    "dur": 105.6,
+    "marcas": [
+     0.0,
+     6.38,
+     44.74,
+     71.16
+    ]
+   }
+  },
+  {
+   "id": "g24",
+   "orden": 24,
+   "slug": "huellas-de-dinosaurios-en-termas-del-flaco",
+   "nombre": "Huellas de Dinosaurios en Termas del Flaco",
+   "region": "Libertador General Bernardo O’Higgins",
+   "region_txt": "Región del Libertador General Bernardo O’Higgins",
+   "lat": -34.955766,
+   "lon": -70.424406,
+   "provincia": "Colchagua",
+   "comuna": "San Fernando",
+   "localidad": "Termas del Flaco",
+   "altitud": "2.038 m s.n.m.",
+   "interes": "paleontológico - estratigráfico",
+   "categoria": "paleontologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "Este geositio está ubicado inmediatamente al este de Termas del Flaco, en la ladera sur del valle del río Tinguiririca, y se accede a él por un sendero de cerca de 1,9 km de largo. El gran atractivo que generan los dinosaurios hace que este geositio tenga un alto valor recreativo. Estas huellas fósiles permiten conocer el ambiente geológico que predominó durante los períodos Jurásico y Cretácico Inferior.",
+    "Las pisadas y rastros están en la cara superior de un estrato inclinado de la Formación Baños del Flaco, del Jurásico Superior-Cretácico Inferior, entre 152 y 129 millones de años aproximadamente, formada tanto por rocas calizas grises, ricas en material fosilífero correspondiente a algas y a fragmentos de caparazones de invertebrados marinos como por rocas volcánicas.",
+    "Las huellas fueron asignadas, en un comienzo, a dinosaurios del suborden Ornithopoda. Estudios posteriores concluyeron que representan huellas de 3 tipos de dinosaurios: ornitópodos (pie de ave, con 3 dedos), terópodos (pie de bestia, también con 3 dedos) y saurópodos (pie de lagarto, con cuello y cola largos y extremidades cortas) pudiendo corresponder a un conjunto de huellas de dinosaurios del icnogénero Brontopodus.",
+    "Estas huellas se formaron debido a la caminata de los dinosaurios en dirección general noroeste-sureste, por la orilla de una laguna costera cercana a un arrecife de coral, en un clima tropical a subtropical. Las huellas fueron sepultadas y preservadas por depósitos de cenizas originadas en erupciones volcánicas explosivas contemporáneas. Los restos del arrecife de coral indican la posición local del mar en ese momento."
+   ],
+   "pies": [
+    "Fotografía superior: las pisadas fósiles atraen a muchos turistas cada año. Fotografía inferior: panorama hacia el este de las huellas de dinosaurios y el aspecto general del estrato perteneciente a la Formación Baños del Flaco. Autora: Paulina Arellano C."
+   ],
+   "fotos": [
+    {
+     "src": "img/g24-1.webp",
+     "mini": "img/g24-1-t.webp",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/g24-2.webp",
+     "mini": "img/g24-2-t.webp",
+     "w": 1200,
+     "h": 675
+    }
+   ],
+   "audio": {
+    "src": "audio/g24.mp3",
+    "dur": 111.5,
+    "marcas": [
+     0.0,
+     6.86,
+     33.02,
+     57.26,
+     85.51
+    ]
+   }
+  },
+  {
+   "id": "g25",
+   "orden": 25,
+   "slug": "falla-el-fierro",
+   "nombre": "Falla El Fierro",
+   "region": "Libertador General Bernardo O’Higgins",
+   "region_txt": "Región del Libertador General Bernardo O’Higgins",
+   "lat": -34.968925,
+   "lon": -70.434583,
+   "provincia": "Colchagua",
+   "comuna": "San Fernando",
+   "localidad": "Termas del Flaco",
+   "altitud": "2.090 m s.n.m.",
+   "interes": "geológico estructural-tectónico",
+   "categoria": "estructural",
+   "valor": "científico",
+   "parrafos": [
+    "El geositio Falla El Fierro se localiza en la ladera sur del valle del río Tinguiririca, frente a la localidad Termas del Flaco. En ese lugar esta falla corta y pone en contacto rocas sedimentarias rojas y grises con una inclinación de 30° hacia el oeste, sobre las mismas capas, pero con una inclinación cercana a 55° hacia el oeste. Este conjunto de capas forma parte de la denominada Unidad Clástica Pardo Rojiza (BRCU por su nombre en inglés) del Cretácico Inferior. Un pliegue anticlinal en el bloque occidental y otros antecedentes, la definen como una falla inversa de bajo ángulo con vergencia hacia el este.",
+    "Esta falla forma parte del Sistema de Falla El Baule o El Fierro. En conjunto con otros sistemas de fallas equivalentes hacia el norte, en las hoyas de los ríos Cachapoal y Maipo (Sistema de Falla El Diablo-Las Leñas-El Fierro) e incluso más al norte, al menos hasta la latitud del yacimiento Los Pelambres (31°43’S-70°29’ O), estas estructuras controlaron la evolución geológica del borde oriental de la denominada Cuenca Abanico, desde fines del período Eoceno, hace unos 37 millones de años.",
+    "En el área de este geositio, en el año 2004, se registró actividad sísmica con magnitudes de hasta 6,5 y 5,4 Mw, la que ha sido relacionada con movimientos de la falla El Fierro, lo que significaría que ella ha estado activa desde el Eoceno Superior hasta la actualidad."
+   ],
+   "pies": [
+    "Fotografía superior: vista hacia el sureste del geositio Falla El Fierro. Fotografía inferior: esquema de la relación espacial de las unidades de roca con la Falla El Fierro (línea azul) y su movimiento relativo (flechas amarillas). Las líneas segmentadas amarillas indican los contactos entre las diferentes unidades y las líneas celestes marcan la disposición espacial de algunas de sus capas. Autora: Paulina Arellano C. Interpretación geológica: modificado de Mescua et al. 2013."
+   ],
+   "fotos": [
+    {
+     "src": "img/g25-1.webp",
+     "mini": "img/g25-1-t.webp",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/g25-2.webp",
+     "mini": "img/g25-2-t.webp",
+     "w": 1200,
+     "h": 847
+    }
+   ],
+   "audio": {
+    "src": "audio/g25.mp3",
+    "dur": 99.5,
+    "marcas": [
+     0.0,
+     5.59,
+     46.13,
+     80.69
+    ]
+   }
+  },
+  {
+   "id": "g26",
+   "orden": 26,
+   "slug": "rocas-de-constitucion",
+   "nombre": "Rocas de Constitución",
+   "region": "Maule",
+   "region_txt": "Región del Maule",
+   "lat": -35.327914,
+   "lon": -72.434956,
+   "provincia": "Talca",
+   "comuna": "Constitución",
+   "localidad": "Constitución",
+   "altitud": "15 m s.n.m.",
+   "interes": "geomorfológico - petrológico",
+   "categoria": "geomorfologico",
+   "valor": "ambiental",
+   "parrafos": [
+    "Este geositio está situado en el borde costero de la ciudad de Constitución, desde la desembocadura del río Maule hacia el sur. Se puede dividir en dos sectores principales: uno próximo a la desembocadura, compuesto por los islotes la Piedra de las Ventanas, la Piedra del León y la Piedra del Marino; y otro más al sur donde están los islotes el Peñón de Calabocillo, Peñón de los Enamorados, Piedra del Elefante, Piedra de la Iglesia y Las Termópilas. Todo este conjunto de rocas es parte de un antiguo acantilado costero, formado en el Pleistoceno Superior, que actualmente está erosionado y fragmentado por la acción del mar.",
+    "Destaca en el conjunto la llamada Piedra de la Iglesia, símbolo de la ciudad, que corresponde a una enorme roca abovedada, de casi 150 m de largo y 9 m de altura aproximada, donde la acción de las olas ha esculpido cavernas interiores que pueden ser visitadas con marea baja.",
+    "Todas estas rocas son intrusivas y han sido clasificadas como monzogranitos, compuestas, principalmente, por minerales como feldespatos potásicos y biotita en cristales de gran tamaño. Las edades que se han obtenido para esta unidad geológica indican que el magma cristalizó en el período Triásico Superior, hace unos 224 millones de años, en niveles superficiales de la corteza terrestre, luego de ser inyectado en las rocas que componen el denominado Basamento Metamórfico, del Paleozoico Superior (Carbonífero Superior-Pérmico).",
+    "A la belleza escénica de este lugar se suma el hecho de que todo este conjunto de rocas constituye un lugar de nidificación de distintas aves, como gaviotas, piqueros, cormoranes y pelícanos, lo que otorga un valor ambiental aun mayor a este geositio."
+   ],
+   "pies": [
+    "Fotografía superior: panorama hacia el suroeste de la playa y roqueríos de Constitución, donde destaca en el centro la Piedra de la Iglesia. Autor: Jessica Leiva M. Fotografía inferior: vista hacia el suroeste de la Piedra de la Iglesia, llamativo símbolo natural de la ciudad de Constitución. Autor: Andrés Muñoz V."
+   ],
+   "fotos": [
+    {
+     "src": "img/g26-1.webp",
+     "mini": "img/g26-1-t.webp",
+     "w": 1200,
+     "h": 540
+    },
+    {
+     "src": "img/g26-2.webp",
+     "mini": "img/g26-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g26.mp3",
+    "dur": 110.9,
+    "marcas": [
+     0.0,
+     4.27,
+     43.15,
+     61.22,
+     95.16
+    ]
+   }
+  },
+  {
+   "id": "g27",
+   "orden": 27,
+   "slug": "radal-siete-tazas",
+   "nombre": "Radal Siete Tazas",
+   "region": "Maule",
+   "region_txt": "Región del Maule",
+   "lat": -35.459508,
+   "lon": -71.028297,
+   "provincia": "Curicó",
+   "comuna": "Molina",
+   "localidad": "Molina",
+   "altitud": "964 m s.n.m.",
+   "interes": "geomorfológico - volcanológico",
+   "categoria": "geomorfologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "Ubicado en el Parque Nacional Radal Siete Tazas, en la comuna de Molina, a este geositio se accede desde la ruta 5 mediante el camino Agua Fría (ruta K-175), que une el pueblo de Molina con la zona cordillerana de la comuna. Consiste en una sucesión de pozones y saltos de agua formados por el río Claro al avanzar sobre varias capas de lava que constituyen parte de la unidad denominada Volcanitas de Planicies y Valles, del Plioceno-Pleistoceno.",
+    "La prolongada interacción del río y las rocas volcánicas ha propiciado el desarrollo de pozones en el lecho rocoso, conocidos como tazas, que otorgan una singular belleza al lugar y producen un gran interés en los turistas nacionales. Su formación se debe a la constante erosión efectuada por los fragmentos de rocas arrastrados en el fondo del río, lo que ha generado una profundización progresiva y localizada en las lavas durante el Pleistoceno-Holoceno.",
+    "Además, estas rocas tienen un fracturamiento prismático que recibe el nombre de disyunción columnar y que se producen por la pérdida de volumen durante el enfriamiento y la solidificación de la lava. Las fracturas modelan polígonos, principalmente hexágonos, de variados tamaños, de manera similar a la formación de grietas cuando se seca el barro.",
+    "Inmediatamente después del terremoto del Maule de 2010, y en los últimos años debido al desvío de sus aguas y la prolongada sequía, ocasionalmente ha dejado de fluir agua por los pozones, lo que demuestra la alta vulnerabilidad de este atractivo turístico."
+   ],
+   "pies": [
+    "Fotografía: perspectiva aérea del salto de agua La Leona en el Parque Nacional Radal Siete Tazas tras el terremoto de febrero de 2010. Autor: Manuel Arenas A., Sernageomin.",
+    "Fotografía izquierda: vista de dos de las siete tazas, donde se distinguen los pozones y pequeñas caídas de agua. Autor: Andrés Muñoz V. Fotografía derecha: panorama del mismo sector de la izquierda tras el terremoto de febrero de 2010 cuando el agua dejó de fluir por los pozones. Autora: Mónica Marín D., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g27-1.webp",
+     "mini": "img/g27-1-t.webp",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/g27-2.webp",
+     "mini": "img/g27-2-t.webp",
+     "w": 1215,
+     "h": 801
+    }
+   ],
+   "audio": {
+    "src": "audio/g27.mp3",
+    "dur": 97.8,
+    "marcas": [
+     0.0,
+     4.3,
+     33.36,
+     60.19,
+     81.58
+    ]
+   }
+  },
+  {
+   "id": "g28",
+   "orden": 28,
+   "slug": "disyuncion-columnar-la-carcel",
+   "nombre": "Disyunción Columnar La Cárcel",
+   "region": "Maule",
+   "region_txt": "Región del Maule",
+   "lat": -35.950206,
+   "lon": -70.570572,
+   "provincia": "Talca",
+   "comuna": "San Clemente",
+   "localidad": "San Clemente",
+   "altitud": "1.750 m s.n.m.",
+   "interes": "volcanológico",
+   "categoria": "volcanico",
+   "valor": "recreativo",
+   "parrafos": [
+    "Este geositio se ubica en la entrada del valle Los Cóndores, al que se accede por la ruta internacional CH-115 que une la ciudad de Talca con el paso Pehuenche, en la frontera con Argentina. Está conformado por rocas volcánicas del Complejo Volcánico Laguna del Maule, de 116 mil años de antigüedad, Pleistoceno Superior, que presentan columnas, saltos de nivel, salientes y paredes de hasta 50 m de altura. Estas características, junto con la existencia de cascadas y pozones de agua, lo convierten en uno de los lugares más atractivos de Sudamérica para la práctica del deporte de escalada.",
+    "Los cerros que circundan este valle están compuestos por una secuencia de lavas dispuestas en plataformas escalonadas que se extienden unos 6 km desde su origen, en las cercanías de la laguna del Maule hasta el salto del Maule, donde el río tiene una caída de casi 100 m de altura. Las columnas verticales, que semejan los barrotes de una celda, tienen hasta 20 m de altura y se produjeron por fracturas generadas por la pérdida de volumen y contracción de la lava durante su enfriamiento y solidificación al salir a la atmósfera. Este tipo de fracturamiento, denominado disyunción columnar, conforma polígonos de variados tamaños, principalmente hexágonos, de manera similar a las grietas que se forman cuando se seca el barro.",
+    "Para resguardar la imponente belleza de La Cárcel, el proyecto Geoparque Pillanmapu Andino busca la conservación y puesta en valor de este geositio."
+   ],
+   "pies": [
+    "Fotografía superior: panorama hacia el noreste de la pared rocosa del sector La Cárcel. En su parte inferior se distinguen las columnas verticales de roca que dan nombre a este geositio. Fotografía inferior:vista desde arriba del geositio con sus imponentes columnas que lo hacen muy atractivo para el deporte de escalada. Autor: Yvanel Aravena B."
+   ],
+   "fotos": [
+    {
+     "src": "img/g28-1.webp",
+     "mini": "img/g28-1-t.webp",
+     "w": 1200,
+     "h": 485
+    },
+    {
+     "src": "img/g28-2.webp",
+     "mini": "img/g28-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g28.mp3",
+    "dur": 96.6,
+    "marcas": [
+     0.0,
+     4.68,
+     43.3,
+     87.53
+    ]
+   }
+  },
+  {
+   "id": "g29",
+   "orden": 29,
+   "slug": "cueva-de-los-pincheira",
+   "nombre": "Cueva de Los Pincheira",
+   "region": "Ñuble",
+   "region_txt": "Región de Ñuble",
+   "lat": -36.898311,
+   "lon": -71.552583,
+   "provincia": "Diguillín",
+   "comuna": "Pinto",
+   "localidad": "Termas de Chillán",
+   "altitud": "1.035 m s.n.m.",
+   "interes": "volcanológico - glaciológico",
+   "categoria": "volcanico",
+   "valor": "cultural",
+   "parrafos": [
+    "Este geositio se ubica en el valle glaciar del estero Renegado, a 61 km al este de Chillán y a 18 km al oeste del volcán del mismo nombre. Corresponde a una cueva ubicada a los pies de una pared rocosa de aproximadamente 160 m de alto, bajo una cornisa de unos 25 m de largo y 20 m de profundidad. La pared limita una extensa meseta adosada a la ladera sur del valle. A la distancia se distinguen, en la pared, cuatro capas de decenas de metros de espesor, las que, de cerca, es posible identificar como capas de rocas volcánicas grises con franjas irregulares y quiebres curvos festoneados que limitan superficies con fracturas de variadas formas geométricas: unas lisas, otras irregulares y otras como columnas verticales de hasta 20 m de alto.",
+    "Estas capas de rocas denominadas informalmente lavas Los Pincheira, fueron emitidas durante erupciones ocurridas hace 650 mil años, en el Pleistoceno Medio, y fluyeron cerca de 40 km bajo extensos glaciares por los bordes del valle. Sus rasgos indican que su avance fue gradual debido a la necesidad de fundir el hielo. El agua resultante de la fusión del hielo causó el enfriamiento de la masa caliente, y facilitó la formación de cavidades y del fracturamiento columnar.",
+    "La cueva, lugar mítico, con un entorno de altos y hermosos laureles con extendidas raíces expuestas, además de una magnífica cascada de 20 m, era uno de los lugares que servía de refugio y escondite a los Pincheira, montoneros y guerrilleros de la primera mitad del siglo XIX, y que sustenta su historia y su leyenda. Sin embargo, ellos no se imaginaban que este sitio forma parte de una de las coladas de lava más largas del sur de Chile, y que fluyó bajo extensos hielos glaciares."
+   ],
+   "pies": [
+    "Fotografía: vista general del geositio Cueva de Los Pincheira donde se puede observar la entrada a la cueva y parte de la cornisa de rocas volcánicas que componen la pared. Autor: José Naranjo S.",
+    "Fotografía superior izquierda: detalle de la pared de entrada a la cueva donde se puede apreciar el fracturamiento irregular de las lavas. Autor: José Naranjo S.",
+    "Fotografía superior derecha: vista lateral de la entrada a la cueva donde se puede apreciar el fracturamiento irregular de las lavas y parte de la cascada de 20 m de altura. Autor: José Naranjo S."
+   ],
+   "fotos": [
+    {
+     "src": "img/g29-1.webp",
+     "mini": "img/g29-1-t.webp",
+     "w": 1200,
+     "h": 576
+    },
+    {
+     "src": "img/g29-2.webp",
+     "mini": "img/g29-2-t.webp",
+     "w": 1280,
+     "h": 469
+    },
+    {
+     "src": "img/g29-3.webp",
+     "mini": "img/g29-3-t.webp",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "audio": {
+    "src": "audio/g29.mp3",
+    "dur": 117.1,
+    "marcas": [
+     0.0,
+     4.1,
+     55.1,
+     85.66
+    ]
+   }
+  },
+  {
+   "id": "g30",
+   "orden": 30,
+   "slug": "iglesia-de-piedra-de-cobquecura",
+   "nombre": "Iglesia de Piedra de Cobquecura",
+   "region": "Ñuble",
+   "region_txt": "Región de Ñuble",
+   "lat": -36.093708,
+   "lon": -72.813158,
+   "provincia": "Itata",
+   "comuna": "Cobquecura",
+   "localidad": "Cobquecura",
+   "altitud": "15 m s.n.m.",
+   "interes": "geomorfológico - petrológico",
+   "categoria": "geomorfologico",
+   "valor": "ambiental",
+   "parrafos": [
+    "La Iglesia de Piedra, ubicada a 5 km al norte de la localidad de Cobquecura, y otros islotes y roqueríos existentes en el área, fueron declarados Santuario de la Naturaleza en 1992, debido a su destacada y abundante flora y fauna marina.",
+    "Las rocas del geositio Iglesia de Piedra son los remanentes de un antiguo acantilado costero, labrado y fragmentado por la acción erosiva del mar durante el Pleistoceno Superior. Estas rocas son el resultado de un proceso dinámico de interacción de magmas contrastantes, tanto en sus composiciones como en sus temperaturas, el que ocurrió a fines del período Triásico, hace unos 210 millones de años, en lo profundo de la corteza terrestre. La interacción de magmas se refleja en estructuras geológicas aquí existentes tales como diques máficos almohadillados, complejos enrejados de vetillas y brechas magmáticas.",
+    "En este lugar también se observan fragmentos de rocas de tamaño centimétrico a métrico provenientes tanto de la corteza superior como de la corteza inferior rica en hierro. Estos fragmentos, conocidos como xenolitos, tienen aureolas en sus bordes que indican que, durante su ascenso, el magma los incorporó y asimiló desde las rocas metamórficas de las que formaban parte, las que pertenecen a la Serie Occidental del denominado Basamento Metamórfico, del Paleozoico Superior.",
+    "Un producto relevante de esta interacción de magmas lo constituyen las denominadas granodioritas de olivino, rocas muy especiales, de las cuales hay solo dos documentadas en Chile y otras 30 en el mundo. Esta litología, a nivel mundial, es más frecuente en rocas de mayor antigüedad, principalmente en complejos intrusivos de edad precámbrica, de más de 541 millones de años."
+   ],
+   "pies": [
+    "Fotografía: perspectiva hacia el este del geositio Iglesia de Piedra de Cobquecura con algunos visitantes. Autora: Francisca Salazar D.",
+    "Fotografía izquierda: vista hacia el este desde la bóveda de la Iglesia de Piedra. Fotografía derecha: detalle de las rocas que conforman la Iglesia de Piedra donde destaca una pátina de óxidos de hierro producto de la oxidación de los minerales máficos de estas rocas. Autora: Francisca Salazar D."
+   ],
+   "fotos": [
+    {
+     "src": "img/g30-1.webp",
+     "mini": "img/g30-1-t.webp",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/g30-2.webp",
+     "mini": "img/g30-2-t.webp",
+     "w": 1215,
+     "h": 801
+    }
+   ],
+   "audio": {
+    "src": "audio/g30.mp3",
+    "dur": 114.1,
+    "marcas": [
+     0.0,
+     4.68,
+     22.03,
+     59.76,
+     88.78
+    ]
+   }
+  },
+  {
+   "id": "g31",
+   "orden": 31,
+   "slug": "gruta-los-pangues",
+   "nombre": "Gruta Los Pangues",
+   "region": "Ñuble",
+   "region_txt": "Región de Ñuble",
+   "lat": -36.91991,
+   "lon": -71.428668,
+   "provincia": "Diguillín",
+   "comuna": "Pinto",
+   "localidad": "Las Trancas",
+   "altitud": "1.518 m s.n.m.",
+   "interes": "volcanológico",
+   "categoria": "volcanico",
+   "valor": "cultural",
+   "parrafos": [
+    "Este geositio está ubicado a 5 km de la localidad de Las Trancas y su acceso se encuentra en el kilómetro 80 de la ruta N-55 que une Chillán con las termas del mismo nombre, seguido de un sendero de baja dificultad de 300 m aproximadamente. Se localiza en la zona transicional del corredor biológico Nevados de Chillán-Laguna de la Laja, designación otorgada en junio de 2011, y que abarca un total de nueve comunas entre las regiones de Ñuble y del Biobío. El nombre del geositio proviene de la abundante vegetación de pangues o nalcas, hierba perenne cuyas hojas destacan por su gran tamaño, que pueden superar, incluso, el metro de diámetro.",
+    "Este geositio corresponde a una sucesión de capas de materiales volcánicos formados por ceniza y otros fragmentos de roca de mayores tamaños, cuyo origen está asociado a grandes erupciones explosivas del Complejo Volcánico Nevados de Chillán ocurridas hace unos 2.300 años, en la época geológica denominada Holoceno.",
+    "En el centro de la secuencia se encuentra una capa con abundantes fragmentos de rocas de gran tamaño conocidas como bombas líticas, las que le otorgan mayor resistencia de modo que esta capa conforma el techo de la gruta, a diferencia de las capas inferiores, menos resistentes, cuya erosión y desgaste generaron la caverna que aquí se observa.",
+    "A su hermoso entorno se suma una cascada de agua, de unos 35 m de altura, que configura, junto a la gruta, un escenario muy especial que ha sido aprovechado por creyentes religiosos que acuden a rezar y dejar ofrendas a las numerosas imágenes religiosas que allí se han instalado."
+   ],
+   "pies": [
+    "Fotografía: vista superior del geositio Gruta Los Pangues. A la derecha en primer plano la capa de roca volcánica que constituye el techo de la gruta. Autora Rayén Rivera V.",
+    "Fotografía izquierda: panorama hacia el oeste del geositio Gruta Los Pangues en el cual se distinguen las diferentes capas de roca volcánica y el techo de roca más resistente. Autora Rayén Rivera V."
+   ],
+   "fotos": [
+    {
+     "src": "img/g31-1.webp",
+     "mini": "img/g31-1-t.webp",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/g31-2.webp",
+     "mini": "img/g31-2-t.webp",
+     "w": 865,
+     "h": 911
+    },
+    {
+     "src": "img/g31-3.webp",
+     "mini": "img/g31-3-t.webp",
+     "w": 800,
+     "h": 1200
+    }
+   ],
+   "audio": {
+    "src": "audio/g31.mp3",
+    "dur": 103.8,
+    "marcas": [
+     0.0,
+     3.98,
+     46.15,
+     66.07,
+     86.26
+    ]
+   }
+  },
+  {
+   "id": "g32",
+   "orden": 32,
+   "slug": "caleta-cocholgue",
+   "nombre": "Caleta Cocholgüe",
+   "region": "Biobío",
+   "region_txt": "Región del Biobío",
+   "lat": -36.590973,
+   "lon": -72.978644,
+   "provincia": "Concepción",
+   "comuna": "Tomé",
+   "localidad": "caleta Cocholgüe",
+   "altitud": "40 m s.n.m.",
+   "interes": "paleontológico - estratigráfico",
+   "categoria": "paleontologico",
+   "valor": "científico",
+   "parrafos": [
+    "Este geositio se ubica en el sector norte de la caleta Cocholgüe, en la comuna de Tomé, 30 km al norte de la ciudad de Concepción. Sus acantilados evidencian alzamientos del borde costero ocurridos en el Pleistoceno Superior. Procesos erosivos más recientes han modelado la línea costera y han deja expuestas capas de rocas sedimentarias que aportan información acerca de los seres vivos y condiciones ambientales existentes en el período Cretácico, así como del paso de la era mesozoica a la cenozoica sucedido hace unos 66 millones de años. Esto último está evidenciado por la gran diferencia entre el contenido fosilífero de la fauna marina existente en los depósitos de la Formación Quiriquina (Cretácico Superior) y de la Formación Curanilahue (Eoceno Inferior).",
+    "Entre la abundante fauna fósil marina, destacan los restos de Aristonectes quiriquinensis, el cual corresponde al plesiosauro (reptil marino) más joven descrito a la fecha, y uno de los más representativos del Mesozoico antes de su extinción a fines de esta era. Se pueden observar también abundantes concreciones (cuerpos de rocas esféricos) en cuyo interior es posible encontrar fósiles de amonites de variadas formas (incluyendo algunos baculítidos) y bivalvos (en especial del género Cardium).",
+    "También se pueden apreciar estructuras fosilizadas producto de la acción de los organismos en los sedimentos marinos. Estas estructuras se conocen como bioturbaciones o trazas fósiles. En este lugar, además, se han encontrado restos fósiles de peces, tortugas marinas del género Euclastes, mosasaurios y aves buceadoras identificadas como Neogaeornis wetzeli, a lo que se suma madera petrificada con trazas de bivalvos perforantes.",
+    "El geositio Caleta Cocholgüe, de gran valor científico, es de muy fácil acceso, ya que dista pocos metros de la caleta de pescadores y sus locales gastronómicos. El proyecto Geoparque Litoral Biobío busca poner en valor este geositio para promover el desarrollo social y cultural de las comunidades locales."
+   ],
+   "pies": [
+    "Fotografía superior izquierda: restos de fósiles de invertebrados marinos encontrados en areniscas de la Formación Quiriquina (Cretácico Superior). Autor: Ricardo Velásquez H., Sernageomin. Fotografía superior derecha: restos fósiles de plesiosaurio, reptil marino más representativo del final del período Cretácico. Autor: Roberto Merino G. Fotografía inferior: rocas sedimentarias en Caleta Cocholgüe; en la parte baja, estratos gris amarillentos de areniscas de la Formación Quiriquina (Cretácico Superior) y sobre estos, capas de areniscas de la Formación Curanilahue (Eoceno Inferior). Una falla normal (centro de la imagen) desplazó hacia abajo el bloque derecho respecto del izquierdo. Autor: Roy Fernández J."
+   ],
+   "fotos": [
+    {
+     "src": "img/g32-1.webp",
+     "mini": "img/g32-1-t.webp",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/g32-2.webp",
+     "mini": "img/g32-2-t.webp",
+     "w": 1200,
+     "h": 775
+    },
+    {
+     "src": "img/g32-3.webp",
+     "mini": "img/g32-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g32.mp3",
+    "dur": 130.0,
+    "marcas": [
+     0.0,
+     3.89,
+     51.79,
+     82.63,
+     110.57
+    ]
+   }
+  },
+  {
+   "id": "g33",
+   "orden": 33,
+   "slug": "anticlinal-volcado-de-curamallin",
+   "nombre": "Anticlinal Volcado de Curamallín",
+   "region": "Biobío",
+   "region_txt": "Región del Biobío",
+   "lat": -37.497372,
+   "lon": -71.252952,
+   "provincia": "Biobío",
+   "comuna": "Antuco",
+   "localidad": "Antuco",
+   "altitud": "1.975 m s.n.m.",
+   "interes": "geológico estructural",
+   "categoria": "estructural",
+   "valor": "didáctico",
+   "parrafos": [
+    "Este geositio se ubica en el valle del río de los Pinos, y es accesible desde el puesto de la Corporación Nacional Forestal (Conaf) en el Parque Nacional Laguna de la Laja, a 28 km de la frontera con Argentina. En él se observa un pliegue generado en capas de roca de origen volcánico y sedimentario de la Formación Cura Mallín, una unidad geológica de cerca de 14 millones de años de antigüedad, del Mioceno Inferior a Medio.",
+    "Cuando en las rocas existe un pliegue es porque estas se han deformado sin romperse ante la acción de una fuerza de empuje. En este caso, el plegamiento de los estratos, normalmente en posición horizontal, se produjo por la acción de una falla geológica profunda que los empujó lentamente desde abajo, lo que generó la acomodación y curvatura de las capas, proceso que ocurrió en el Mioceno Medio a Superior, entre 14 y 9 millones de años.",
+    "Si la curvatura de un pliegue es convexa, es decir, con forma de “∩”, se le llama pliegue anticlinal; en cambio, si la curva es cóncava, es decir, con forma de “U”, se le denomina pliegue sinclinal. El término volcado indica que el plano axial del pliegue está inclinado respecto de la vertical, invirtiéndose así el orden de las capas de roca de uno de sus lados (flanco invertido), lo que ubica las más antiguas sobre las más jóvenes.",
+    "La formación de pliegues es relativamente común en este tipo de rocas, y dado el excelente estado de preservación de los pliegues y de sus diferentes partes, este geositio es muy didáctico para la explicación y el estudio de esta clase de estructuras geológicas, valor al que se agrega la imponente belleza escénica que brinda."
+   ],
+   "pies": [
+    "Fotografía superior: perspectiva de los pliegues hacia el norte con el volcán Antuco a la izquierda. Interpretación geológica: Juan Pablo Contreras F, Sernageomin. Fotografía inferior: vista del geositio Anticlinal Volcado de Curamallín desde la quebrada del río Los Pinos hacia el norte. En la fotografía se indican los distintos elementos de los pliegues volcados. Autor: Paulo Urrutia B. Interpretación geológica: Juan Pablo Contreras F."
+   ],
+   "fotos": [
+    {
+     "src": "img/g33-1.webp",
+     "mini": "img/g33-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g33-2.webp",
+     "mini": "img/g33-2-t.webp",
+     "w": 1200,
+     "h": 847
+    }
+   ],
+   "audio": {
+    "src": "audio/g33.mp3",
+    "dur": 106.9,
+    "marcas": [
+     0.0,
+     4.9,
+     31.9,
+     58.99,
+     87.84
+    ]
+   }
+  },
+  {
+   "id": "g34",
+   "orden": 34,
+   "slug": "piedra-del-aguila",
+   "nombre": "Piedra del Águila",
+   "region": "Biobío",
+   "region_txt": "Región del Biobío",
+   "lat": -37.825489,
+   "lon": -73.035425,
+   "provincia": "Arauco",
+   "comuna": "Cañete",
+   "localidad": "Junta de las Aguas",
+   "altitud": "1.400 m s.n.m.",
+   "interes": "petrológico - geomorfológico",
+   "categoria": "petrologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "El geositio Piedra del Águila es uno de los puntos más altos de la cordillera de Nahuelbuta (cerca de 1.400 m s.n.m.) y está rodeado de araucarias al interior del Parque Nacional Nahuelbuta. Este mirador tiene vistas únicas y privilegiadas hacia el oeste, al océano Pacífico, y hacia el este, a la cadena volcánica de la cordillera de los Andes, en particular hacia los volcanes Antuco, Sierra Nevada, Tolhuaca, Lonquimay y Llaima.",
+    "El geositio Piedra del Águila tiene un gran interés geológico, ya que está compuesto por rocas intrusivas del denominado Batolito Costero del Sur, de 308 a 286 millones de años de antigüedad, es decir, del Paleozoico Superior (Carbonífero-Pérmico). La roca de este mirador corresponde a una granodiorita, compuesta principalmente por minerales como cuarzo, feldespato potásico y plagioclasa, además de inclusiones de otro tipo de roca de tonos oscuros, de hasta 30 cm de diámetro, los que en geología son conocidos como xenolitos.",
+    "Se ha estimado que los magmas que dieron origen al batolito se enfriaron a unos 12 a 15 km de profundidad y que tenían, inicialmente, una temperatura entre 700° y 800 °C. En los alrededores del mirador también se reconocen rocas metamórficas, denominadas gneis, las que se originaron por la transformación de rocas sedimentarias al ser calentadas a muy altas temperaturas (>600 °C) por el magma que dio origen a la roca intrusiva granodiorítica."
+   ],
+   "pies": [
+    "Fotografía: la vista hacia el oriente desde el geositio Piedra del Águila permite apreciar el bosque de araucarias existente en el Parque Nacional Nahuelbuta. Autor: Francesc Ferraro C.",
+    "Fotografía superior: vista panorámica del geositio Piedra del Águila. Accesos de madera permiten ascender al principal mirador del Parque Nacional Nahuelbuta.",
+    "Autor: Francesc Ferraro C."
+   ],
+   "fotos": [
+    {
+     "src": "img/g34-1.webp",
+     "mini": "img/g34-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g34-2.webp",
+     "mini": "img/g34-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g34-3.webp",
+     "mini": "img/g34-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g34.mp3",
+    "dur": 99.4,
+    "marcas": [
+     0.0,
+     3.86,
+     32.9,
+     68.76
+    ]
+   }
+  },
+  {
+   "id": "g35",
+   "orden": 35,
+   "slug": "cono-navidad",
+   "nombre": "Cono Navidad",
+   "region": "La Araucanía",
+   "region_txt": "Región de La Araucanía",
+   "lat": -38.368711,
+   "lon": -71.552533,
+   "provincia": "Malleco",
+   "comuna": "Lonquimay",
+   "localidad": "Lonquimay",
+   "altitud": "1.845 m s.n.m.",
+   "interes": "volcanológico - peligro geológico",
+   "categoria": "volcanico",
+   "valor": "científico",
+   "parrafos": [
+    "El cono Navidad es un edificio volcánico de 180 m de altura, ubicado a los pies del estratovolcán Lonquimay y se encuentra en la Reserva Nacional Nalcas. Es parte de varios centros eruptivos menores que se disponen en dirección noreste-suroeste por cerca de 10 km, y conforman el denominado Cordón Fisural Oriental. Su edificación se relaciona con el último evento eruptivo registrado para el Complejo Volcánico Lonquimay, ocurrido entre 1988 y 1990; este complejo es el número 11 en el ranking de riesgo específico de volcanes activos de Chile (Sernageomin, 2023). Durante el mes de diciembre de 1988, numerosos sismos asociados a fracturamiento de roca fueron percibidos por los habitantes de las comunidades aledañas.",
+    "El evento eruptivo, de tipo estromboliano, comenzó el 25 de diciembre del mismo año, y se inició con una explosión cuya columna alcanzó hasta 9 km de altura, declinando los meses siguientes a cerca de 2 km. Durante este episodio fue emitida lava desde el cono Navidad, la que fluyó durante 13 meses por el valle del río Lolco, hasta una distancia de 10 km desde su fuente. Este avance constituyó una posibilidad única de descripción y estudio de un flujo de lava en movimiento en Chile. Adicionalmente, la emisión de ceniza con alto contenido de flúor afectó aguas superficiales, pastos y flora en general, lo que provocó osteofluorosis y con ello la mortandad de cerca de 50 mil cabezas de ganado. A su vez, los habitantes del poblado de Lonquimay, ubicado a 25 km al sureste del cono, debieron ser evacuados por esta razón."
+   ],
+   "pies": [
+    "Fotografía superior izquierda: frente de avance de la lava originada en el cono Navidad. La persona en la parte de abajo de la imagen permite estimar la altura del frente de la colada y el tamaño de sus bloques. Fotografía superior derecha: panorama hacia el nornoreste del valle del río Lolco donde se aprecia, a la izquierda de la fotografía, el avance de la lava originada en el cono Navidad en diciembre de 1988. Autora: Renate Wall Z. Fotografía inferior: perspectiva hacia el norte del cono Navidad en la Reserva Nacional Nalcas. Atrás la cumbre nevada del estratovolcán Lonquimay. Autor: Patricio Contreras F."
+   ],
+   "fotos": [
+    {
+     "src": "img/g35-1.webp",
+     "mini": "img/g35-1-t.webp",
+     "w": 1139,
+     "h": 466
+    },
+    {
+     "src": "img/g35-2.webp",
+     "mini": "img/g35-2-t.webp",
+     "w": 1200,
+     "h": 898
+    }
+   ],
+   "audio": {
+    "src": "audio/g35.mp3",
+    "dur": 108.2,
+    "marcas": [
+     0.0,
+     4.03,
+     52.22
+    ]
+   }
+  },
+  {
+   "id": "g36",
+   "orden": 36,
+   "slug": "canadon-truful-truful",
+   "nombre": "Cañadón Truful-Truful",
+   "region": "La Araucanía",
+   "region_txt": "Región de La Araucanía",
+   "lat": -38.778739,
+   "lon": -71.635642,
+   "provincia": "Cautín",
+   "comuna": "Melipeuco",
+   "localidad": "Melipeuco",
+   "altitud": "685 m s.n.m.",
+   "interes": "volcanológico - estratigráfico",
+   "categoria": "volcanico",
+   "valor": "científico",
+   "parrafos": [
+    "El geositio Cañadón Truful-Truful se localiza en el Parque Nacional Conguillío, en el área que constituye el Geoparque Kütralkura. En este geositio es posible observar los efectos del poder erosivo del río Truful-Truful, que ha dejado expuesta una pared de 35 m de altura en la cual se refleja parte de la historia más explosiva y violenta del volcán Llaima, uno de los más activos de Chile y clasificado como número 3 en el ranking de riesgo específico de volcanes activos (Sernageomin, 2023).",
+    "A pesar de que las erupciones históricas de este volcán son relativamente tranquilas (tipo estromboliano) y con emisión de extensos flujos de lava, en el pasado, entre 13 mil y 7 mil años (fines del Pleistoceno Superior-inicio del Holoceno), se generaron productos asociados a erupciones de gran explosividad, lo que quedó reflejado en la secuencia expuesta en el cañadón del río Truful-Truful. Allí se pueden observar cerca de 70 capas entre las que se evidencian diferentes procesos volcánicos ocurridos en ese lapso, tales como: caída de cenizas, nubes ardientes de cenizas (flujos y oleadas piroclásticas) y aluviones volcánicos (lahares).",
+    "En su base se reconoce el producto del mayor y más antiguo evento eruptivo de este volcán, la denominada Ignimbrita Curacautín. Este depósito, de gran volumen, se asocia al colapso del antiguo volcán Llaima y, consecuentemente, a la formación de una caldera volcánica. El actual edificio volcánico se construyó después de este gran evento eruptivo. Las capas superiores de esta secuencia, de tonalidades más oscuras y de unos 3 mil a 4 mil años de antigüedad, corresponden a depósitos asociados a la actividad más reciente y menos violenta del volcán Llaima durante el Holoceno."
+   ],
+   "pies": [
+    "Fotografía superior: vista hacia el oeste de los estratos volcánicos generados por erupciones del volcán Llaima en el geositio Cañadón Truful-Truful. Cada capa en la secuencia representa un proceso volcánico asociado a una erupción y están ordenadas de más antigua, en la base, a más reciente en la parte superior. Autora: Natalia Espina L., Sernageomin. Fotografía inferior: perspectiva hacia el suroeste del geositio Cañadón Truful-Truful. Fuente de la fotografía: Galyna_Andrushko, envato elements, 2021."
+   ],
+   "fotos": [
+    {
+     "src": "img/g36-1.webp",
+     "mini": "img/g36-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g36-2.webp",
+     "mini": "img/g36-2-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g36.mp3",
+    "dur": 111.7,
+    "marcas": [
+     0.0,
+     4.51,
+     33.58,
+     74.18
+    ]
+   }
+  },
+  {
+   "id": "g37",
+   "orden": 37,
+   "slug": "crater-del-volcan-villarrica",
+   "nombre": "Cráter del Volcán Villarrica",
+   "region": "La Araucanía",
+   "region_txt": "Región de La Araucanía",
+   "lat": -39.419808,
+   "lon": -71.939985,
+   "provincia": "Cautín",
+   "comuna": "Pucón",
+   "localidad": "Pucón",
+   "altitud": "2.820 m s.n.m.",
+   "interes": "volcanológico - peligro geológico",
+   "categoria": "volcanico",
+   "valor": "recreativo",
+   "parrafos": [
+    "El volcán Villarrica, o Ruka pillañ (casa del espíritu en lengua mapuche), se ubica al sureste y noreste, respectivamente, de los lagos Villarrica y Calafquén, y a sus pies existen varios centros poblados, entre los cuales destaca Pucón con 28.523 habitantes, a solo 15 km de su cima, la que se encuentra a 2.820 m s.n.m.",
+    "Con su forma cónica casi perfecta que permite reconocerlo desde la distancia, tiene un importante glaciar en su cima, el que se extiende por cerca de 30 km2 y que equivale a cerca de 4 km3 de agua. Es uno de los volcanes con mayor registro histórico de erupciones en Sudamérica y, actualmente, es monitoreado en tiempo real debido a su alta peligrosidad y cercanía a los centros poblados.",
+    "Por este motivo está clasificado en el N°1 del ranking de riesgo específico de volcanes activos de Chile (Sernageomin, 2023) que ordena los volcanes según el riesgo que representan.",
+    "Comenzó su actividad hace unos 650 mil años, en el Pleistoceno Medio, y en su historia han ocurrido numerosas erupciones que han generado diferentes tipos de productos volcánicos, entre ellos flujos de lava, nubes ardientes de cenizas (flujos piroclásticos) y aluviones volcánicos (lahares). Estos últimos han impactado fuertemente a las localidades aledañas, como el caso de Coñaripe, en 1964, el más devastador.",
+    "El volcán Villarrica tiene un cráter abierto en su cima, de unos 200 m de diámetro, con fumarola continua y un lago de lava casi permanente, en el cual es usual reconocer cambios en su profundidad, frecuentes explosiones pequeñas y la solidificación de su superficie, por lo que constituye un verdadero laboratorio natural. Un cráter abierto con lago de lava solo se da en 7 volcanes del mundo, lo que, junto a su belleza y fácil acceso, lo convierten en un atractivo turístico de clase mundial con cerca de 17 mil visitantes al año."
+   ],
+   "pies": [
+    "Fotografía: perspectiva aérea hacia el norte del volcán Villarrica, o Ruka pillañ, con su característica cubierta de glaciares y nieve. En segundo plano se observa el volcán Lanín. Autora: Natalia Espina L., Sernageomin.",
+    "Fotografía superior: cráter del volcán Villarrica, ubicado en su cima a 2.820 m s.n.m. Es uno de los siete volcanes en el mundo que presenta un lago de lava en su interior. Autor: Cristian Ramírez S.",
+    "Fotografía inferior derecha: explosión en el lago de lava del cráter del volcán Villarrica. Este lago se caracteriza por una dinámica activa, según la cual varía su profundidad y se generan diversas explosiones. Autora: Claudia Bucarey"
+   ],
+   "fotos": [
+    {
+     "src": "img/g37-1.webp",
+     "mini": "img/g37-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g37-2.webp",
+     "mini": "img/g37-2-t.webp",
+     "w": 1200,
+     "h": 358
+    },
+    {
+     "src": "img/g37-3.webp",
+     "mini": "img/g37-3-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g37-4.webp",
+     "mini": "img/g37-4-t.webp",
+     "w": 1200,
+     "h": 801
+    }
+   ],
+   "audio": {
+    "src": "audio/g37.mp3",
+    "dur": 129.5,
+    "marcas": [
+     0.0,
+     4.87,
+     29.78,
+     55.75,
+     65.93,
+     95.54
+    ]
+   }
+  },
+  {
+   "id": "g38",
+   "orden": 38,
+   "slug": "depositos-interglaciares-de-valdivia-en-el-fuerte-niebla",
+   "nombre": "Depósitos Interglaciares de Valdivia en el Fuerte Niebla",
+   "region": "Los Ríos",
+   "region_txt": "Región de Los Ríos",
+   "lat": -39.869853,
+   "lon": -73.402842,
+   "provincia": "Valdivia",
+   "comuna": "Valdivia",
+   "localidad": "Niebla",
+   "altitud": "40 m s.n.m.",
+   "interes": "sedimentológico - paleoambiental",
+   "categoria": "estratigrafico",
+   "valor": "cultural",
+   "parrafos": [
+    "El castillo de Niebla, mejor conocido como fuerte Niebla, se encuentra en la localidad del mismo nombre, a 18 km al suroeste de la ciudad de Valdivia. Declarado Monumento Histórico el año 1950, fue construido en 1671 durante la llamada guerra defensiva contra los mapuche, cuando se levantaron fortificaciones en la mayoría de los asentamientos españoles al sur del río Biobío. Durante su edificación se utilizaron materias primas locales, entre ellas piedra laja, greda, madera de alerce, paja ratonera y piedra pizarra, además de un tipo de arena endurecida, denominada localmente cancagua, y otras foráneas como cal y ladrillo. En particular, su batería y su foso, labrados en cancagua, hicieron del Castillo de Niebla una edificación única en su tipo.",
+    "El fuerte Niebla se emplaza sobre un acantilado costero de 40 a 50 m de altura, generado por el alzamiento de la costa de Valdivia en el Pleistoceno Superior. En este lugar se exponen diferentes capas de cancagua, asignadas a los Depósitos del Último Interglacial en Valdivia, del lapso Pleistoceno Medio a Superior, y en él se pueden observar, al menos, tres distintos conjuntos de capas con diferente contenido y estructuras de sedimentación. Ello permite reconocer tres diferentes ambientes asociados a los cambios del nivel del mar en la zona durante el lapso indicado. Estos ambientes serían: uno costero de playa y plataforma marina somera, otro estuarino y el último de barra costera con dunas y delta de un río."
+   ],
+   "pies": [
+    "Fotografía superior izquierda: en la construcción de los muros y fortificaciones del fuerte Niebla la arena endurecida, cancagua, fue utilizada como fundación y como ladrillos. Fotografía superior derecha: la excavación de la cancagua por parte de los conquistadores españoles permite apreciar, en algunos sectores, las capas de arena que conformaban dunas costeras activas hace más de 40 mil años. Autora: Carolina Miralles G.",
+    "Fotografía: en el acantilado costero se exponen capas de cancagua representativas de 3 diferentes ambientes costeros del Pleistoceno Medio a Superior: A: arenas de playa e intermareales; B: limos y arenas de estuario; C: arenas de dunas costeras. Autor fotografía e interpretación geológica: Rodrigo Vega S"
+   ],
+   "fotos": [
+    {
+     "src": "img/g38-1.webp",
+     "mini": "img/g38-1-t.webp",
+     "w": 1280,
+     "h": 508
+    },
+    {
+     "src": "img/g38-2.webp",
+     "mini": "img/g38-2-t.webp",
+     "w": 1200,
+     "h": 847
+    }
+   ],
+   "audio": {
+    "src": "audio/g38.mp3",
+    "dur": 103.2,
+    "marcas": [
+     0.0,
+     6.17,
+     58.08
+    ]
+   }
+  },
+  {
+   "id": "g39",
+   "orden": 39,
+   "slug": "lavas-aa-y-pahoehoe-del-volcan-villarrica",
+   "nombre": "Lavas aa y pahoehoe del Volcán Villarrica",
+   "region": "Los Ríos",
+   "region_txt": "Región de Los Ríos",
+   "lat": -39.490559,
+   "lon": -72.081822,
+   "provincia": "Valdivia",
+   "comuna": "Panguipulli",
+   "localidad": "Coñaripe",
+   "altitud": "360 m s.n.m.",
+   "interes": "volcanológico - peligro geológico",
+   "categoria": "volcanico",
+   "valor": "didáctico",
+   "parrafos": [
+    "El volcán Villarrica, o Ruka pillañ (casa del espíritu en lengua mapuche), es un estratovolcán ubicado en la Zona Volcánica Sur, en el límite de las regiones de La Araucanía y Los Ríos. A sus pies se sitúan los lagos Villarrica y Calafquén y las localidades turísticas de Pucón, Lican Ray y Coñaripe. Este volcán ha presentado una actividad aparentemente continua desde el Pleistoceno Medio, hace unos 650 mil años, hasta el presente.",
+    "Su actividad histórica, es decir, en los últimos 440 años, registra más de 60 eventos eruptivos, algunos de ellos tranquilos, solo con emisión de lava, y otros mucho más violentos y explosivos. Este geositio permite apreciar el alcance y huellas de una erupción volcánica histórica, en específico la ocurrida en 1971. En este lugar se observan lavas que se encuentran en la ladera suroeste del volcán, en el estero Chaillupén, al cual se puede acceder desde la ruta 5 Sur mediante la carretera pavimentada que une las localidades de Loncoche, Lican Ray y Coñaripe.",
+    "Estas lavas poseen superficies rugosas que semejan cuerdas, y que varían a lavas con superficies irregulares con bloques de lados afilados. Las primeras se conocen como lavas del tipo pahoehoe y las segundas como lavas del tipo aa. Su espesor varía entre 4 y 13 m y su longitud, desde su origen hasta el estero Chaillupén, es de cerca de 16,5 km, distancia que fue recorrida por la lava en apenas 48 horas.",
+    "Los flujos de lava son uno de los productos más comunes de las erupciones volcánicas y, junto con los lahares y los flujos de piroclastos, constituyen uno de los mayores peligros para las zonas aledañas a centros eruptivos."
+   ],
+   "pies": [
+    "Fotografía: vista al noroeste hacia el volcán Villarrica. En primer plano se observan las lavas de la erupción de 1971 en el estero Chaillupén. Autora: Natalia Espina L., Sernageomin.",
+    "Fotografía superior: bloque de lava de cerca de 2 m de altura, con bordes angulosos característicos de lavas tipo aa.",
+    "Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g39-1.webp",
+     "mini": "img/g39-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g39-2.webp",
+     "mini": "img/g39-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g39-3.webp",
+     "mini": "img/g39-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g39.mp3",
+    "dur": 114.7,
+    "marcas": [
+     0.0,
+     5.66,
+     34.44,
+     72.86,
+     101.3
+    ]
+   }
+  },
+  {
+   "id": "g40",
+   "orden": 40,
+   "slug": "cono-mirador",
+   "nombre": "Cono Mirador",
+   "region": "Los Ríos",
+   "region_txt": "Región de Los Ríos",
+   "lat": -40.360812,
+   "lon": -72.059288,
+   "provincia": "Ranco",
+   "comuna": "Lago Ranco",
+   "localidad": "Riñinahue",
+   "altitud": "660 m s.n.m.",
+   "interes": "volcanológico - peligro geológico",
+   "categoria": "volcanico",
+   "valor": "científico",
+   "parrafos": [
+    "Este geositio es un pequeño edificio volcánico ubicado en una zona deprimida que se extiende al este del lago Ranco y al sur del cerro Los Guindos. El cono Mirador forma parte de un conjunto de, al menos, 70 centros volcánicos que comprenden conos de piroclastos, cráteres y maares, alineados según una franja de orientación general noreste-suroeste, denominada Campo Volcánico Carrán-Los Venados.",
+    "La actividad eruptiva ligada a la formación de este campo volcánico es esencialmente posterior a las últimas glaciaciones, y se concentra en los últimos 10 mil años, es decir, durante la época geológica conocida como Holoceno. En el siglo XX se registraron tres erupciones correspondientes a la erupción del maar Riñinahue en 1907, la erupción del maar Carrán en 1955, y la erupción que condujo a la formación del cono Mirador en 1979.",
+    "Este cono tuvo su último ciclo eruptivo entre abril y mayo de ese año, al reactivarse un cono de escorias prehistórico, parcialmente destruido por la erosión y cubierto por vegetación arbórea. Esta erupción consistió en la emisión de piroclastos y tres flujos de lava, cuyo volumen total fue estimado en 9 millones de metros cúbicos.",
+    "El Campo Volcánico Carrán-Los Venados es una zona de alta actividad y peligrosidad, susceptible de comenzar un nuevo ciclo eruptivo en el transcurso de años o décadas, por lo que se ubica en el 6° lugar del ranking de riesgo específico de volcanes activos de Chile (Sernageomin, 2023), que ordena los volcanes según el riesgo que representan. Así, flujos de lava, oleadas piroclásticas, flujos laháricos y caída de material piroclástico podrían afectar seriamente a las comunidades aledañas. Sin embargo, esta misma situación convierte a este geositio en un lugar de gran interés científico, ya que permitiría registrar, directamente, cómo se forma un volcán desde sus etapas primarias."
+   ],
+   "pies": [
+    "Fotografía: panorama hacia el noreste desde la ruta T-709 donde se aprecia la laguna y un flanco del cráter del maar Carrán. Tras estos asoma la cima del cono Mirador completamente desprovisto de vegetación. Autora: Natalia Espina L., Sernageomin",
+    "Fotografía superior: vista hacia el este del cono Mirador desde la ruta T-709 que une Lago Ranco con Rupameica Alto. Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g40-1.webp",
+     "mini": "img/g40-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g40-2.webp",
+     "mini": "img/g40-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g40-3.webp",
+     "mini": "img/g40-3-t.webp",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "audio": {
+    "src": "audio/g40.mp3",
+    "dur": 123.2,
+    "marcas": [
+     0.0,
+     3.91,
+     29.59,
+     60.05,
+     80.83
+    ]
+   }
+  },
+  {
+   "id": "g41",
+   "orden": 41,
+   "slug": "sitio-paleoarqueologico-de-pilauco",
+   "nombre": "Sitio Paleoarqueológico de Pilauco",
+   "region": "Los Lagos",
+   "region_txt": "Región de Los Lagos",
+   "lat": -40.569922,
+   "lon": -73.103729,
+   "provincia": "Osorno",
+   "comuna": "Osorno",
+   "localidad": "Osorno",
+   "altitud": "33 m s.n.m.",
+   "interes": "paleontológico - paleoambiental",
+   "categoria": "paleontologico",
+   "valor": "científico",
+   "parrafos": [
+    "El sitio paleoarqueológico de Pilauco, descubierto en 1986, se ubica en la calle Río Cachapoal de la ciudad de Osorno. El hallazgo de cientos de piezas fósiles y decenas de artefactos de piedra tallados, pulidos y perforados en capas de un pantano de entre 16.400 y 12.700 años de antigüedad, permite entender parte de la historia del final de la época del Pleistoceno, de sus habitantes y de la megafauna que allí vivía.",
+    "Entre los fósiles encontrados se incluyen gonfoterios (parientes de elefantes), caballos americanos, hemiauquenias (antepasado del guanaco), xenartras (pariente del milodón), pericotes patagónicos, antifer (ciervo del pantano), coipos, pudúes, chingues, ciervos y aves, así como también algunos insectos, polen, semillas, madera, hierbas y plantas acuáticas de este antiguo pantano.",
+    "Del registro arqueológico destaca una huella humana de 15.600 años, la más antigua de Sudamérica registrada hasta el momento y que correspondería a la pisada de un individuo de unos 72 kilos y 1,82 m de altura.",
+    "A todo lo anterior se suma el descubrimiento de una serie de evidencias del impacto de un meteorito en la zona, lo que ha permitido enunciar la hipótesis de que este asteroide podría haber ocasionado la extinción de la megafauna hace 12.800 años, de la misma forma como se habrían extinguido los dinosaurios hace unos 66 millones de años.",
+    "La diversidad de la fauna fósil, el retroceso a los 20 mil años para la edad en que los seres humanos ingresaron a América, así como la posible explicación para la extinción de la megafauna, otorgan a este geositio un valor científico y educativo invaluable para el país y el mundo. Parte de estos hallazgos se exponen en la Sala Museográfica del Parque Pleistoceno Chuyaca ubicada en la calle Santa María 601 en la ciudad de Osorno."
+   ],
+   "pies": [
+    "Fotografía: área de excavación del geositio paleoarqueológico de Pilauco. Vista hacia la calle Río Cachapoal en dirección al sur. Autora: Natalia Espina L., Sernageomin.",
+    "Fotografía superior: instalaciones de la sala museográfica en el Parque Pleistoceno Chucaya donde se ponen de relieve las características de la extinta megafauna encontrada en Pilauco.",
+    "Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g41-1.webp",
+     "mini": "img/g41-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g41-2.webp",
+     "mini": "img/g41-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g41-3.webp",
+     "mini": "img/g41-3-t.webp",
+     "w": 848,
+     "h": 379
+    }
+   ],
+   "audio": {
+    "src": "audio/g41.mp3",
+    "dur": 124.7,
+    "marcas": [
+     0.0,
+     5.18,
+     34.37,
+     61.73,
+     77.04,
+     97.97
+    ]
+   }
+  },
+  {
+   "id": "g42",
+   "orden": 42,
+   "slug": "saltos-del-petrohue",
+   "nombre": "Saltos del Petrohué",
+   "region": "Los Lagos",
+   "region_txt": "Región de Los Lagos",
+   "lat": -41.17319,
+   "lon": -72.447546,
+   "provincia": "Llanquihue",
+   "comuna": "Puerto Varas",
+   "localidad": "Ensenada",
+   "altitud": "137 m s.n.m.",
+   "interes": "volcanológico - geomorfológico",
+   "categoria": "volcanico",
+   "valor": "recreativo",
+   "parrafos": [
+    "El geositio Saltos del Petrohué se localiza en el río del mismo nombre, a 6 km del desagüe del lago Todos Los Santos y es una de las atracciones más visitadas del Parque Nacional Vicente Pérez Rosales.",
+    "El origen de estos saltos se relaciona con coladas de lava que escurrieron hacia el sector sureste del edificio central del volcán Osorno, actualmente en el 8o lugar del ranking de riesgo específico de volcanes activos de Chile (Sernageomin, 2023), cuando todavía el valle del río estaba ocupado por los hielos de la última gran glaciación que afectó a esta zona durante el Pleistoceno Superior, denominada Glaciación Llanquihue.",
+    "Estas lavas bloquearon el valle del antiguo río Petrohué y, posteriormente, y hasta la actualidad, han sido desgastadas y esculpidas, tanto por la acción de los hielos glaciares como por las aguas del río, lo que ha dado como resultado una serie de saltos y canales labrados en la roca volcánica, que le otorgan una belleza excepcional al lugar. Se estima que estas lavas tienen entre 90 mil y 30 mil años de antigüedad por lo que serían del Pleistoceno Superior.",
+    "A esta singular manifestación geológica se suma un extraordinario entorno natural, el que forma parte de la reserva de la biósfera de bosques templados lluviosos de los Andes australes. La mayor parte de los bosques del parque corresponden al tipo siempreverde, en los cuales predominan canelo, coigüe, patagua y pitra. Entre la fauna es posible observar pudú, puma, huillín o nutria de río, pato correntino, carpintero negro, tagua común y martín pescador, además de dos especies de marsupiales, la comadrejita trompuda y el monito del monte."
+   ],
+   "pies": [
+    "Fotografía: vista hacia el norte del río Petrohué, sus saltos y la pasarela existente en el lugar, la que permite apreciar de cerca las maravillas de este geositio. Aurora: Natalia Espina L., Sernageomin.",
+    "Fotografía superior: río Petrohué cuyas aguas escurren a saltos sobre las lavas del volcán Osorno.",
+    "Autora: Natalia Espina L., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g42-1.webp",
+     "mini": "img/g42-1-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g42-2.webp",
+     "mini": "img/g42-2-t.webp",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/g42-3.webp",
+     "mini": "img/g42-3-t.webp",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "audio": {
+    "src": "audio/g42.mp3",
+    "dur": 103.5,
+    "marcas": [
+     0.0,
+     4.34,
+     17.23,
+     40.68,
+     68.52
+    ]
+   }
+  },
+  {
+   "id": "g43",
+   "orden": 43,
+   "slug": "domos-del-volcan-chaiten",
+   "nombre": "Domos del Volcán Chaitén",
+   "region": "Los Lagos",
+   "region_txt": "Región de Los Lagos",
+   "lat": -42.838414,
+   "lon": -72.653806,
+   "provincia": "Palena",
+   "comuna": "Chaitén",
+   "localidad": "Chaitén",
+   "altitud": "865 m s.n.m.",
+   "interes": "volcanológico - peligro geológico",
+   "categoria": "volcanico",
+   "valor": "científico",
+   "parrafos": [
+    "El volcán Chaitén se ubica a 10 km al noreste de la localidad del mismo nombre y tiene una caldera de 2,5 km de diámetro, en cuyo interior se dispone un conjunto de domos de lava que es producto de sus ciclos eruptivos recientes. Aunque no existe registro cronológico de sus etapas tempranas, se reconoce actividad recurrente en los últimos 15 mil años, es decir, desde el Pleistoceno Superior al presente, con eventos explosivos de diversa magnitud, además de la construcción y destrucción de domos de lava.",
+    "Su último ciclo eruptivo comenzó, violentamente, el 2 de mayo de 2008. A pesar de la ocurrencia de una notable sismicidad percibida previamente, la falta de una red instrumental impidió vincular este fenómeno al volcán Chaitén, de modo que su erupción explosiva resultó en un evento sorpresivo. En los primeros días, las columnas eruptivas alcanzaron casi 20 km de altura, lo que forzó la evacuación de la población de Chaitén. Los grandes volúmenes de ceniza volcánica caídas de estas columnas fueron luego movilizados debido a las fuertes lluvias ocurridas los días posteriores al inicio del evento. Esto generó aluviones volcánicos (lahares) que descendieron por el valle del río Blanco, lo que provocó la inundación y destrucción parcial de Chaitén.",
+    "La actividad explosiva dio paso a la generación de domos de lava al interior de la caldera. La inestabilidad del material volcánico acumulado durante meses provocó sucesivos colapsos de los domos que generaron flujos piroclásticos, los que alcanzaron las inmediaciones del pueblo. Hacia fines del año 2009 el crecimiento de los domos cesó, finalizando así el ciclo eruptivo.",
+    "Esta erupción contribuyó a la creación de la Red Nacional de Vigilancia Volcánica en Sernageomin, para el monitoreo de los volcanes más peligrosos del país, incluyendo este que se encuentra en el número 7 del ranking de riesgo específico de volcanes activos de Chile (Sernageomin, 2023). Actualmente los domos son visibles desde el pueblo de Chaitén y presentan abundante desgasificación de vapor de agua y aumentos de temperatura."
+   ],
+   "pies": [
+    "Fotografía superior: perspectiva aérea de la ciudad de Chaitén afectada por el lahar secundario ocurrido después de la erupción del volcán Chaitén el 2008. Autor: Álvaro Amigo R., Sernageomin. Fotografía inferior: aspecto actual de la caldera del volcán Chaitén con los domos de lava y la emisión continua de vapor de agua desde diversos puntos. Autor: Paul Duhart O., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g43-1.webp",
+     "mini": "img/g43-1-t.webp",
+     "w": 1200,
+     "h": 768
+    },
+    {
+     "src": "img/g43-2.webp",
+     "mini": "img/g43-2-t.webp",
+     "w": 1200,
+     "h": 798
+    }
+   ],
+   "audio": {
+    "src": "audio/g43.mp3",
+    "dur": 134.2,
+    "marcas": [
+     0.0,
+     4.54,
+     36.98,
+     85.66,
+     109.58
+    ]
+   }
+  },
+  {
+   "id": "g44",
+   "orden": 44,
+   "slug": "cerro-castillo",
+   "nombre": "Cerro Castillo",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "region_txt": "Región de Aysén del General Carlos Ibáñez del Campo",
+   "lat": -46.063889,
+   "lon": -72.204494,
+   "provincia": "General Carrera",
+   "comuna": "Río Ibáñez",
+   "localidad": "Villa Cerro Castillo",
+   "altitud": "2.318 m s.n.m.",
+   "interes": "geomorfológico - estratigráfico",
+   "categoria": "geomorfologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "Este geositio se ubica al interior del Parque Nacional Cerro Castillo, distante 7 km al noroeste de la localidad Villa Cerro Castillo. Este macizo rocoso, aledaño a la carretera Austral, tiene una altura de 2.318 m s.n.m. y destaca en el paisaje por su abrupto relieve, el colorido de sus rocas, el bosque nativo y sus glaciares, los que en su conjunto invitan a la contemplación. El cerro está constituido por rocas de diferente origen y edad, principalmente volcánicas del lapso Jurásico Superior-Cretácico Inferior, sedimentarias de ambiente marino del mismo lapso y magmáticas intrusivas del Cretácico Superior.",
+    "Las rocas de origen volcánico, agrupadas en la denominada Formación Ibáñez, provienen de violentas erupciones que ocurrieron en este sector entre 152 y 135 millones de años. Al final de este lapso, la actividad volcánica terminó y dio paso a un mar poco profundo donde se depositaron los sedimentos marinos que actualmente, junto con las rocas volcánicas, constituyen las rocas de este cerro e integran el denominado Grupo Coyhaique.",
+    "Las rocas intrusivas, que conforman el denominado Batolito Patagónico, se generaron en el área hace aproximadamente 98 a 93 millones de años, después del enfriamiento de un magma que penetró las rocas volcánicas y marinas más antiguas. Transcurridas decenas de millones de años, todas estas rocas quedaron expuestas en la superficie y fueron desgastadas y modeladas, de acuerdo con sus durezas y resistencia a los agentes erosivos, por los hielos de las sucesivas glaciaciones ocurridas durante el Pleistoceno.",
+    "Así se dio origen a sus penachos, de morfología escarpada y de altas pendientes, que semejan las torres de un castillo medieval y le dan el nombre a este llamativo macizo rocoso."
+   ],
+   "pies": [
+    "Fotografía superior: desde la quietud colorida de la Patagonia aysenina irrumpen las torres escarpadas que junto a los glaciares dan corporalidad y carácter al geositio Cerro Castillo. Fuente de la fotografía: Sernatur Aysén. Fotografía inferior: vista hacia el noroeste del cerro Castillo cubierto parcialmente por ventisqueros. En la parte baja, una laguna de color azul turquesa, originada por el derretimiento de los hielos glaciares. Autor: Felipe Andrade A."
+   ],
+   "fotos": [
+    {
+     "src": "img/g44-1.webp",
+     "mini": "img/g44-1-t.webp",
+     "w": 1200,
+     "h": 798
+    },
+    {
+     "src": "img/g44-2.webp",
+     "mini": "img/g44-2-t.webp",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "audio": {
+    "src": "audio/g44.mp3",
+    "dur": 118.9,
+    "marcas": [
+     0.0,
+     5.78,
+     46.94,
+     75.53,
+     107.47
+    ]
+   }
+  },
+  {
+   "id": "g45",
+   "orden": 45,
+   "slug": "capilla-de-marmol",
+   "nombre": "Capilla de Mármol",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "region_txt": "Región de Aysén del General Carlos Ibáñez del Campo",
+   "lat": -46.658649,
+   "lon": -72.627517,
+   "provincia": "General Carrera",
+   "comuna": "Chile Chico",
+   "localidad": "Puerto Río Tranquilo",
+   "altitud": "210 m s.n.m.",
+   "interes": "geomorfológico - petrológico",
+   "categoria": "geomorfologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "Este geositio se ubica 5 km al sureste de la localidad de Puerto Río Tranquilo, en las costas del lago General Carrera y a él se accede mediante navegación lacustre. Debido a su extraordinaria belleza fue declarado Santuario de la Naturaleza en junio de 1994.",
+    "Las rocas que forman este geositio son del lapso Devónico Superior-Carbonífero Superior y forman parte del denominado Complejo Metamórfico Andino Oriental. Como su nombre lo indica, el mármol es la roca principal de este lugar, aunque también existen otras rocas metamórficas conocidas como esquistos calcáreos.",
+    "En las cercanías de este geositio se pueden observar, además, una serie de llamativas islas y rocas de mármol, las que debido a sus formas son denominadas roca elefante, roca cabeza de perro y diversos nombres estimulados por la imaginación.",
+    "Tanto los mármoles como los esquistos calcáreos están compuestos, principalmente, por carbonato de calcio. El agua tiene la capacidad de disolver este mineral y ha ido modelando estas rocas desde hace unos 12 mil años, poco antes del comienzo del Holoceno, lo que dio lugar a la formación de columnas, estalactitas, estalagmitas, cuevas, fracturas y oquedades.",
+    "A su vez, la diversidad de minerales y estructuras cristalinas presentes en los mármoles y su distribución en bandas de distintas tonalidades, contribuyen a la variedad e intensidad de su colorido, características que son resaltadas por la luz reflejada en las aguas del lago. Así, tanto las formas como la coloración y el bandeamiento de estas rocas le otorgan a este geositio una belleza incomparable y lo convierten en una maravilla de la naturaleza."
+   ],
+   "pies": [
+    "Fotografías superiores: la disolución del mármol ha originado infinidad de llamativas formas e islotes. Fotografía inferior: las rocas del geositio Capilla de Mármol, de variado colorido, se traslucen y reflejan en las aguas de color turquesa del lago General Carrera. Autora: Paula Alarcón C., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g45-1.webp",
+     "mini": "img/g45-1-t.webp",
+     "w": 1140,
+     "h": 399
+    },
+    {
+     "src": "img/g45-2.webp",
+     "mini": "img/g45-2-t.webp",
+     "w": 1200,
+     "h": 801
+    }
+   ],
+   "audio": {
+    "src": "audio/g45.mp3",
+    "dur": 109.5,
+    "marcas": [
+     0.0,
+     5.9,
+     24.14,
+     43.78,
+     59.21,
+     82.56
+    ]
+   }
+  },
+  {
+   "id": "g46",
+   "orden": 46,
+   "slug": "piedra-clavada",
+   "nombre": "Piedra Clavada",
+   "region": "Aysén del General Carlos Ibáñez del Campo",
+   "region_txt": "Región de Aysén del General Carlos Ibáñez del Campo",
+   "lat": -46.731734,
+   "lon": -71.781509,
+   "provincia": "General Carrera",
+   "comuna": "Chile Chico",
+   "localidad": "Chile Chico",
+   "altitud": "940 m s.n.m.",
+   "interes": "geomorfológico - volcanológico",
+   "categoria": "geomorfologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "Este geositio se ubica al sur del lago General Carrera, en la Reserva Nacional Lago Jeinimeni, distante 25 km al suroeste de la localidad de Chile Chico. Las rocas de este geositio corresponden a remanentes de depósitos volcánicos originados por erupciones violentas y explosivas ocurridas en el lapso Jurásico Superior-Cretácico Inferior, aproximadamente hace 152 a 142 millones de años. Estas rocas forman parte de la denominada Formación Ibáñez y son representativas de los últimos episodios volcánicos ocurridos durante ese período geológico en esta región.",
+    "El geositio Piedra Clavada corresponde a un pináculo de roca volcánica de unos 40 m de altura y 6 a 8 m de diámetro y es uno de los ejemplos más llamativos de una serie de formas columnares presentes en el sector. El origen de estas formas se debe a que algunas zonas de las rocas volcánicas se endurecieron con la incorporación de sílice, lo que les otorgó a estos sectores una mayor resistencia al desgaste y la erosión. Debido a las fracturas existentes en las rocas y a la acción de los agentes atmosféricos como la lluvia, el hielo, la nieve, el viento y los contrastes térmicos, principalmente durante el Pleistoceno y el Holoceno, en las rocas endurecidas se modelaron estas formas caprichosas que se han conservado a lo largo del tiempo."
+   ],
+   "pies": [
+    "Fotografía izquierda: panorama hacia el norte del geositio Piedra Clavada, evidencia del volcanismo explosivo que se desarrolló en el territorio de la actual región de Aysén durante el lapso Jurásico-Cretácico. Autor: José Benado W. Fotografía derecha: en la región de Aysén, el geositio Piedra Clavada es un hito natural reconocido y protegido. Fuente de la fotografía: Sernatur Aysén.",
+    "Fotografía superior: detalle del geositio Piedra Clavada. Se aprecian algunas de sus capas de roca volcánica.",
+    "Autora: Marina Solís E."
+   ],
+   "fotos": [
+    {
+     "src": "img/g46-1.webp",
+     "mini": "img/g46-1-t.webp",
+     "w": 1280,
+     "h": 542
+    },
+    {
+     "src": "img/g46-2.webp",
+     "mini": "img/g46-2-t.webp",
+     "w": 720,
+     "h": 656
+    },
+    {
+     "src": "img/g46-3.webp",
+     "mini": "img/g46-3-t.webp",
+     "w": 900,
+     "h": 1200
+    }
+   ],
+   "audio": {
+    "src": "audio/g46.mp3",
+    "dur": 88.0,
+    "marcas": [
+     0.0,
+     5.78,
+     43.56
+    ]
+   }
+  },
+  {
+   "id": "g47",
+   "orden": 47,
+   "slug": "torres-y-cuernos-del-paine",
+   "nombre": "Torres y Cuernos del Paine",
+   "region": "Magallanes y de la Antártica Chilena",
+   "region_txt": "Región de Magallanes y de la Antártica Chilena",
+   "lat": -50.96506,
+   "lon": -72.981538,
+   "provincia": "Últimas Esperanza",
+   "comuna": "Torres del Paine",
+   "localidad": "Puerto Natales",
+   "altitud": "2.600 m s.n.m.",
+   "interes": "geomorfológico-geológico estructural",
+   "categoria": "geomorfologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "La cordillera Paine, lugar donde se emplaza este geositio, corona el Parque Nacional Torres del Paine, un sitio turístico de clase mundial declarado Reserva de la Biósfera en 1978 y ubicado a 150 km al norte de la ciudad de Puerto Natales, en la provincia de Última Esperanza. Esta cordillera está conformada por varios y prominentes cerros, como el Paine Grande, la cumbre más alta que supera los 3.000 m s.n.m., los Cuernos del Paine, que destacan entre los profundos valles glaciares Bader y El Francés, y las Torres del Paine compuesta por tres cumbres de unos 2.600 m de altura, la formación rocosa más representativa de esta Reserva de la Biósfera.",
+    "Además de las peculiares formas de las Torres y de los Cuernos del Paine, destaca en estos últimos la doble coloración constituida por una prominente banda rocosa de color blanco, con contactos extremadamente planos y nítidos con las rocas oscuras que la contienen.",
+    "Estas últimas corresponden a capas de rocas sedimentarias que revelan la existencia de un mar profundo durante el período Cretácico, las que han sido asignadas a las formaciones Punta Barrosa, del Cretácico Inferior a Superior, de aproximadamente 105 a 93 millones de años, y Cerro Toro, del Cretácico Superior, de 93 a 73 millones de años. Por otra parte, las rocas más claras son el resultado de la intrusión de, al menos, cuatro cuerpos magmáticos graníticos, que, en conjunto, cubren un área de 200 km2.",
+    "Estos granitos se emplazaron hace unos 13 millones de años, en el Mioceno Medio, en una zona de debilidad de la corteza denominada Falla Río Nutrias.",
+    "Tras millones de años enterradas, una seguidilla de procesos de alzamiento tectónico fracturó, deformó y levantó este conjunto de rocas por sobre los 2.000 m s.n.m., dejándolas expuestas a los procesos de erosión. Luego, durante el Pleistoceno, el conjunto de rocas fue intensamente afectado, de acuerdo con sus durezas y resistencias, por la acción de los hielos glaciares. Estos modelaron las inconfundibles y llamativas morfologías angulosas de cuernos, circos y aristas de esta cordillera, configurando así la magnificencia de un paisaje enriquecido por extensas estepas de coirón, el correr de los guanacos, el vuelo de las cachañas, densos bosques de ñirre y lenga, y llaretas que habitan incólumes la fría roca desnuda."
+   ],
+   "pies": [
+    "Fotografía: vista general de la cordillera Paine; a la izquierda destaca la cumbre más alta, el Paine Grande, y contiguo a este, las Torres del Paine. Autor: Andrés Muñoz V.",
+    "Fotografía superior: vista a las Torres del Paine desde el mirador Base Torres. Autor: Marcos Aguilar N.",
+    "Fotografía inferior derecha: detalle de las 3 columnas graníticas que conforman las Torres del Paine. Autor: Lorenzo Albertini."
+   ],
+   "fotos": [
+    {
+     "src": "img/g47-1.webp",
+     "mini": "img/g47-1-t.webp",
+     "w": 1200,
+     "h": 799
+    },
+    {
+     "src": "img/g47-2.webp",
+     "mini": "img/g47-2-t.webp",
+     "w": 1200,
+     "h": 663
+    },
+    {
+     "src": "img/g47-3.webp",
+     "mini": "img/g47-3-t.webp",
+     "w": 1206,
+     "h": 407
+    }
+   ],
+   "audio": {
+    "src": "audio/g47.mp3",
+    "dur": 157.4,
+    "marcas": [
+     0.0,
+     5.98,
+     49.56,
+     65.21,
+     100.97,
+     110.88
+    ]
+   }
+  },
+  {
+   "id": "g48",
+   "orden": 48,
+   "slug": "cono-de-pali-aike",
+   "nombre": "Cono de Pali-Aike",
+   "region": "Magallanes y de la Antártica Chilena",
+   "region_txt": "Región de Magallanes y de la Antártica Chilena",
+   "lat": -52.112219,
+   "lon": -69.707394,
+   "provincia": "Magallanes",
+   "comuna": "San Gregorio",
+   "localidad": "Puerto Natales",
+   "altitud": "235 m s.n.m.",
+   "interes": "volcanológico - geomorfológico",
+   "categoria": "volcanico",
+   "valor": "cultural",
+   "parrafos": [
+    "El cono de Pali-Aike (lugar desolado en lengua aóniken) se localiza en el parque nacional del mismo nombre, a 196 km al noreste de la ciudad de Punta Arenas. Forma parte del Campo Volcánico Pali-Aike, una extensa meseta volcánica de más de 7.500 km2, ubicada en la Patagonia, en el límite de Chile y Argentina y donde se concentran una serie de formas volcánicas como maares, conos de tobas, conos de piroclastos y coladas de lava.",
+    "Este cono corresponde a un pequeño edificio volcánico que tiene un cráter circular de 160 a 180 m de diámetro, con bordes de paredes abruptas (40-45° de pendiente) que se suavizan hacia la base a pendientes de 10-22° y cuya forma es de herradura abierta hacia el norte, lugar por donde escurrió un flujo de lava escasamente preservado. El cono Pali-Aike se generó debido a erupciones volcánicas ocurridas entre 130 mil y 17 mil años, en el Pleistoceno Medio a Superior.",
+    "Aunque está cubierto por vegetación y sedimentos eólicos, es posible reconocer sus estructuras volcánicas, al igual que en muchos otros centros eruptivos de este campo volcánico.",
+    "La ocurrencia y preservación al interior del cono de una cueva volcánica, la cueva Pali-Aike, realza su importancia cultural y científica debido a los significativos hallazgos arqueológicos que han permitido reconstruir la historia de los antiguos habitantes que poblaron la Patagonia austral. En ella se ha encontrado evidencia de ocupación humana, restos de animales y utensilios de piedra y huesos que datan de hace unos 9 mil años."
+   ],
+   "pies": [
+    "Fotografía: señalética que indica el camino al geositio Cono de Pali-Aike, el que destaca como suaves lomas en el horizonte. Autor: Marcos Aguilar N.",
+    "Fotografía superior izquierda: vista aérea hacia el suroeste del geositio Cono de Pali-Aike. Los bordes abruptos del cono se suavizan hacia el norte, lo que le otorga su característica forma de herradura. Fuente de la fotografía: Créditos a Filmagallanes, proyecto ejecutado por Corfo y financiado por GORE de Magallanes y Antártica Chilena.",
+    "Fotografía inferior: perspectiva aérea del pequeño edificio volcánico que presenta un cráter circular de 160 a 180 m de diámetro. Fuente de la fotografía: Créditos a Filmagallanes, proyecto ejecutado por Corfo y financiado por GORE de Magallanes y Antártica Chilena."
+   ],
+   "fotos": [
+    {
+     "src": "img/g48-1.webp",
+     "mini": "img/g48-1-t.webp",
+     "w": 1200,
+     "h": 578
+    },
+    {
+     "src": "img/g48-2.webp",
+     "mini": "img/g48-2-t.webp",
+     "w": 1280,
+     "h": 372
+    },
+    {
+     "src": "img/g48-3.webp",
+     "mini": "img/g48-3-t.webp",
+     "w": 1200,
+     "h": 899
+    }
+   ],
+   "audio": {
+    "src": "audio/g48.mp3",
+    "dur": 106.2,
+    "marcas": [
+     0.0,
+     5.54,
+     36.22,
+     68.93,
+     80.21
+    ]
+   }
+  },
+  {
+   "id": "g49",
+   "orden": 49,
+   "slug": "dientes-de-navarino",
+   "nombre": "Dientes de Navarino",
+   "region": "Magallanes y de la Antártica Chilena",
+   "region_txt": "Región de Magallanes y de la Antártica Chilena",
+   "lat": -55.015998,
+   "lon": -67.638683,
+   "provincia": "Antártica Chilena",
+   "comuna": "Cabo de Hornos",
+   "localidad": "Puerto Williams",
+   "altitud": "870 m s.n.m.",
+   "interes": "geomorfológico-geológico estructural",
+   "categoria": "geomorfologico",
+   "valor": "recreativo",
+   "parrafos": [
+    "El geositio Dientes de Navarino consiste en una cadena de cerros orientados en sentido este-oeste, ubicada en el centro de la isla Navarino, a unos 6 km al sur de Puerto Williams, la ciudad más austral del mundo.",
+    "Estos cerros están compuestos por capas de rocas sedimentarias marinas de la denominada Formación Yaghán, de 130 millones de años, es decir, del período Cretácico Inferior, y por rocas intrusivas denominadas dioritas, de 100 millones de años de antigüedad, del Cretácico Superior. Las dioritas forman cuerpos más resistentes a la erosión que las rocas sedimentarias marinas, por lo que constituyen, en gran parte, las cumbres de los Dientes de Navarino. Este conjunto de rocas fue levantado, fracturado y deformado debido a la acción de la falla geológica Alenghi, hace unos 85 millones de años, durante el período Cretácico Superior.",
+    "Las escarpadas cumbres rocosas que conforman el geositio Dientes de Navarino son los remanentes de la intensa acción abrasiva ejercida entre 300 y 14 mil años, en el Pleistoceno Medio a Superior, por el lento flujo de masas de hielo glaciar cargadas de fragmentos rocosos. El flujo erosivo de las masas glaciares también quedó evidenciado en los valles en forma de “U”, o de fondos amplios, que se observan en la isla y en estos cerros.",
+    "Debido a su extraordinaria belleza y a los singulares ecosistemas que aquí se desarrollan, la isla fue integrada a las rutas patrimoniales del Ministerio de Bienes Nacionales en 2001 y declarada parte de la Reserva de la Biósfera Cabo de Hornos en 2005, lo que ha contribuido a la protección y puesta en valor de este geositio ubicado en el fin del mundo."
+   ],
+   "pies": [
+    "Fotografía superior: el geositio Dientes de Navarino y su entorno visto hacia el noreste. Autor: Esteban Salazar P., Sernageomin.",
+    "Fotografía superior: vista hacia el este del geositio Dientes de Navarino en la que se destaca su actual morfología, resultante de la acción glaciar. Figura inferior: en la misma fotografía se señalan las unidades litológicas y algunos rasgos geológicos y geomorfológicos característicos de este geositio. Autor e interpretación geológica: Esteban Salazar P., Sernageomin."
+   ],
+   "fotos": [
+    {
+     "src": "img/g49-1.webp",
+     "mini": "img/g49-1-t.webp",
+     "w": 1200,
+     "h": 442
+    },
+    {
+     "src": "img/g49-2.webp",
+     "mini": "img/g49-2-t.webp",
+     "w": 1200,
+     "h": 732
+    }
+   ],
+   "audio": {
+    "src": "audio/g49.mp3",
+    "dur": 108.0,
+    "marcas": [
+     0.0,
+     5.66,
+     19.68,
+     60.58,
+     87.22
+    ]
+   }
+  }
+ ],
+ "portada": {
+  "src": "img/portada.webp",
+  "mini": "img/portada-t.webp",
+  "w": 1280,
+  "h": 853
+ },
+ "audio_intro": {
+  "src": "audio/intro.mp3",
+  "dur": 333.7,
+  "marcas": [
+   0.0,
+   5.33,
+   26.23,
+   31.01,
+   174.29,
+   179.83
+  ]
+ }
+}

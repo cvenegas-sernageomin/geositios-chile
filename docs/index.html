@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Geositios de Chile</title>
+<meta name="description" content="Recorre con tu GPS los 49 geositios del libro Geositios de Chile (Sernageomin): narración, sellos, quiz y glosario.">
+<meta name="theme-color" content="#152634">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- Bienvenida (primera vez) -->
+<div id="bienvenida" class="bienvenida" hidden>
+  <div class="bv-foto"><img id="bv-img" alt=""></div>
+  <div class="bv-cuerpo">
+    <p class="sobre">Sernageomin · 2023</p>
+    <h1>Geositios de Chile</h1>
+    <p class="sub">Una mirada a sus maravillas geológicas</p>
+    <ul class="bv-lista">
+      <li><span>🗺️</span> Recorre 49 lugares donde la Tierra cuenta su historia</li>
+      <li><span>🎧</span> Escucha cada geositio narrado</li>
+      <li><span>📍</span> Llega con tu GPS y gana su sello en el pasaporte</li>
+      <li><span>🧠</span> Responde el quiz y colecciona insignias</li>
+    </ul>
+    <button id="bv-ok" class="btn primario grande">Comenzar el viaje</button>
+  </div>
+</div>
+
+<main id="vistas">
+  <!-- MAPA -->
+  <section id="v-mapa" class="vista">
+    <div id="mapa"></div>
+    <div class="mapa-top">
+      <div class="nivel-pill" id="nivel-pill" role="button" tabindex="0"></div>
+      <button class="btn-redondo" id="btn-capas" aria-label="Cambiar mapa base">🗺️</button>
+    </div>
+    <button class="btn-redondo gps" id="btn-gps" aria-label="Centrar en mi posición">📍</button>
+    <div class="mas-cercano" id="mas-cercano" hidden></div>
+  </section>
+
+  <!-- CERCA DE MÍ / EXPLORAR -->
+  <section id="v-cerca" class="vista" hidden>
+    <header class="cab">
+      <h2 id="cerca-titulo">Explorar</h2>
+      <input id="buscar" type="search" placeholder="Buscar geositio, comuna, roca…" autocomplete="off">
+      <div class="filtros" id="filtros-cat"></div>
+      <select id="filtro-region" aria-label="Región"><option value="">Todas las regiones</option></select>
+    </header>
+    <ol class="lista" id="lista"></ol>
+  </section>
+
+  <!-- PASAPORTE -->
+  <section id="v-pasaporte" class="vista" hidden>
+    <header class="cab">
+      <h2>Mi pasaporte</h2>
+      <div class="resumen-puntos" id="resumen-puntos"></div>
+    </header>
+    <h3 class="sec">Insignias</h3>
+    <div class="insignias" id="insignias"></div>
+    <h3 class="sec">Sellos <small>📍 visitado · 🧠 estudiado</small></h3>
+    <div class="sellos" id="sellos"></div>
+  </section>
+
+  <!-- LIBRO -->
+  <section id="v-libro" class="vista" hidden>
+    <div class="portada"><img id="portada-img" alt="Portada: Cerro Castillo"></div>
+    <div class="libro-cuerpo">
+      <p class="sobre">Sernageomin · 2023</p>
+      <h2>Geositios de Chile</h2>
+      <p class="sub">Una mirada a sus maravillas geológicas</p>
+      <p id="lema" class="lema"></p>
+      <button class="btn primario" id="btn-intro">▶ Escuchar introducción y prólogos</button>
+      <div id="prologos"></div>
+      <p class="pie-foto" id="pie-portada"></p>
+
+      <h3 class="sec">Para terreno</h3>
+      <div class="tarjeta">
+        <p>Descarga fotos y narraciones para usar la app sin señal. El mapa base solo guarda las zonas que ya viste.</p>
+        <div class="fila-botones">
+          <button class="btn" id="btn-descargar">⬇ Descargar todo</button>
+        </div>
+        <div class="progreso" id="descarga-prog" hidden><div></div><span></span></div>
+      </div>
+
+      <h3 class="sec">Glosario geológico</h3>
+      <input id="buscar-glosario" type="search" placeholder="Buscar término…">
+      <dl class="glosario" id="glosario"></dl>
+
+      <h3 class="sec">Créditos</h3>
+      <div class="tarjeta creditos">
+        <p id="referencia"></p>
+        <p>Textos y fotografías del libro; los autores de cada foto se indican en su ficha. Narración generada con voz sintética. Quiz y glosario elaborados a partir de los textos del libro.</p>
+        <p>Mapas: © OpenStreetMap, Esri.</p>
+        <button class="btn peque" id="btn-reset">Reiniciar mi progreso</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- FICHA (se superpone) -->
+<article id="ficha" class="ficha" hidden aria-modal="true" role="dialog">
+  <div class="ficha-scroll" id="ficha-scroll"></div>
+</article>
+
+<!-- Reproductor de narración (global: sigue sonando fuera de la ficha) -->
+<div class="reproductor" id="reproductor" hidden>
+  <button class="rep-play" id="rep-play" aria-label="Reproducir">▶</button>
+  <div class="rep-centro">
+    <div class="rep-titulo" id="rep-titulo"></div>
+    <input type="range" id="rep-barra" min="0" max="100" value="0" step="0.1" aria-label="Posición">
+  </div>
+  <button class="rep-vel" id="rep-vel" aria-label="Velocidad">1×</button>
+</div>
+
+<!-- Tarjeta de glosario / avisos -->
+<div id="hoja" class="hoja" hidden><div class="hoja-in" id="hoja-in"></div></div>
+<div id="toast" class="toast" hidden></div>
+<div id="sello-anim" class="sello-anim" hidden></div>
+
+<nav class="tabs" id="tabs">
+  <a href="#/" data-v="mapa"><span>🗺️</span>Mapa</a>
+  <a href="#/cerca" data-v="cerca"><span>🧭</span>Explorar</a>
+  <a href="#/pasaporte" data-v="pasaporte"><span>🎖️</span>Pasaporte</a>
+  <a href="#/libro" data-v="libro"><span>📖</span>Libro</a>
+</nav>
+
+<audio id="audio" preload="none"></audio>
+<script src="vendor/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
