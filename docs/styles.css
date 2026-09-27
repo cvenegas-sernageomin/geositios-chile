@@ -332,3 +332,21 @@ details.prologo p { font-size: 16px; }
 .ir-mapa-ico { font-size: 38px; flex: none; }
 .ir-mapa-flecha { margin-left: auto; font-size: 26px; font-weight: 700; flex: none; }
 @keyframes latido { 50% { transform: scale(1.025); } }
+
+/* Instalar / pantalla completa */
+#btn-fs { color: var(--tinta); }
+#btn-fs.activo { background: var(--acento); color: #fff; }
+.bv-instalar { display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 10px; padding: 10px; border-radius: 12px;
+  background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.35); color: #fff; font: inherit; font-weight: 700; font-size: 16px; }
+.bv-instalar[hidden] { display: none; }
+.bv-instalar small { font-weight: 400; font-size: 12.5px; color: #cfd8df; margin-top: 2px; }
+.pasos-ios { padding-left: 0; list-style: none; counter-reset: paso; display: grid; gap: 12px; margin: 14px 0 18px; }
+.pasos-ios li { counter-increment: paso; display: flex; gap: 12px; align-items: center; line-height: 1.35; }
+.pasos-ios li::before { content: counter(paso); flex: none; width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; background: var(--acento); color: #fff; font-weight: 700; }
+.ico-compartir { width: 22px; height: 22px; vertical-align: -5px; color: #2f7de1; }
+.flecha-compartir { position: fixed; z-index: 1600; font-size: 38px; color: var(--acento); text-shadow: 0 0 3px #fff, 0 2px 10px rgba(0,0,0,.4); line-height: 1; pointer-events: none; animation: rebote 1s ease-in-out infinite; }
+.flecha-compartir.abajo { left: 50%; bottom: calc(6px + env(safe-area-inset-bottom)); margin-left: -16px; }
+.flecha-compartir.arriba { right: 70px; top: calc(4px + env(safe-area-inset-top)); }
+@keyframes rebote { 50% { transform: translateY(8px); } }
+.flecha-compartir.arriba { animation-name: rebote-arriba; }
+@keyframes rebote-arriba { 50% { transform: translateY(-8px); } }

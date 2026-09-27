@@ -11,6 +11,9 @@
 <link rel="icon" href="icons/favicon.png">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Geositios">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="vendor/leaflet.css">
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -37,6 +40,7 @@
     <p class="sub" data-t="subtitulo">Una mirada a sus maravillas geológicas</p>
     <ul class="bv-lista" id="bv-lista"></ul>
     <button id="bv-ok" class="btn primario grande" data-t="comenzar">Comenzar el viaje</button>
+    <button id="bv-instalar" class="btn-instalar bv-instalar" hidden><span data-t="instalar"></span><small data-t="instalar_sub"></small></button>
     <p class="bv-firma" data-t="dev">App desarrollada por Carlos Venegas</p>
   </div>
 </div>
@@ -49,6 +53,7 @@
       <div class="nivel-pill" id="nivel-pill" role="button" tabindex="0"></div>
       <div class="mapa-botones">
         <div class="idioma-banderas" role="group" aria-label="Idioma / Language"><button data-lang="es" aria-label="Español"><svg class="bandera"><use href="#bandera-cl"/></svg></button><button data-lang="en" aria-label="English"><svg class="bandera"><use href="#bandera-gb"/></svg></button></div>
+        <button class="btn-redondo" id="btn-fs" data-t-aria="pantalla_completa" hidden><svg viewBox="0 0 24 24" width="22" height="22"><path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
         <button class="btn-redondo" id="btn-capas" aria-label="Mapa base / Base map">🗺️</button>
       </div>
     </div>
@@ -109,6 +114,7 @@
         <p data-t="terreno_txt"></p>
         <div class="fila-botones">
           <button class="btn" id="btn-descargar" data-t="descargar_todo"></button>
+          <button class="btn primario btn-instalar" id="btn-instalar" data-t="instalar" hidden></button>
         </div>
         <div class="progreso" id="descarga-prog" hidden><div></div><span></span></div>
       </div>

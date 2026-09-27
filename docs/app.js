@@ -28,6 +28,12 @@ const TXT = {
   es: {
     bv_lista: ['Recorre 49 lugares donde la Tierra cuenta su historia', 'Escucha cada geositio narrado', 'Llega con tu GPS y gana su sello en el pasaporte', 'Responde el quiz y colecciona insignias'],
     comenzar: 'Comenzar el viaje', subtitulo: 'Una mirada a sus maravillas geológicas', titulo: 'Geositios de Chile',
+    instalar: '📲 Instalar como app', instalar_sub: 'Pantalla completa, sin barra del navegador y funciona sin señal.',
+    instalada_ok: '¡Listo! Ábrela desde el ícono <b>Geositios</b> de tu teléfono', pantalla_completa: 'Pantalla completa',
+    ios_t: 'Úsala en pantalla completa', ios_intro: 'Agrega Geositios a tu pantalla de inicio: se abre sin la barra del navegador, como una app, y funciona sin señal.',
+    ios_1: 'Toca el botón <b>Compartir</b> {ico} de Safari', ios_1_chrome: 'Toca el botón <b>Compartir</b> {ico} junto a la barra de direcciones',
+    ios_2: 'Desliza y elige <b>«Agregar a pantalla de inicio»</b> ➕', ios_3: 'Abre <b>Geositios</b> desde el nuevo ícono',
+    ios_ok: 'Entendido', no_mostrar: 'No volver a mostrar', ios_rec: '📲 Úsala sin la barra del navegador', como: '¿Cómo?',
     dev: 'App desarrollada por Carlos Venegas', dev_corto: 'Desarrollo: Carlos Venegas',
     tab_mapa: 'Mapa', tab_cerca: 'Explorar', tab_pasaporte: 'Pasaporte', tab_libro: 'Libro',
     buscar: 'Buscar geositio, comuna, roca…', todas_regiones: 'Todas las regiones', todos: 'Todos',
@@ -86,6 +92,12 @@ const TXT = {
   en: {
     bv_lista: ['Travel to 49 places where the Earth tells its story', 'Listen to each geosite narrated', 'Reach it with your GPS and earn its passport stamp', 'Take the quiz and collect badges'],
     comenzar: 'Start the journey', subtitulo: 'A look at its geological wonders', titulo: 'Geosites of Chile',
+    instalar: '📲 Install as an app', instalar_sub: 'Full screen, no browser bar, and it works without signal.',
+    instalada_ok: 'Done! Open it from the <b>Geositios</b> icon on your phone', pantalla_completa: 'Full screen',
+    ios_t: 'Use it in full screen', ios_intro: 'Add Geositios to your Home Screen: it opens without the browser bar, like an app, and works without signal.',
+    ios_1: 'Tap Safari’s <b>Share</b> button {ico}', ios_1_chrome: 'Tap the <b>Share</b> button {ico} next to the address bar',
+    ios_2: 'Scroll down and choose <b>“Add to Home Screen”</b> ➕', ios_3: 'Open <b>Geositios</b> from the new icon',
+    ios_ok: 'Got it', no_mostrar: 'Don’t show again', ios_rec: '📲 Use it without the browser bar', como: 'How?',
     dev: 'App developed by Carlos Venegas', dev_corto: 'Developed by Carlos Venegas',
     tab_mapa: 'Map', tab_cerca: 'Explore', tab_pasaporte: 'Passport', tab_libro: 'Book',
     buscar: 'Search geosite, town, rock…', todas_regiones: 'All regions', todos: 'All',
@@ -789,8 +801,79 @@ async function cargarDatos() {
   }
   D = d; QUIZ = q; GLOS = gl; SITIOS = D.sitios; POR_ID = Object.fromEntries(SITIOS.map(s => [s.id, s]));
 }
+// ---------------------------------------------------------------- pantalla completa e instalación
+// Ningún navegador permite pantalla completa sin un toque: se pide en el primer toque de cada visita.
+// iPhone no tiene Fullscreen API → la única forma sin barra es "Agregar a pantalla de inicio" (guía).
+const INSTALADA = ['standalone', 'fullscreen'].some(m => matchMedia(`(display-mode: ${m})`).matches) || navigator.standalone === true;
+const ES_IOS = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+const PUEDE_FS = !INSTALADA && !!document.fullscreenEnabled;
+const CADA_RECORDATORIO = 3 * 864e5;
+let pedidoInstalar = null;
+
+function pantallaCompleta() {
+  if (!PUEDE_FS || document.fullscreenElement) return;
+  document.documentElement.requestFullscreen({ navigationUI: 'hide' }).catch(() => {});
+}
+function alternarPantalla() {
+  if (document.fullscreenElement) { store.set('pantalla-completa', false); document.exitFullscreen().catch(() => {}); }
+  else { store.set('pantalla-completa', true); pantallaCompleta(); }
+}
+if (PUEDE_FS) {
+  const primerToque = e => {
+    // el botón Instalar necesita el gesto para sí (requestFullscreen lo consume)
+    if (e.target.closest && e.target.closest('.btn-instalar, #btn-fs, #toast button')) return;
+    document.removeEventListener('click', primerToque, true);
+    if (store.get('pantalla-completa', true)) pantallaCompleta();
+  };
+  document.addEventListener('click', primerToque, true);
+  document.addEventListener('fullscreenchange', () => $('#btn-fs').classList.toggle('activo', !!document.fullscreenElement));
+}
+
+window.addEventListener('beforeinstallprompt', e => {
+  e.preventDefault(); pedidoInstalar = e; mostrarInstalar();
+  if (store.get('bienvenida')) setTimeout(recordarInstalar, 5000);
+});
+window.addEventListener('appinstalled', () => { pedidoInstalar = null; mostrarInstalar(); toast(t('instalada_ok'), 8000); });
+function mostrarInstalar() {
+  $('#bv-instalar').hidden = !pedidoInstalar;
+  $('#btn-instalar').hidden = INSTALADA || !(pedidoInstalar || ES_IOS);
+  $('#btn-fs').hidden = !PUEDE_FS;
+}
+function instalar() {
+  if (pedidoInstalar) {
+    pedidoInstalar.prompt();
+    pedidoInstalar.userChoice.finally(() => { pedidoInstalar = null; mostrarInstalar(); });
+  } else if (ES_IOS) guiaIOS(true);
+}
+const ICO_COMPARTIR = '<svg class="ico-compartir" viewBox="0 0 24 24" aria-label="Compartir / Share"><path d="M12 3v12M7.5 7.5 12 3l4.5 4.5M8 10H6v11h12V10h-2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+function guiaIOS(manual) {
+  const chrome = /CriOS/.test(navigator.userAgent);
+  const ipad = /ipad/i.test(navigator.userAgent) || navigator.platform === 'MacIntel';
+  store.set('guia-instalar', { ...store.get('guia-instalar', {}), ts: Date.now() });
+  hoja(`<h3>📲 ${t('ios_t')}</h3><p>${t('ios_intro')}</p>
+    <ol class="pasos-ios">
+      <li><span>${t(chrome ? 'ios_1_chrome' : 'ios_1').replace('{ico}', ICO_COMPARTIR)}</span></li>
+      <li><span>${t('ios_2')}</span></li><li><span>${t('ios_3')}</span></li>
+    </ol>
+    <div class="fila-botones"><button class="btn primario" data-cerrar>${t('ios_ok')}</button>${manual ? '' : `<button class="btn peque" id="ios-nunca" data-cerrar>${t('no_mostrar')}</button>`}</div>
+    <div class="flecha-compartir ${ipad || chrome ? 'arriba' : 'abajo'}" aria-hidden="true">${ipad || chrome ? '⬆' : '⬇'}</div>`);
+  const nunca = $('#ios-nunca');
+  if (nunca) nunca.addEventListener('click', () => store.set('guia-instalar', { nunca: true, ts: Date.now() }));
+}
+// Recordatorio discreto en visitas posteriores, como máximo cada 3 días
+function recordarInstalar() {
+  if (INSTALADA || !$('#bienvenida').hidden || !$('#hoja').hidden) return;
+  const g = store.get('guia-instalar', {});
+  if (g.nunca || Date.now() - (g.ts || 0) < CADA_RECORDATORIO) return;
+  if (ES_IOS) { store.set('guia-instalar', { ...g, ts: Date.now() }); toast(t('ios_rec'), 9000, { txt: t('como'), fn: () => guiaIOS(false) }); }
+  else if (pedidoInstalar) { store.set('guia-instalar', { ...g, ts: Date.now() }); toast(t('instalar_sub'), 9000, { txt: t('instalar'), fn: instalar }); }
+}
+
 async function iniciar() {
   traducirHTML();
+  mostrarInstalar();
+  $('#bv-instalar').onclick = $('#btn-instalar').onclick = instalar;
+  $('#btn-fs').onclick = alternarPantalla;
   await cargarDatos();
   prepararGlosario();
   iniciarMapa();
@@ -801,8 +884,11 @@ async function iniciar() {
 
   if (!store.get('bienvenida')) {
     $('#bv-img').src = D.portada.src; $('#bienvenida').hidden = false;
-    $('#bv-ok').onclick = () => { store.set('bienvenida', 1); store.set('lang', LANG); $('#bienvenida').hidden = true; iniciarGPS(true); };
-  }
+    $('#bv-ok').onclick = () => {
+      store.set('bienvenida', 1); store.set('lang', LANG); $('#bienvenida').hidden = true; iniciarGPS(true);
+      if (ES_IOS && !INSTALADA) setTimeout(() => guiaIOS(false), 900);
+    };
+  } else setTimeout(recordarInstalar, 5000);
   const sim = new URLSearchParams(location.search).get('sim');
   if (sim) { const [la, lo] = sim.split(',').map(Number); simularPosicion(la, lo); }
   else if (store.get('gps')) {
