@@ -1,6 +1,6 @@
 {
   "name": "Geositios de Chile",
-  "short_name": "Geositios",
+  "short_name": "Geositios de Chile",
   "description": "Recorre con tu GPS los 49 geositios del libro Geositios de Chile (Sernageomin): narración, sellos, quiz y glosario.",
   "lang": "es-CL",
   "start_url": "./",

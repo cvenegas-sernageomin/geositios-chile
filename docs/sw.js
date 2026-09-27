@@ -1,7 +1,7 @@
 /* Service worker de Geositios de Chile.
    OJO: el origen cvenegas-sernageomin.github.io es compartido con otras PWAs (Geonotas, etc.):
    caches.keys() devuelve también sus cachés. Solo se purgan las que calzan con MIAS. */
-const VERSION = 'geositios-chile-v6';
+const VERSION = 'geositios-chile-v7';
 const SHELL = VERSION + '-shell';
 const MEDIA = 'geositios-chile-media-v1';   // fotos y audios (misma constante en app.js)
 const TILES = 'geositios-chile-tiles';
